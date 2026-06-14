@@ -18,7 +18,27 @@ DNAWorks (Hoover & Lubkowski, *Nucleic Acids Res.* 2002) is a widely used Fortra
 ```bash
 git clone https://github.com/AdamTSmiley/dnaworks_py.git
 cd dnaworks_py
-pip install biopython
+```
+
+**With conda** (recommended):
+```bash
+conda env create -f environment.yml
+conda activate dnaworks
+```
+
+**With pip**:
+```bash
+pip install .
+```
+
+**For development** (editable install):
+```bash
+pip install -e .
+```
+
+To run the benchmark comparison, install optional dependencies:
+```bash
+pip install ".[benchmark]"
 ```
 
 ## Usage
@@ -147,8 +167,14 @@ No statistically significant differences in any design quality metric (all p > 0
 
 ## Dependencies
 
+**Core** (installed automatically):
 - Python ≥ 3.10
-- [BioPython](https://biopython.org/) (`pip install biopython`)
+- [BioPython](https://biopython.org/) ≥ 1.80
+
+**Benchmark only** (`pip install ".[benchmark]"`):
+- matplotlib
+- scipy
+- [ViennaRNA](https://www.tbi.univie.ac.at/RNA/)
 
 ## References
 

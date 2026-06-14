@@ -1,0 +1,9 @@
+name: dnaworks
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python>=3.10
+  - biopython>=1.80
+  - pip
