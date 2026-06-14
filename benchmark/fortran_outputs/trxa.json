@@ -1,0 +1,121 @@
+{
+  "gene_length": 330,
+  "num_oligos": 8,
+  "num_overlaps": 7,
+  "oligos": [
+    {
+      "index": 1,
+      "sequence": "ATGAGCGATAAAATTATTCACCTGACTGACGACAGTTTTGACACGGATGTACTCAAAG",
+      "length": 58
+    },
+    {
+      "index": 2,
+      "sequence": "ACCACTCTGCCCAGAAATCGACGAGGATCGCCCCGTCCGCTTTGAGTACATCCGTGTCAA",
+      "length": 60
+    },
+    {
+      "index": 3,
+      "sequence": "GATTTCTGGGCAGAGTGGTGCGGTCCGTGCAAAATGATCGCCCCGATTCTGGATGAAATC",
+      "length": 60
+    },
+    {
+      "index": 4,
+      "sequence": "TCAGTTTTGCAACGGTCAGTTTGCCCTGATATTCGTCAGCGATTTCATCCAGAATCGGGG",
+      "length": 60
+    },
+    {
+      "index": 5,
+      "sequence": "CTGACCGTTGCAAAACTGAACATCGATCAAAACCCTGGCACTGCGCCGAAATATGGCATC",
+      "length": 60
+    },
+    {
+      "index": 6,
+      "sequence": "CACTTCACCGTTTTTGAACAGCAGCAGAGTCGGGATACCACGGATGCCATATTTCGGCGC",
+      "length": 60
+    },
+    {
+      "index": 7,
+      "sequence": "CTGTTCAAAAACGGTGAAGTGGCGGCAACCAAAGTGGGTGCACTGTCTAAAGGTCAGTTG",
+      "length": 60
+    },
+    {
+      "index": 8,
+      "sequence": "TTAGGCCAGGTTAGCGTCGAGGAACTCTTTCAACTGACCTTTAGACAGTGC",
+      "length": 51
+    }
+  ],
+  "overlaps": [
+    {
+      "index": 1,
+      "start": 38,
+      "end": 58,
+      "length": 21,
+      "sequence": "TTGACACGGATGTACTCAAAG"
+    },
+    {
+      "index": 2,
+      "start": 79,
+      "end": 97,
+      "length": 19,
+      "sequence": "GATTTCTGGGCAGAGTGGT"
+    },
+    {
+      "index": 3,
+      "start": 119,
+      "end": 138,
+      "length": 20,
+      "sequence": "CCCCGATTCTGGATGAAATC"
+    },
+    {
+      "index": 4,
+      "start": 160,
+      "end": 178,
+      "length": 19,
+      "sequence": "CTGACCGTTGCAAAACTGA"
+    },
+    {
+      "index": 5,
+      "start": 202,
+      "end": 219,
+      "length": 18,
+      "sequence": "GCGCCGAAATATGGCATC"
+    },
+    {
+      "index": 6,
+      "start": 241,
+      "end": 261,
+      "length": 21,
+      "sequence": "CTGTTCAAAAACGGTGAAGTG"
+    },
+    {
+      "index": 7,
+      "start": 280,
+      "end": 300,
+      "length": 21,
+      "sequence": "GCACTGTCTAAAGGTCAGTTG"
+    }
+  ],
+  "scores": {
+    "codon": 0.0,
+    "length": 0.0,
+    "tm": 0.0,
+    "repeat": 4.121,
+    "pattern": 0.0,
+    "misprime": 0.0,
+    "at": 1.939,
+    "gc": 0.0,
+    "overall": 6.061
+  },
+  "summary": {
+    "trial": 1,
+    "target_tm": 62,
+    "target_length": 60,
+    "overall_score": 6.061,
+    "tm_range": 1.0,
+    "shortest_oligo": 18,
+    "longest_oligo": 60,
+    "num_oligos": 8,
+    "num_repeats": 4,
+    "num_misprimes": 0
+  }
+}

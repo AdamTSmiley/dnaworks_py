@@ -1,0 +1,231 @@
+{
+  "sequence_length": 549,
+  "gc_content": 54.3,
+  "parameters": {
+    "target_tm": 62.0,
+    "tm_tolerance": 2.0,
+    "oligo_length": 60,
+    "tm_method": "breslauer86",
+    "na_mm": 50.0,
+    "mg_mm": 0.0,
+    "dnac_nm": 250.0
+  },
+  "scores": {
+    "tm": 0.004,
+    "misprime": 0.0,
+    "length": 0.0,
+    "repeat": 4.08,
+    "gc": 2.914,
+    "at": 1.457,
+    "total": 8.455
+  },
+  "num_overlaps": 13,
+  "num_oligos": 14,
+  "overlaps": [
+    {
+      "index": 1,
+      "start": 1,
+      "end": 21,
+      "length": 21,
+      "tm": 62.3
+    },
+    {
+      "index": 2,
+      "start": 39,
+      "end": 60,
+      "length": 22,
+      "tm": 61.7
+    },
+    {
+      "index": 3,
+      "start": 76,
+      "end": 98,
+      "length": 23,
+      "tm": 62.5
+    },
+    {
+      "index": 4,
+      "start": 121,
+      "end": 135,
+      "length": 15,
+      "tm": 62.8
+    },
+    {
+      "index": 5,
+      "start": 162,
+      "end": 180,
+      "length": 19,
+      "tm": 62.8
+    },
+    {
+      "index": 6,
+      "start": 203,
+      "end": 221,
+      "length": 19,
+      "tm": 63.2
+    },
+    {
+      "index": 7,
+      "start": 248,
+      "end": 262,
+      "length": 15,
+      "tm": 63.0
+    },
+    {
+      "index": 8,
+      "start": 288,
+      "end": 307,
+      "length": 20,
+      "tm": 63.3
+    },
+    {
+      "index": 9,
+      "start": 326,
+      "end": 347,
+      "length": 22,
+      "tm": 62.5
+    },
+    {
+      "index": 10,
+      "start": 374,
+      "end": 385,
+      "length": 12,
+      "tm": 64.4
+    },
+    {
+      "index": 11,
+      "start": 412,
+      "end": 433,
+      "length": 22,
+      "tm": 63.2
+    },
+    {
+      "index": 12,
+      "start": 458,
+      "end": 471,
+      "length": 14,
+      "tm": 63.0
+    },
+    {
+      "index": 13,
+      "start": 502,
+      "end": 517,
+      "length": 16,
+      "tm": 62.0
+    }
+  ],
+  "oligos": [
+    {
+      "index": 1,
+      "strand": "sense",
+      "length": 21,
+      "start": 1,
+      "end": 21,
+      "sequence": "ATGGACAAAGACTGCGAGATG"
+    },
+    {
+      "index": 2,
+      "strand": "antisense",
+      "length": 60,
+      "start": 1,
+      "end": 60,
+      "sequence": "TTCTAACTTGCCTAACGGAGAATCCAAAGTGGTGCGTTTCATCTCGCAGTCTTTGTCCAT"
+    },
+    {
+      "index": 3,
+      "strand": "sense",
+      "length": 60,
+      "start": 39,
+      "end": 98,
+      "sequence": "TTCTCCGTTAGGCAAGTTAGAACTGAGCGGCTGCGAACAGGGTCTGCATGAAATTAAACT"
+    },
+    {
+      "index": 4,
+      "strand": "antisense",
+      "length": 60,
+      "start": 76,
+      "end": 135,
+      "sequence": "TTCAACCGCATCGGCCGCGCTCGTGCCTTTGCCCAGCAGTTTAATTTCATGCAGACCCTG"
+    },
+    {
+      "index": 5,
+      "strand": "sense",
+      "length": 60,
+      "start": 121,
+      "end": 180,
+      "sequence": "GCCGATGCGGTTGAAGTGCCAGCTCCAGCTGCGGTTTTAGGTGGCCCAGAACCATTAATG"
+    },
+    {
+      "index": 6,
+      "strand": "antisense",
+      "length": 60,
+      "start": 162,
+      "end": 221,
+      "sequence": "TCCGGCTGATGAAAATACGCGTTCAGCCATGCAGTTGCTTGCATTAATGGTTCTGGGCCA"
+    },
+    {
+      "index": 7,
+      "strand": "sense",
+      "length": 60,
+      "start": 203,
+      "end": 262,
+      "sequence": "CGTATTTTCATCAGCCGGAAGCGATTGAAGAGTTTCCGGTCCCGGCGCTGCATCATCCGG"
+    },
+    {
+      "index": 8,
+      "strand": "antisense",
+      "length": 60,
+      "start": 248,
+      "end": 307,
+      "sequence": "ACAGTTTCCACAGCACCTGGCGGGTAAAGCTTTCCTGCTGAAACACCGGATGATGCAGCG"
+    },
+    {
+      "index": 9,
+      "strand": "sense",
+      "length": 60,
+      "start": 288,
+      "end": 347,
+      "sequence": "CCAGGTGCTGTGGAAACTGTTGAAAGTGGTTAAATTTGGCGAAGTGATTAGCTATCAGCA"
+    },
+    {
+      "index": 10,
+      "strand": "antisense",
+      "length": 60,
+      "start": 326,
+      "end": 385,
+      "sequence": "CCGCGGTTGCCGCCGGGTTGCCTGCCAGGGCGGCCAGCTGCTGATAGCTAATCACTTCGC"
+    },
+    {
+      "index": 11,
+      "strand": "sense",
+      "length": 60,
+      "start": 374,
+      "end": 433,
+      "sequence": "CGGCAACCGCGGCGGTTAAAACGGCGTTAAGCGGCAATCCTGTTCCAATTTTAATTCCGT"
+    },
+    {
+      "index": 12,
+      "strand": "antisense",
+      "length": 60,
+      "start": 412,
+      "end": 471,
+      "sequence": "ACCACCAACCGCGCCGCTAGAGCTCACCACACGATGACACGGAATTAAAATTGGAACAGG"
+    },
+    {
+      "index": 13,
+      "strand": "sense",
+      "length": 60,
+      "start": 458,
+      "end": 517,
+      "sequence": "GCGCGGTTGGTGGTTATGAAGGCGGCCTGGCCGTGAAAGAATGGCTGCTGGCGCATGAAG"
+    },
+    {
+      "index": 14,
+      "strand": "antisense",
+      "length": 48,
+      "start": 502,
+      "end": 549,
+      "sequence": "TTAGCCTAAGCCTGGTTTGCCTAAACGATGACCTTCATGCGCCAGCAG"
+    }
+  ]
+}

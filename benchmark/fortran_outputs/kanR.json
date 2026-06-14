@@ -1,0 +1,289 @@
+{
+  "gene_length": 816,
+  "num_oligos": 22,
+  "num_overlaps": 21,
+  "oligos": [
+    {
+      "index": 1,
+      "sequence": "ATGAGCCATATTCAACGGGAAACG",
+      "length": 24
+    },
+    {
+      "index": 2,
+      "sequence": "CAGCATCCATGTTGGAATTTAATCGCGGCCTGGAGCAAGACGTTTCCCGTTGAATATGGC",
+      "length": 60
+    },
+    {
+      "index": 3,
+      "sequence": "ATTAAATTCCAACATGGATGCTGATTTATATGGGTATAAATGGGCTCGCGATAATGTCGG",
+      "length": 60
+    },
+    {
+      "index": 4,
+      "sequence": "TCGGGCTTCCCATACAATCGATAGATTGTCGCACCTGATTGCCCGACATTATCGCGAGCC",
+      "length": 60
+    },
+    {
+      "index": 5,
+      "sequence": "GATTGTATGGGAAGCCCGATGCGCCAGAGTTGTTTCTGAAACATGGCAAAGGTAGCGTTG",
+      "length": 60
+    },
+    {
+      "index": 6,
+      "sequence": "CAGCCAGTTTAGTCTGACCATCTCATCTGTAACATCATTGGCAACGCTACCTTTGCCATG",
+      "length": 60
+    },
+    {
+      "index": 7,
+      "sequence": "TGGTCAGACTAAACTGGCTGACGGAATTTATGCCTCTTCCGACCATCAAGCATTTTATCC",
+      "length": 60
+    },
+    {
+      "index": 8,
+      "sequence": "GATCGCAGTGGTGAGTAACCATGCATCATCAGGAGTACGGATAAAATGCTTGATGGTCGG",
+      "length": 60
+    },
+    {
+      "index": 9,
+      "sequence": "GTTACTCACCACTGCGATCCCCGGCAAAACAGCATTCCAGGTATTAGAAGAATATCCTGA",
+      "length": 60
+    },
+    {
+      "index": 10,
+      "sequence": "ACACTGCCAGCGCATCAACAATATTTTCACCTGAATCAGGATATTCTTCTAATACCTGGA",
+      "length": 60
+    },
+    {
+      "index": 11,
+      "sequence": "GATGCGCTGGCAGTGTTCCTGCGCCGGTTGCATTCGATTCCTGTTTGTAATTGTCCTTTT",
+      "length": 60
+    },
+    {
+      "index": 12,
+      "sequence": "TGCGCCTGAGCGAGGCGAAATACGCGATCGCTGTTAAAAGGACAATTACAAACAGGAATC",
+      "length": 60
+    },
+    {
+      "index": 13,
+      "sequence": "CCTCGCTCAGGCGCAATCACGAATGAATAACGGTTTGGTTGATGCGAGTGATTTTGATGA",
+      "length": 60
+    },
+    {
+      "index": 14,
+      "sequence": "TCTTTCCAGACTTGTTCAACAGGCCAGCCATTACGCTCGTCATCAAAATCACTCGCATCA",
+      "length": 60
+    },
+    {
+      "index": 15,
+      "sequence": "CTGTTGAACAAGTCTGGAAAGAAATGCATAAGCTTTTGCCATTCTCACCGGATTCAGTCG",
+      "length": 60
+    },
+    {
+      "index": 16,
+      "sequence": "GTCAAAAATAAGGTTATCAAGTGAGAAATCACCATGAGTGACGACTGAATCCGGTGAGAA",
+      "length": 60
+    },
+    {
+      "index": 17,
+      "sequence": "TCTCACTTGATAACCTTATTTTTGACGAGGGGAAATTAATAGGTTGTATTGATGTTGGAC",
+      "length": 60
+    },
+    {
+      "index": 18,
+      "sequence": "GGCAAGATCCTGGTATCGGTCTGCGATTCCGACTCGTCCAACATCAATACAACCTATTAA",
+      "length": 60
+    },
+    {
+      "index": 19,
+      "sequence": "CCGATACCAGGATCTTGCCATCCTATGGAACTGCCTCGGTGAGTTTTCTCCTTCATTACA",
+      "length": 60
+    },
+    {
+      "index": 20,
+      "sequence": "AGGATTATCAATACCATATTTTTGAAAAAGCCGTTTCTGTAATGAAGGAGAAAACTCACC",
+      "length": 60
+    },
+    {
+      "index": 21,
+      "sequence": "TTTTTCAAAAATATGGTATTGATAATCCTGATATGAATAAATTGCAGTTTCATTTGATGC",
+      "length": 60
+    },
+    {
+      "index": 22,
+      "sequence": "TTAGAAAAACTCATCGAGCATCAAATGAAACTGCAATTTATT",
+      "length": 42
+    }
+  ],
+  "overlaps": [
+    {
+      "index": 1,
+      "start": 5,
+      "end": 24,
+      "length": 20,
+      "sequence": "GCCATATTCAACGGGAAACG"
+    },
+    {
+      "index": 2,
+      "start": 42,
+      "end": 64,
+      "length": 23,
+      "sequence": "ATTAAATTCCAACATGGATGCTG"
+    },
+    {
+      "index": 3,
+      "start": 84,
+      "end": 101,
+      "length": 18,
+      "sequence": "GGCTCGCGATAATGTCGG"
+    },
+    {
+      "index": 4,
+      "start": 125,
+      "end": 143,
+      "length": 19,
+      "sequence": "GATTGTATGGGAAGCCCGA"
+    },
+    {
+      "index": 5,
+      "start": 166,
+      "end": 184,
+      "length": 19,
+      "sequence": "CATGGCAAAGGTAGCGTTG"
+    },
+    {
+      "index": 6,
+      "start": 206,
+      "end": 225,
+      "length": 20,
+      "sequence": "TGGTCAGACTAAACTGGCTG"
+    },
+    {
+      "index": 7,
+      "start": 244,
+      "end": 265,
+      "length": 22,
+      "sequence": "CCGACCATCAAGCATTTTATCC"
+    },
+    {
+      "index": 8,
+      "start": 285,
+      "end": 303,
+      "length": 19,
+      "sequence": "GTTACTCACCACTGCGATC"
+    },
+    {
+      "index": 9,
+      "start": 320,
+      "end": 344,
+      "length": 25,
+      "sequence": "TCCAGGTATTAGAAGAATATCCTGA"
+    },
+    {
+      "index": 10,
+      "start": 364,
+      "end": 379,
+      "length": 16,
+      "sequence": "GATGCGCTGGCAGTGT"
+    },
+    {
+      "index": 11,
+      "start": 399,
+      "end": 423,
+      "length": 25,
+      "sequence": "GATTCCTGTTTGTAATTGTCCTTTT"
+    },
+    {
+      "index": 12,
+      "start": 444,
+      "end": 458,
+      "length": 15,
+      "sequence": "CCTCGCTCAGGCGCA"
+    },
+    {
+      "index": 13,
+      "start": 483,
+      "end": 503,
+      "length": 21,
+      "sequence": "TGATGCGAGTGATTTTGATGA"
+    },
+    {
+      "index": 14,
+      "start": 521,
+      "end": 542,
+      "length": 22,
+      "sequence": "CTGTTGAACAAGTCTGGAAAGA"
+    },
+    {
+      "index": 15,
+      "start": 562,
+      "end": 580,
+      "length": 19,
+      "sequence": "TTCTCACCGGATTCAGTCG"
+    },
+    {
+      "index": 16,
+      "start": 596,
+      "end": 621,
+      "length": 26,
+      "sequence": "TCTCACTTGATAACCTTATTTTTGAC"
+    },
+    {
+      "index": 17,
+      "start": 631,
+      "end": 655,
+      "length": 25,
+      "sequence": "TTAATAGGTTGTATTGATGTTGGAC"
+    },
+    {
+      "index": 18,
+      "start": 672,
+      "end": 690,
+      "length": 19,
+      "sequence": "CCGATACCAGGATCTTGCC"
+    },
+    {
+      "index": 19,
+      "start": 709,
+      "end": 731,
+      "length": 23,
+      "sequence": "GGTGAGTTTTCTCCTTCATTACA"
+    },
+    {
+      "index": 20,
+      "start": 740,
+      "end": 768,
+      "length": 29,
+      "sequence": "TTTTTCAAAAATATGGTATTGATAATCCT"
+    },
+    {
+      "index": 21,
+      "start": 775,
+      "end": 799,
+      "length": 25,
+      "sequence": "AATAAATTGCAGTTTCATTTGATGC"
+    }
+  ],
+  "scores": {
+    "codon": 0.0,
+    "length": 0.0,
+    "tm": 0.01,
+    "repeat": 4.02,
+    "pattern": 0.0,
+    "misprime": 3.529,
+    "at": 1.569,
+    "gc": 0.0,
+    "overall": 9.127
+  },
+  "summary": {
+    "trial": 1,
+    "target_tm": 62,
+    "target_length": 60,
+    "overall_score": 9.127,
+    "tm_range": 2.8,
+    "shortest_oligo": 15,
+    "longest_oligo": 60,
+    "num_oligos": 22,
+    "num_repeats": 10,
+    "num_misprimes": 4
+  }
+}

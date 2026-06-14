@@ -1,0 +1,373 @@
+--------------------------------------------------------------------------------
+|               HPC @ NIH -- Center for Information Technology                 |
+|                             https://hpc.nih.gov                              |
+|   National Institutes of Health, Department of Health and Human Services     |
+|                                                                              |
+|         DNAWorks Web Site: https://hpcwebapps.cit.nih.gov/dnaworks           |
+--------------------------------------------------------------------------------
+|                                                                              |
+|               Send all correspondence to webtools@hpc.nih.gov                |
+--------------------------------------------------------------------------------
+
+ Job started on 06/14/2026 at 13:11:45
+
+ Job name: kanR                                                                 
+ 
+      SEQUENCE  1: DNA     LENGTH =  816                               
+ ----------------------------------------------------------------
+   1 ATGAGCCATATTCAACGGGAAACGTCTTGCTCCAGGCCGCGATTAAATTCCAACATGGAT
+  61 GCTGATTTATATGGGTATAAATGGGCTCGCGATAATGTCGGGCAATCAGGTGCGACAATC
+ 121 TATCGATTGTATGGGAAGCCCGATGCGCCAGAGTTGTTTCTGAAACATGGCAAAGGTAGC
+ 181 GTTGCCAATGATGTTACAGATGAGATGGTCAGACTAAACTGGCTGACGGAATTTATGCCT
+ 241 CTTCCGACCATCAAGCATTTTATCCGTACTCCTGATGATGCATGGTTACTCACCACTGCG
+ 301 ATCCCCGGCAAAACAGCATTCCAGGTATTAGAAGAATATCCTGATTCAGGTGAAAATATT
+ 361 GTTGATGCGCTGGCAGTGTTCCTGCGCCGGTTGCATTCGATTCCTGTTTGTAATTGTCCT
+ 421 TTTAACAGCGATCGCGTATTTCGCCTCGCTCAGGCGCAATCACGAATGAATAACGGTTTG
+ 481 GTTGATGCGAGTGATTTTGATGACGAGCGTAATGGCTGGCCTGTTGAACAAGTCTGGAAA
+ 541 GAAATGCATAAGCTTTTGCCATTCTCACCGGATTCAGTCGTCACTCATGGTGATTTCTCA
+ 601 CTTGATAACCTTATTTTTGACGAGGGGAAATTAATAGGTTGTATTGATGTTGGACGAGTC
+ 661 GGAATCGCAGACCGATACCAGGATCTTGCCATCCTATGGAACTGCCTCGGTGAGTTTTCT
+ 721 CCTTCATTACAGAAACGGCTTTTTCAAAAATATGGTATTGATAATCCTGATATGAATAAA
+ 781 TTGCAGTTTCATTTGATGCTCGATGAGTTTTTCTAA
+ ----------------------------------------------------------------
+ 
+                SEQUENCE PATTERNS TO BE SCREENED
+ ----------------------------------------------------------------
+ ----------------------------------------------------------------
+ 
+ ----------------------------------------------------------------
+                    PARAMETERS FOR TRIAL 1                             
+ ----------------------------------------------------------------
+               Total Size Of Gene ......... 816 nt                        
+               Protein Residues ........... 0                             
+               Mutatable Residues ......... 0                             
+               Fixed Nucleotides .......... 816 nt                        
+               Degenerate Nucleotides ..... 0 nt                          
+               Oligo Size ................. 60 nt                         
+               Annealing Temp ............. 62 +/- 1*C                    
+               Oligo Concentration ........ 2.50E-7 M                     
+               Sodium Concentration ....... 5.00E-2 M                     
+               Mg2+ Concentration ......... 2.00E-3 M                     
+               Codon Frequency Threshold .. 50%                           
+               Repeat Threshold ........... 8 nt                          
+               Mispriming Threshold ....... 8/18 (6 exact) nt             
+               AT Score Weight ............ 0.00E+0                       
+               Codon Score Weight ......... 0.00E+0                       
+               GC Score Weight ............ 0.00E+0                       
+               Pattern Score Weight ....... 0.00E+0                       
+               Repeat Score Weight ........ 0.00E+0                       
+ 
+--------------------------------------------------------------------------------
+ 
+ The DNA sequence #   1 is:
+ ----------------------------------------------------------------
+   1 ATGAGCCATATTCAACGGGAAACGTCTTGCTCCAGGCCGCGATTAAATTCCAACATGGAT
+  61 GCTGATTTATATGGGTATAAATGGGCTCGCGATAATGTCGGGCAATCAGGTGCGACAATC
+ 121 TATCGATTGTATGGGAAGCCCGATGCGCCAGAGTTGTTTCTGAAACATGGCAAAGGTAGC
+ 181 GTTGCCAATGATGTTACAGATGAGATGGTCAGACTAAACTGGCTGACGGAATTTATGCCT
+ 241 CTTCCGACCATCAAGCATTTTATCCGTACTCCTGATGATGCATGGTTACTCACCACTGCG
+ 301 ATCCCCGGCAAAACAGCATTCCAGGTATTAGAAGAATATCCTGATTCAGGTGAAAATATT
+ 361 GTTGATGCGCTGGCAGTGTTCCTGCGCCGGTTGCATTCGATTCCTGTTTGTAATTGTCCT
+ 421 TTTAACAGCGATCGCGTATTTCGCCTCGCTCAGGCGCAATCACGAATGAATAACGGTTTG
+ 481 GTTGATGCGAGTGATTTTGATGACGAGCGTAATGGCTGGCCTGTTGAACAAGTCTGGAAA
+ 541 GAAATGCATAAGCTTTTGCCATTCTCACCGGATTCAGTCGTCACTCATGGTGATTTCTCA
+ 601 CTTGATAACCTTATTTTTGACGAGGGGAAATTAATAGGTTGTATTGATGTTGGACGAGTC
+ 661 GGAATCGCAGACCGATACCAGGATCTTGCCATCCTATGGAACTGCCTCGGTGAGTTTTCT
+ 721 CCTTCATTACAGAAACGGCTTTTTCAAAAATATGGTATTGATAATCCTGATATGAATAAA
+ 781 TTGCAGTTTCATTTGATGCTCGATGAGTTTTTCTAA
+ ----------------------------------------------------------------
+ 
+ The oligonucleotide assembly is:
+ ----------------------------------------------------------------
+     1       10        20        30        40        50        60
+     |        |         |         |         |         |         |
+ 
+     1 --->                                   3 --->             
+   1 ATGAGCCATATTCAACGGGAAACG                 attaaattccaacatggat
+                                                *************     < repeat
+                                              ********            < AT rich
+         CGGTATAAGTTGCCCTTTGCAGAACGAGGTCCGGCGCTAATTTAAGGTTGTACCTA
+                                                              <--
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                                 
+  61 gctgatttatatgggtataaatgggctcgcgataatgtcgg                   
+         ********                                                 < AT rich
+     CGAC                   ccgagcgctattacagcccgttagtccacgctgttag
+     -  2                                                        
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+         5 --->                                                  
+ 121     GATTGTATGGGAAGCCCGATGCGCCAGAGTTGTTTCTGAAACATGGCAAAGGTAGC
+                                                   ********       < repeat
+     atagctaacatacccttcgggct                      GTACCGTTTCCATCG
+                     <---  4                                     
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                              7 --->                             
+ 181 GTTG                     tggtcagactaaactggctgacggaatttatgcct
+                                                    ********      < repeat
+     CAACGGTTACTACAATGTCTACTCTACCAGTCTGATTTGACCGAC               
+                                           <---  6               
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                 9 --->          
+ 241 cttccgaccatcaagcattttatcc                   GTTACTCACCACTGCG
+                         ******************                       < misprime
+        ggctggtagttcgtaaaataggcatgaggactactacgtaccaatgagtggtgacgc
+                                                             <---
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                                 
+ 301 ATCCCCGGCAAAACAGCATTCCAGGTATTAGAAGAATATCCTGA                
+                                          ********                < repeat
+                                                       ********** < misprime
+                                                         ******** < AT rich
+     tag                AGGTCCATAATCTTCTTATAGGACTAAGTCCACTTTTATAA
+       8                                                         
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+        11 --->                                                  
+ 361    gatgcgctggcagtgttcctgcgccggttgcattcgattcctgtttgtaattgtcct
+     *********                                                    < repeat
+     ********                                                     < misprime
+     CAACTACGCGACCGTCACA                   ctaaggacaaacattaacagga
+                 <--- 10                                         
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                            13 --->                              
+ 421 ttt                    CCTCGCTCAGGCGCAATCACGAATGAATAACGGTTTG
+            ********                              ********        < repeat
+                                                       ********** < misprime
+     aaattgtcgctagcgcataaagcggagcgagtccgcgt                      
+                                    <--- 12                      
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                             15 --->             
+ 481 GTTGATGCGAGTGATTTTGATGA                 ctgttgaacaagtctggaaa
+     *********                                                    < repeat
+     ***********************                                      < misprime
+       ACTACGCTCACTAAAACTACTGCTCGCATTACCGACCGGACAACTTGTTCAGACCTTT
+                                                            <--- 
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                            17 --
+ 541 gaaatgcataagcttttgccattctcaccggattcagtcg               TCTCA
+                   ********                                       < repeat
+                          ******************               ****** < misprime
+     CT                   aagagtggcctaagtcagcagtgagtaccactaaagagt
+     14                                                          
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+     ->                                                          
+ 601 CTTGATAACCTTATTTTTGACGAGGGGAAATTAATAGGTTGTATTGATGTTGGAC     
+                *********                    **************       < repeat
+     ************                                                 < misprime
+               ********         *********                         < AT rich
+     gaactattggaataaaaactg         AATTATCCAACATAACTACAACCTGCTCAG
+                   <--- 16                                       
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                19 --->                                          
+ 661            ccgataccaggatcttgccatcctatggaactgcctcggtgagttttct
+                                                       ********   < repeat
+     CCTTAGCGTCTGGCTATGGTCCTAGAACGG                  ccactcaaaaga
+                            <--- 18                              
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                        21 --->                                  
+ 721 ccttcattaca        TTTTTCAAAAATATGGTATTGATAATCCTGATATGAATAAA
+                            *********  ******** ****************  < repeat
+                              ********                     ****** < AT rich
+     ggaagtaatgtctttgccgaaaaagtttttataccataactattagga      TTATTT
+                                              <--- 20            
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                         
+ 781 TTGCAGTTTCATTTGATGC                 
+                            ********      < repeat
+      ******************                  < misprime
+     **                                   < AT rich
+     AACGTCAAAGTAAACTACGAGCTACTCAAAAAGATT
+                                  <--- 22
+                                         
+ ----------------------------------------------------------------
+ 
+ The total codon usage score ...........     0.000
+ The total length score ................     0.000
+ The total melting temperature score ...     0.010
+ The total repeat score ................     4.020
+ The total pattern score ...............     0.000
+ The total mispriming score ............     3.529
+ The total AT content score ............     1.569
+ The total GC content score ............     0.000
+ The total fixed gap score .............      N/A
+                The OVERALL score ......     9.127
+ 
+ 
+                  Tm Range    # of Overlaps 
+             -------------------------------------
+                   <60            0
+                    60            1
+                    61            4
+                    62           13
+                    63            3
+                    64            0
+                    65            0
+                    66            0
+                    67            0
+                  >=68            0
+             -------------------------------------
+              Tm Range =  2.8
+ 
+              Ovrlap Len Range  # of Oligos
+             -------------------------------------
+                   <18            2
+                    18            1
+                    19            5
+                    20            2
+                    21            1
+                    22            2
+                    23            2
+                    24            0
+                    25            4
+                    26            1
+                    27            0
+                  >=28            0
+             -------------------------------------
+              Lowest Overlap = 15
+ 
+              Length Range   # of Oligos
+             -------------------------------------
+                   < 49            2
+                   49- 50           0
+                   51- 52           0
+                   53- 54           0
+                   55- 56           0
+                   57- 58           0
+                   59- 60          20
+                   61- 62           0
+                   63- 64           0
+                   65- 66           0
+                   67- 68           0
+                   >= 69           0
+             -------------------------------------
+              Longest =  60
+ 
+  There are   4 potential misprimings with <=  8 non-identical nts:
+ ----------------------------------------------------------------
+  Oligo Type 5'-start     Sequence     3'-start  Identical            
+ ----------------------------------------------------------------
+    13   DS    486  TGCGAGTGATTTTGATGA   503      10/18
+                    |    ||  |  ||||||
+               261  TatccGTacTccTGATGA   278
+
+    21   DS    782  TGCAGTTTCATTTGATGC   799      11/18
+                    || |  |    |||||||
+               351  TGaAaaTattgTTGATGC   368
+
+    21   DS    782  TGCAGTTTCATTTGATGC   799      11/18
+                    |   | ||   |||||||
+               471  TaacGgTTtggTTGATGC   488
+
+    16   DA    579  GACTGAATCCGGTGAGAA   562      11/18
+                     |    |||  |||||||
+               612  aAggttATCaaGTGAGAA   595
+
+ ----------------------------------------------------------------
+ 
+  There are  10 repeats greater than  8 nt:
+ ----------------------------------------------------------------
+ IR Pos1 =   44   Pos2 =  228   Size =  8   Seq1 = TAAATTCC
+                                            Seq2 = GGAATTTA
+ IR Pos1 =   49   Pos2 =  647   Size =  8   Seq1 = TCCAACAT
+                                            Seq2 = ATGTTGGA
+ IR Pos1 =  167   Pos2 =  555   Size =  8   Seq1 = ATGGCAAA
+                                            Seq2 = TTTGCCAT
+ DR Pos1 =  338   Pos2 =  764   Size =  8   Seq1 = ATCCTGAT
+                                            Seq2 = ATCCTGAT
+ DR Pos1 =  361   Pos2 =  481   Size =  9   Seq1 = GTTGATGCG
+                                            Seq2 = GTTGATGCG
+ PR Pos1 =  428   Pos2 =  428   Size =  8   Seq1 = GCGATCGC
+                                            Seq2 = GCGATCGC
+ DR Pos1 =  466   Pos2 =  772   Size =  8   Seq1 = ATGAATAA
+                                            Seq2 = ATGAATAA
+ IR Pos1 =  612   Pos2 =  744   Size =  9   Seq1 = TATTTTTGA
+                                            Seq2 = TCAAAAATA
+ DR Pos1 =  641   Pos2 =  755   Size =  8   Seq1 = GTATTGAT
+                                            Seq2 = GTATTGAT
+ DR Pos1 =  711   Pos2 =  804   Size =  8   Seq1 = TGAGTTTT
+                                            Seq2 = TGAGTTTT
+ ----------------------------------------------------------------
+ 
+ 
+          Sequence Patterns Screened (As Supplied By User)
+ ----------------------------------------------------------------
+                       None found
+ ----------------------------------------------------------------
+ 
+        22 oligonucleotides need to be synthesized
+ ----------------------------------------------------------------
+  1 ATGAGCCATATTCAACGGGAAACG  24
+  2 CAGCATCCATGTTGGAATTTAATCGCGGCCTGGAGCAAGACGTTTCCCGTTGAATATGGC  60
+  3 ATTAAATTCCAACATGGATGCTGATTTATATGGGTATAAATGGGCTCGCGATAATGTCGG  60
+  4 TCGGGCTTCCCATACAATCGATAGATTGTCGCACCTGATTGCCCGACATTATCGCGAGCC  60
+  5 GATTGTATGGGAAGCCCGATGCGCCAGAGTTGTTTCTGAAACATGGCAAAGGTAGCGTTG  60
+  6 CAGCCAGTTTAGTCTGACCATCTCATCTGTAACATCATTGGCAACGCTACCTTTGCCATG  60
+  7 TGGTCAGACTAAACTGGCTGACGGAATTTATGCCTCTTCCGACCATCAAGCATTTTATCC  60
+  8 GATCGCAGTGGTGAGTAACCATGCATCATCAGGAGTACGGATAAAATGCTTGATGGTCGG  60
+  9 GTTACTCACCACTGCGATCCCCGGCAAAACAGCATTCCAGGTATTAGAAGAATATCCTGA  60
+ 10 ACACTGCCAGCGCATCAACAATATTTTCACCTGAATCAGGATATTCTTCTAATACCTGGA  60
+ 11 GATGCGCTGGCAGTGTTCCTGCGCCGGTTGCATTCGATTCCTGTTTGTAATTGTCCTTTT  60
+ 12 TGCGCCTGAGCGAGGCGAAATACGCGATCGCTGTTAAAAGGACAATTACAAACAGGAATC  60
+ 13 CCTCGCTCAGGCGCAATCACGAATGAATAACGGTTTGGTTGATGCGAGTGATTTTGATGA  60
+ 14 TCTTTCCAGACTTGTTCAACAGGCCAGCCATTACGCTCGTCATCAAAATCACTCGCATCA  60
+ 15 CTGTTGAACAAGTCTGGAAAGAAATGCATAAGCTTTTGCCATTCTCACCGGATTCAGTCG  60
+ 16 GTCAAAAATAAGGTTATCAAGTGAGAAATCACCATGAGTGACGACTGAATCCGGTGAGAA  60
+ 17 TCTCACTTGATAACCTTATTTTTGACGAGGGGAAATTAATAGGTTGTATTGATGTTGGAC  60
+ 18 GGCAAGATCCTGGTATCGGTCTGCGATTCCGACTCGTCCAACATCAATACAACCTATTAA  60
+ 19 CCGATACCAGGATCTTGCCATCCTATGGAACTGCCTCGGTGAGTTTTCTCCTTCATTACA  60
+ 20 AGGATTATCAATACCATATTTTTGAAAAAGCCGTTTCTGTAATGAAGGAGAAAACTCACC  60
+ 21 TTTTTCAAAAATATGGTATTGATAATCCTGATATGAATAAATTGCAGTTTCATTTGATGC  60
+ 22 TTAGAAAAACTCATCGAGCATCAAATGAAACTGCAATTTATT  42
+ 
+                          FINAL SUMMARY FOR   1 SOLUTION   
+--------------------------------------------------------------------------------
+  #    Tm   Len  |    Score   TmRange  Short    Long   #Olig  #Repeat #Misprime
+ 
+  1    62    60  |    9.127       2.8      15      60      22      10       4
+ 
+--------------------------------------------------------------------------------
+|               HPC @ NIH -- Center for Information Technology                 |
+|                             https://hpc.nih.gov                              |
+|   National Institutes of Health, Department of Health and Human Services     |
+|                                                                              |
+|         DNAWorks Web Site: https://hpcwebapps.cit.nih.gov/dnaworks           |
+--------------------------------------------------------------------------------
+

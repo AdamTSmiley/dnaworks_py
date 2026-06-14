@@ -1,0 +1,193 @@
+{
+  "gene_length": 549,
+  "num_oligos": 14,
+  "num_overlaps": 13,
+  "oligos": [
+    {
+      "index": 1,
+      "sequence": "ATGGACAAAGACTGCGAGA",
+      "length": 19
+    },
+    {
+      "index": 2,
+      "sequence": "TTCTAACTTGCCTAACGGAGAATCCAAAGTGGTGCGTTTCATCTCGCAGTCTTTGTCCAT",
+      "length": 60
+    },
+    {
+      "index": 3,
+      "sequence": "TCTCCGTTAGGCAAGTTAGAACTGAGCGGCTGCGAACAGGGTCTGCATGAAATTAAACTG",
+      "length": 60
+    },
+    {
+      "index": 4,
+      "sequence": "ACTTCAACCGCATCGGCCGCGCTCGTGCCTTTGCCCAGCAGTTTAATTTCATGCAGACCC",
+      "length": 60
+    },
+    {
+      "index": 5,
+      "sequence": "GCCGATGCGGTTGAAGTGCCAGCTCCAGCTGCGGTTTTAGGTGGCCCAGAACCATTAATG",
+      "length": 60
+    },
+    {
+      "index": 6,
+      "sequence": "CCGGCTGATGAAAATACGCGTTCAGCCATGCAGTTGCTTGCATTAATGGTTCTGGGCCAC",
+      "length": 60
+    },
+    {
+      "index": 7,
+      "sequence": "GCGTATTTTCATCAGCCGGAAGCGATTGAAGAGTTTCCGGTCCCGGCGCTGCATCATCCG",
+      "length": 60
+    },
+    {
+      "index": 8,
+      "sequence": "AGTTTCCACAGCACCTGGCGGGTAAAGCTTTCCTGCTGAAACACCGGATGATGCAGCGCC",
+      "length": 60
+    },
+    {
+      "index": 9,
+      "sequence": "CCAGGTGCTGTGGAAACTGTTGAAAGTGGTTAAATTTGGCGAAGTGATTAGCTATCAGCA",
+      "length": 60
+    },
+    {
+      "index": 10,
+      "sequence": "GCCGCGGTTGCCGCCGGGTTGCCTGCCAGGGCGGCCAGCTGCTGATAGCTAATCACTTCG",
+      "length": 60
+    },
+    {
+      "index": 11,
+      "sequence": "CGGCAACCGCGGCGGTTAAAACGGCGTTAAGCGGCAATCCTGTTCCAATTTTAATTCCGT",
+      "length": 60
+    },
+    {
+      "index": 12,
+      "sequence": "CCACCAACCGCGCCGCTAGAGCTCACCACACGATGACACGGAATTAAAATTGGAACAGGA",
+      "length": 60
+    },
+    {
+      "index": 13,
+      "sequence": "GGCGCGGTTGGTGGTTATGAAGGCGGCCTGGCCGTGAAAGAATGGCTGCTGGCGCATGAA",
+      "length": 60
+    },
+    {
+      "index": 14,
+      "sequence": "TTAGCCTAAGCCTGGTTTGCCTAAACGATGACCTTCATGCGCCAGCAGC",
+      "length": 49
+    }
+  ],
+  "overlaps": [
+    {
+      "index": 1,
+      "start": 1,
+      "end": 19,
+      "length": 19,
+      "sequence": "ATGGACAAAGACTGCGAGA"
+    },
+    {
+      "index": 2,
+      "start": 40,
+      "end": 60,
+      "length": 21,
+      "sequence": "TCTCCGTTAGGCAAGTTAGAA"
+    },
+    {
+      "index": 3,
+      "start": 78,
+      "end": 99,
+      "length": 22,
+      "sequence": "GGGTCTGCATGAAATTAAACTG"
+    },
+    {
+      "index": 4,
+      "start": 121,
+      "end": 137,
+      "length": 17,
+      "sequence": "GCCGATGCGGTTGAAGT"
+    },
+    {
+      "index": 5,
+      "start": 161,
+      "end": 180,
+      "length": 20,
+      "sequence": "GTGGCCCAGAACCATTAATG"
+    },
+    {
+      "index": 6,
+      "start": 202,
+      "end": 220,
+      "length": 19,
+      "sequence": "GCGTATTTTCATCAGCCGG"
+    },
+    {
+      "index": 7,
+      "start": 246,
+      "end": 261,
+      "length": 16,
+      "sequence": "GGCGCTGCATCATCCG"
+    },
+    {
+      "index": 8,
+      "start": 288,
+      "end": 305,
+      "length": 18,
+      "sequence": "CCAGGTGCTGTGGAAACT"
+    },
+    {
+      "index": 9,
+      "start": 327,
+      "end": 347,
+      "length": 21,
+      "sequence": "CGAAGTGATTAGCTATCAGCA"
+    },
+    {
+      "index": 10,
+      "start": 374,
+      "end": 386,
+      "length": 13,
+      "sequence": "CGGCAACCGCGGC"
+    },
+    {
+      "index": 11,
+      "start": 411,
+      "end": 433,
+      "length": 23,
+      "sequence": "TCCTGTTCCAATTTTAATTCCGT"
+    },
+    {
+      "index": 12,
+      "start": 457,
+      "end": 470,
+      "length": 14,
+      "sequence": "GGCGCGGTTGGTGG"
+    },
+    {
+      "index": 13,
+      "start": 501,
+      "end": 516,
+      "length": 16,
+      "sequence": "GCTGCTGGCGCATGAA"
+    }
+  ],
+  "scores": {
+    "codon": 0.0,
+    "length": 0.0,
+    "tm": 0.004,
+    "repeat": 4.08,
+    "pattern": 0.0,
+    "misprime": 0.0,
+    "at": 1.457,
+    "gc": 2.914,
+    "overall": 8.455
+  },
+  "summary": {
+    "trial": 1,
+    "target_tm": 62,
+    "target_length": 60,
+    "overall_score": 8.455,
+    "tm_range": 1.9,
+    "shortest_oligo": 13,
+    "longest_oligo": 60,
+    "num_oligos": 14,
+    "num_repeats": 7,
+    "num_misprimes": 0
+  }
+}

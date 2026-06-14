@@ -1,0 +1,2894 @@
+--------------------------------------------------------------------------------
+|               HPC @ NIH -- Center for Information Technology                 |
+|                             https://hpc.nih.gov                              |
+|   National Institutes of Health, Department of Health and Human Services     |
+|                                                                              |
+|         DNAWorks Web Site: https://hpcwebapps.cit.nih.gov/dnaworks           |
+--------------------------------------------------------------------------------
+|                                                                              |
+|               Send all correspondence to webtools@hpc.nih.gov                |
+--------------------------------------------------------------------------------
+
+ Job started on 06/14/2026 at 13:08:11
+
+ Job name: cas9                                                                 
+ 
+      SEQUENCE  1: DNA     LENGTH = 4107                               
+ ----------------------------------------------------------------
+   1 ATGGATAAGAAATACTCAATAGGCTTAGATATCGGCACAAATAGCGTCGGATGGGCGGTG
+  61 ATCACTGATGAATATAAGGTTCCGTCTAAAAAGTTCAAGGTTCTGGGAAATACAGACCGC
+ 121 CACAGTATCAAAAAAAATCTTATAGGGGCTCTTTTATTTGACAGTGGAGAGACAGCGGAA
+ 181 GCGACTCGTCTCAAACGGACAGCTCGTAGAAGGTATACACGTCGGAAGAATCGTATTTGT
+ 241 TATCTACAGGAGATTTTTTCAAATGAGATGGCGAAAGTAGATGATAGTTTCTTTCATCGA
+ 301 CTTGAAGAGTCTTTTTTGGTGGAAGAAGACAAGAAGCATGAACGTCATCCTATTTTTGGA
+ 361 AATATAGTAGATGAAGTTGCTTATCATGAGAAATATCCAACTATCTATCATCTGCGAAAA
+ 421 AAATTGGTAGATTCTACTGATAAAGCGGATTTGCGCTTAATCTATTTGGCCTTAGCGCAT
+ 481 ATGATTAAGTTTCGTGGTCATTTTTTGATTGAGGGAGATTTAAATCCTGATAATAGTGAT
+ 541 GTGGACAAACTATTTATCCAGTTGGTACAAACCTACAATCAATTATTTGAAGAAAACCCT
+ 601 ATTAACGCAAGTGGAGTAGATGCTAAAGCGATTCTTTCTGCACGATTGAGTAAATCAAGA
+ 661 CGATTAGAAAATCTCATTGCTCAGCTCCCCGGTGAGAAGAAAAATGGCTTATTTGGGAAT
+ 721 CTCATTGCTTTGTCATTGGGTTTGACCCCTAATTTTAAATCAAATTTTGATTTGGCAGAA
+ 781 GATGCTAAATTACAGCTTTCAAAAGATACTTACGATGATGATTTAGATAATTTATTGGCG
+ 841 CAAATTGGAGATCAATATGCTGATTTGTTTTTGGCAGCTAAGAATTTATCAGATGCTATT
+ 901 TTACTTTCAGATATCCTAAGAGTAAATACTGAAATAACTAAGGCTCCCCTATCAGCTTCA
+ 961 ATGATTAAACGCTACGATGAACATCATCAAGACTTGACTCTTTTAAAAGCTTTAGTTCGA
+1021 CAACAACTTCCAGAAAAGTATAAAGAAATCTTTTTTGATCAATCAAAAAACGGATATGCA
+1081 GGTTATATTGATGGGGGAGCTAGCCAAGAAGAATTTTATAAATTTATCAAACCAATTTTA
+1141 GAAAAAATGGATGGTACTGAGGAATTATTGGTGAAACTAAATCGTGAAGATTTGCTGCGC
+1201 AAGCAACGGACCTTTGACAACGGCTCTATTCCCCATCAAATTCACTTGGGTGAGCTGCAT
+1261 GCTATTTTGAGAAGACAAGAAGACTTTTATCCATTTTTAAAAGACAATCGTGAGAAGATT
+1321 GAAAAAATCTTGACTTTTCGAATTCCTTATTATGTTGGTCCATTGGCGCGTGGCAATAGT
+1381 CGTTTTGCATGGATGACTCGGAAGTCTGAAGAAACAATTACCCCATGGAATTTTGAAGAA
+1441 GTTGTCGATAAAGGTGCTTCAGCTCAATCATTTATTGAACGCATGACAAACTTTGATAAA
+1501 AATCTTCCAAATGAAAAAGTACTACCAAAACATAGTTTGCTTTATGAGTATTTTACGGTT
+1561 TATAACGAATTGACAAAGGTCAAATATGTTACTGAAGGAATGCGAAAACCAGCATTTCTT
+1621 TCAGGTGAACAGAAGAAAGCCATTGTTGATTTACTCTTCAAAACAAATCGAAAAGTAACC
+1681 GTTAAGCAATTAAAAGAAGATTATTTCAAAAAAATAGAATGTTTTGATAGTGTTGAAATT
+1741 TCAGGAGTTGAAGATAGATTTAATGCTTCATTAGGTACCTACCATGATTTGCTAAAAATT
+1801 ATTAAAGATAAAGATTTTTTGGATAATGAAGAAAATGAAGATATCTTAGAGGATATTGTT
+1861 TTAACATTGACCTTATTTGAAGATAGGGAGATGATTGAGGAAAGACTTAAAACATATGCT
+1921 CACCTCTTTGATGATAAGGTGATGAAACAGCTTAAACGTCGCCGTTATACTGGTTGGGGA
+1981 CGTTTGTCTCGAAAATTGATTAATGGTATTAGGGATAAGCAATCTGGCAAAACAATATTA
+2041 GATTTTTTGAAATCAGATGGTTTTGCCAATCGCAATTTTATGCAGCTGATCCATGATGAT
+2101 AGTTTGACATTTAAAGAAGACATTCAAAAAGCACAAGTGTCTGGACAAGGCGATAGTTTA
+2161 CATGAACATATTGCAAATTTAGCTGGTAGCCCTGCTATTAAAAAAGGTATTTTACAGACT
+2221 GTAAAAGTTGTTGATGAATTGGTCAAAGTAATGGGGCGGCATAAGCCAGAAAATATCGTT
+2281 ATTGAAATGGCACGTGAAAATCAGACAACTCAAAAGGGCCAGAAAAATTCGCGAGAGCGT
+2341 ATGAAACGAATCGAAGAAGGTATCAAAGAATTAGGAAGTCAGATTCTTAAAGAGCATCCT
+2401 GTTGAAAATACTCAATTGCAAAATGAAAAGCTCTATCTCTATTATCTCCAAAATGGAAGA
+2461 GACATGTATGTGGACCAAGAATTAGATATTAATCGTTTAAGTGATTATGATGTCGATCAC
+2521 ATTGTTCCACAAAGTTTCCTTAAAGACGATTCAATAGACAATAAGGTCTTAACGCGTTCT
+2581 GATAAAAATCGTGGTAAATCGGATAACGTTCCAAGTGAAGAAGTAGTCAAAAAGATGAAA
+2641 AACTATTGGAGACAACTTCTAAACGCCAAGTTAATCACTCAACGTAAGTTTGATAATTTA
+2701 ACGAAAGCTGAACGTGGAGGTTTGAGTGAACTTGATAAAGCTGGTTTTATCAAACGCCAA
+2761 TTGGTTGAAACTCGCCAAATCACTAAGCATGTGGCACAAATTTTGGATAGTCGCATGAAT
+2821 ACTAAATACGATGAAAATGATAAACTTATTCGAGAGGTTAAAGTGATTACCTTAAAATCT
+2881 AAATTAGTTTCTGACTTCCGAAAAGATTTCCAATTCTATAAAGTACGTGAGATTAACAAT
+2941 TACCATCATGCCCATGATGCGTATCTAAATGCCGTCGTTGGAACTGCTTTGATTAAGAAA
+3001 TATCCAAAACTTGAATCGGAGTTTGTCTATGGTGATTATAAAGTTTATGATGTTCGTAAA
+3061 ATGATTGCTAAGTCTGAGCAAGAAATAGGCAAAGCAACCGCAAAATATTTCTTTTACTCT
+3121 AATATCATGAACTTCTTCAAAACAGAAATTACACTTGCAAATGGAGAGATTCGCAAACGC
+3181 CCTCTAATCGAAACTAATGGGGAAACTGGAGAAATTGTCTGGGATAAAGGGCGAGATTTT
+3241 GCCACAGTGCGCAAAGTATTGTCCATGCCCCAAGTCAATATTGTCAAGAAAACAGAAGTA
+3301 CAGACAGGCGGATTCTCCAAGGAGTCAATTTTACCAAAAAGAAATTCGGACAAGCTTATT
+3361 GCTCGTAAAAAAGACTGGGATCCAAAAAAATATGGTGGTTTTGATAGTCCAACGGTAGCT
+3421 TATTCAGTCCTAGTGGTTGCTAAGGTGGAAAAAGGGAAATCGAAGAAGTTAAAATCCGTT
+3481 AAAGAGTTACTAGGGATCACAATTATGGAAAGAAGTTCCTTTGAAAAAAATCCGATTGAC
+3541 TTTTTAGAAGCTAAAGGATATAAGGAAGTTAAAAAAGACTTAATCATTAAACTACCTAAA
+3601 TATAGTCTTTTTGAGTTAGAAAACGGTCGTAAACGGATGCTGGCTAGTGCCGGAGAATTA
+3661 CAAAAAGGAAATGAGCTGGCTCTGCCAAGCAAATATGTGAATTTTTTATATTTAGCTAGT
+3721 CATTATGAAAAGTTGAAGGGTAGTCCAGAAGATAACGAACAAAAACAATTGTTTGTGGAG
+3781 CAGCATAAGCATTATTTAGATGAGATTATTGAGCAAATCAGTGAATTTTCTAAGCGTGTT
+3841 ATTTTAGCAGATGCCAATTTAGATAAAGTTCTTAGTGCATATAACAAACATAGAGACAAA
+3901 CCAATACGTGAACAAGCAGAAAATATTATTCATTTATTTACGTTGACGAATCTTGGAGCT
+3961 CCCGCTGCTTTTAAATATTTTGATACAACAATTGATCGTAAACGATATACGTCTACAAAA
+4021 GAAGTTTTAGATGCCACTCTTATCCATCAATCCATCACTGGTCTTTATGAAACACGCATT
+4081 GATTTGAGTCAGCTAGGAGGTGACTAA
+ ----------------------------------------------------------------
+ 
+                SEQUENCE PATTERNS TO BE SCREENED
+ ----------------------------------------------------------------
+ ----------------------------------------------------------------
+ 
+ ----------------------------------------------------------------
+                    PARAMETERS FOR TRIAL 1                             
+ ----------------------------------------------------------------
+               Total Size Of Gene ......... 4107 nt                       
+               Protein Residues ........... 0                             
+               Mutatable Residues ......... 0                             
+               Fixed Nucleotides .......... 4107 nt                       
+               Degenerate Nucleotides ..... 0 nt                          
+               Oligo Size ................. 60 nt                         
+               Annealing Temp ............. 62 +/- 1*C                    
+               Oligo Concentration ........ 2.50E-7 M                     
+               Sodium Concentration ....... 5.00E-2 M                     
+               Mg2+ Concentration ......... 2.00E-3 M                     
+               Codon Frequency Threshold .. 50%                           
+               Repeat Threshold ........... 8 nt                          
+               Mispriming Threshold ....... 8/18 (6 exact) nt             
+               AT Score Weight ............ 0.00E+0                       
+               Codon Score Weight ......... 0.00E+0                       
+               GC Score Weight ............ 0.00E+0                       
+               Pattern Score Weight ....... 0.00E+0                       
+               Repeat Score Weight ........ 0.00E+0                       
+ 
+--------------------------------------------------------------------------------
+ 
+ The DNA sequence #   1 is:
+ ----------------------------------------------------------------
+   1 ATGGATAAGAAATACTCAATAGGCTTAGATATCGGCACAAATAGCGTCGGATGGGCGGTG
+  61 ATCACTGATGAATATAAGGTTCCGTCTAAAAAGTTCAAGGTTCTGGGAAATACAGACCGC
+ 121 CACAGTATCAAAAAAAATCTTATAGGGGCTCTTTTATTTGACAGTGGAGAGACAGCGGAA
+ 181 GCGACTCGTCTCAAACGGACAGCTCGTAGAAGGTATACACGTCGGAAGAATCGTATTTGT
+ 241 TATCTACAGGAGATTTTTTCAAATGAGATGGCGAAAGTAGATGATAGTTTCTTTCATCGA
+ 301 CTTGAAGAGTCTTTTTTGGTGGAAGAAGACAAGAAGCATGAACGTCATCCTATTTTTGGA
+ 361 AATATAGTAGATGAAGTTGCTTATCATGAGAAATATCCAACTATCTATCATCTGCGAAAA
+ 421 AAATTGGTAGATTCTACTGATAAAGCGGATTTGCGCTTAATCTATTTGGCCTTAGCGCAT
+ 481 ATGATTAAGTTTCGTGGTCATTTTTTGATTGAGGGAGATTTAAATCCTGATAATAGTGAT
+ 541 GTGGACAAACTATTTATCCAGTTGGTACAAACCTACAATCAATTATTTGAAGAAAACCCT
+ 601 ATTAACGCAAGTGGAGTAGATGCTAAAGCGATTCTTTCTGCACGATTGAGTAAATCAAGA
+ 661 CGATTAGAAAATCTCATTGCTCAGCTCCCCGGTGAGAAGAAAAATGGCTTATTTGGGAAT
+ 721 CTCATTGCTTTGTCATTGGGTTTGACCCCTAATTTTAAATCAAATTTTGATTTGGCAGAA
+ 781 GATGCTAAATTACAGCTTTCAAAAGATACTTACGATGATGATTTAGATAATTTATTGGCG
+ 841 CAAATTGGAGATCAATATGCTGATTTGTTTTTGGCAGCTAAGAATTTATCAGATGCTATT
+ 901 TTACTTTCAGATATCCTAAGAGTAAATACTGAAATAACTAAGGCTCCCCTATCAGCTTCA
+ 961 ATGATTAAACGCTACGATGAACATCATCAAGACTTGACTCTTTTAAAAGCTTTAGTTCGA
+1021 CAACAACTTCCAGAAAAGTATAAAGAAATCTTTTTTGATCAATCAAAAAACGGATATGCA
+1081 GGTTATATTGATGGGGGAGCTAGCCAAGAAGAATTTTATAAATTTATCAAACCAATTTTA
+1141 GAAAAAATGGATGGTACTGAGGAATTATTGGTGAAACTAAATCGTGAAGATTTGCTGCGC
+1201 AAGCAACGGACCTTTGACAACGGCTCTATTCCCCATCAAATTCACTTGGGTGAGCTGCAT
+1261 GCTATTTTGAGAAGACAAGAAGACTTTTATCCATTTTTAAAAGACAATCGTGAGAAGATT
+1321 GAAAAAATCTTGACTTTTCGAATTCCTTATTATGTTGGTCCATTGGCGCGTGGCAATAGT
+1381 CGTTTTGCATGGATGACTCGGAAGTCTGAAGAAACAATTACCCCATGGAATTTTGAAGAA
+1441 GTTGTCGATAAAGGTGCTTCAGCTCAATCATTTATTGAACGCATGACAAACTTTGATAAA
+1501 AATCTTCCAAATGAAAAAGTACTACCAAAACATAGTTTGCTTTATGAGTATTTTACGGTT
+1561 TATAACGAATTGACAAAGGTCAAATATGTTACTGAAGGAATGCGAAAACCAGCATTTCTT
+1621 TCAGGTGAACAGAAGAAAGCCATTGTTGATTTACTCTTCAAAACAAATCGAAAAGTAACC
+1681 GTTAAGCAATTAAAAGAAGATTATTTCAAAAAAATAGAATGTTTTGATAGTGTTGAAATT
+1741 TCAGGAGTTGAAGATAGATTTAATGCTTCATTAGGTACCTACCATGATTTGCTAAAAATT
+1801 ATTAAAGATAAAGATTTTTTGGATAATGAAGAAAATGAAGATATCTTAGAGGATATTGTT
+1861 TTAACATTGACCTTATTTGAAGATAGGGAGATGATTGAGGAAAGACTTAAAACATATGCT
+1921 CACCTCTTTGATGATAAGGTGATGAAACAGCTTAAACGTCGCCGTTATACTGGTTGGGGA
+1981 CGTTTGTCTCGAAAATTGATTAATGGTATTAGGGATAAGCAATCTGGCAAAACAATATTA
+2041 GATTTTTTGAAATCAGATGGTTTTGCCAATCGCAATTTTATGCAGCTGATCCATGATGAT
+2101 AGTTTGACATTTAAAGAAGACATTCAAAAAGCACAAGTGTCTGGACAAGGCGATAGTTTA
+2161 CATGAACATATTGCAAATTTAGCTGGTAGCCCTGCTATTAAAAAAGGTATTTTACAGACT
+2221 GTAAAAGTTGTTGATGAATTGGTCAAAGTAATGGGGCGGCATAAGCCAGAAAATATCGTT
+2281 ATTGAAATGGCACGTGAAAATCAGACAACTCAAAAGGGCCAGAAAAATTCGCGAGAGCGT
+2341 ATGAAACGAATCGAAGAAGGTATCAAAGAATTAGGAAGTCAGATTCTTAAAGAGCATCCT
+2401 GTTGAAAATACTCAATTGCAAAATGAAAAGCTCTATCTCTATTATCTCCAAAATGGAAGA
+2461 GACATGTATGTGGACCAAGAATTAGATATTAATCGTTTAAGTGATTATGATGTCGATCAC
+2521 ATTGTTCCACAAAGTTTCCTTAAAGACGATTCAATAGACAATAAGGTCTTAACGCGTTCT
+2581 GATAAAAATCGTGGTAAATCGGATAACGTTCCAAGTGAAGAAGTAGTCAAAAAGATGAAA
+2641 AACTATTGGAGACAACTTCTAAACGCCAAGTTAATCACTCAACGTAAGTTTGATAATTTA
+2701 ACGAAAGCTGAACGTGGAGGTTTGAGTGAACTTGATAAAGCTGGTTTTATCAAACGCCAA
+2761 TTGGTTGAAACTCGCCAAATCACTAAGCATGTGGCACAAATTTTGGATAGTCGCATGAAT
+2821 ACTAAATACGATGAAAATGATAAACTTATTCGAGAGGTTAAAGTGATTACCTTAAAATCT
+2881 AAATTAGTTTCTGACTTCCGAAAAGATTTCCAATTCTATAAAGTACGTGAGATTAACAAT
+2941 TACCATCATGCCCATGATGCGTATCTAAATGCCGTCGTTGGAACTGCTTTGATTAAGAAA
+3001 TATCCAAAACTTGAATCGGAGTTTGTCTATGGTGATTATAAAGTTTATGATGTTCGTAAA
+3061 ATGATTGCTAAGTCTGAGCAAGAAATAGGCAAAGCAACCGCAAAATATTTCTTTTACTCT
+3121 AATATCATGAACTTCTTCAAAACAGAAATTACACTTGCAAATGGAGAGATTCGCAAACGC
+3181 CCTCTAATCGAAACTAATGGGGAAACTGGAGAAATTGTCTGGGATAAAGGGCGAGATTTT
+3241 GCCACAGTGCGCAAAGTATTGTCCATGCCCCAAGTCAATATTGTCAAGAAAACAGAAGTA
+3301 CAGACAGGCGGATTCTCCAAGGAGTCAATTTTACCAAAAAGAAATTCGGACAAGCTTATT
+3361 GCTCGTAAAAAAGACTGGGATCCAAAAAAATATGGTGGTTTTGATAGTCCAACGGTAGCT
+3421 TATTCAGTCCTAGTGGTTGCTAAGGTGGAAAAAGGGAAATCGAAGAAGTTAAAATCCGTT
+3481 AAAGAGTTACTAGGGATCACAATTATGGAAAGAAGTTCCTTTGAAAAAAATCCGATTGAC
+3541 TTTTTAGAAGCTAAAGGATATAAGGAAGTTAAAAAAGACTTAATCATTAAACTACCTAAA
+3601 TATAGTCTTTTTGAGTTAGAAAACGGTCGTAAACGGATGCTGGCTAGTGCCGGAGAATTA
+3661 CAAAAAGGAAATGAGCTGGCTCTGCCAAGCAAATATGTGAATTTTTTATATTTAGCTAGT
+3721 CATTATGAAAAGTTGAAGGGTAGTCCAGAAGATAACGAACAAAAACAATTGTTTGTGGAG
+3781 CAGCATAAGCATTATTTAGATGAGATTATTGAGCAAATCAGTGAATTTTCTAAGCGTGTT
+3841 ATTTTAGCAGATGCCAATTTAGATAAAGTTCTTAGTGCATATAACAAACATAGAGACAAA
+3901 CCAATACGTGAACAAGCAGAAAATATTATTCATTTATTTACGTTGACGAATCTTGGAGCT
+3961 CCCGCTGCTTTTAAATATTTTGATACAACAATTGATCGTAAACGATATACGTCTACAAAA
+4021 GAAGTTTTAGATGCCACTCTTATCCATCAATCCATCACTGGTCTTTATGAAACACGCATT
+4081 GATTTGAGTCAGCTAGGAGGTGACTAA
+ ----------------------------------------------------------------
+ 
+ The oligonucleotide assembly is:
+ ----------------------------------------------------------------
+     1       10        20        30        40        50        60
+     |        |         |         |         |         |         |
+ 
+     1 --->                                             3 --->   
+   1 ATGGATAAGAAATACTCAATAGGCTTAGATATCG                 tgggcggtg
+     ********************    ******** *********               *** < repeat
+             ******************                                   < misprime
+             CTTTATGAGTTATCCGAATCTATAGCCGTGTTTATCGCAGCCTACCCGCCAC
+                                                                 
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                                 
+  61 atcactgatgaatataaggttccgtctaaaaagttcaaggttctgggaaat         
+     *******************     **********                        ** < repeat
+           ******************      ***************************    < misprime
+     TAGTGACT                      ttcaagttccaagaccctttatgtctggcg
+      <---  2                                                    
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+          5 --->                                                 
+ 121      TATCAAAAAAAATCTTATAGGGGCTCTTTTATTTGACAGTGGAGAGACAGCGGAA
+     *********************       **************  ********         < repeat
+      ******************                                          < misprime
+              *********             ********                      < AT rich
+     gtgtcatagttttttttagaatatccccga                  CTCTGTCGCCTT
+                            <---  4                              
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                7 --->                           
+ 181 GCGAC                      agaaggtatacacgtcggaagaatcgtatttgt
+                                *********         *************** < repeat
+                                  ******************************* < misprime
+     CGCTGAGCAGAGTTTGCCTGTCGAGCATCTTCCATATGTGCAGCCTTC            
+                                              <---  6            
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                          9 --->                 
+ 241 tatctacaggagattttttcaaatgag          TAGATGATAGTTTCTTTCATCGA
+     ***     *********************      ************************  < repeat
+     *****************************           ******************** < misprime
+       agatgtcctctaaaaaagtttactctaccgctttcatctactatcaaagaaagtagct
+                                                            <--- 
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                     11 --->     
+ 301 CTTGAAGAGTCTTTTTTGGTGGAAGAAGACAAGAAGC           cctatttttgga
+      *******************  **************             *********** < repeat
+     **********  ***************************        ************* < misprime
+     ga               CCACCTTCTTCTGTTCTTCGTACTTGCAGTAGGATAAAAACCT
+      8                                                          
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                           13 ---
+ 361 aatatagtagatgaagttgcttatcatgagaaatatccaactatctat      CGAAAA
+     **************  ************************    **************** < repeat
+     ***********************************************            * < misprime
+                                                             **** < AT rich
+     TTATATCATCTACTTCA  gaatagtactctttataggttgatagatagtagacgctttt
+               <--- 10                                           
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+     >                                                           
+ 421 AAATTGGTAGATTCTACTGATAAAGCGGATTTGCGCTTAATCTATTTGGCCTTA      
+     ********        **********  ********                         < repeat
+     *******************           *****************************  < misprime
+     *****                                                        < AT rich
+     tttaaccatctaagatgac             CGCGAATTAGATAAACCGGAATCGCGTA
+                 <--- 12                                         
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+              15 --->                                            
+ 481          tttcgtggtcattttttgattgagggagatttaaatcctgataatagtgat
+     **********        ****************************  ********  ** < repeat
+                 ************************************************ < misprime
+                                          ********                < AT rich
+     TACTAATTCAAAGCACCAGTAAAAAACTAACT             ggactattatcacta
+                              <--- 14                            
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                         17 --->                                 
+ 541 gtggacaaa           GTTGGTACAAACCTACAATCAATTATTTGAAGAAAACCCT
+     ********************                *********************    < repeat
+     ************************************** ********************* < misprime
+                                             ********             < AT rich
+     cacctgtttgataaataggtcaaccatgtttggatgttagttaat             GA
+                                           <--- 16               
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                         19 --->                 
+ 601 ATTAACGCAAGTGGAGTAGA                tctgcacgattgagtaaatcaaga
+                   ************* ********    ******************** < repeat
+     ********************                  ********************** < misprime
+     TAATTGCGTTCACCTCATCTACGATTTCGCTAAGAAAGACGTGCTAACTCATTTAGTT  
+                                                        <--- 18  
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                                2
+ 661 cgattagaaaatctcattgctcagctccccggtgag                       T
+     ****************************** ************************  *** < repeat
+     **********        ********************                       < misprime
+                         agtcgaggggccactcttctttttaccgaataaaccctta
+                                                                 
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+     1 --->                                                      
+ 721 CTCATTGCTTTGTCATTGGGTTTGACCCCTAATTTTAAATCAAATTTTGATTTGGCAGA 
+     ****************                **************************** < repeat
+                        ****************************************  < misprime
+                                  ***********                     < AT rich
+     gagtaacgaaacagtaaccc              AATTTAGTTTAAAACTAAACCGTCTT
+                  <--- 20                                        
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+              23 --->                                            
+ 781          ttacagctttcaaaagatacttacgatgatgatttagataatttattggcg
+     ************************      ****************************** < repeat
+                   ********************************************** < misprime
+                                                   **********     < AT rich
+     CTACGATTTAATGTCGAAAGTTTTCTATGAATGC              ttaaataaccgc
+                                <--- 22                          
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                            25 --->                              
+ 841 caaattgga              TTTGTTTTTGGCAGCTAAGAATTTATCAGATGCTATT
+     ****************** ******************  ********************* < repeat
+     ************************************************************ < misprime
+     gtttaacctctagttatacgactaaacaaaaaccgtcgattcttaaat       GATAA
+                                              <--- 24            
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                       27 --->                   
+ 901 TTACTTTCAGATATCCTAAGAGT           taactaaggctcccctatcagcttca
+     ****             **********  ********                      * < repeat
+     ***********************                            ********* < misprime
+     AATGAAAGTCTATAGGATTCTCATTTATGACTTTATTGATTCCGAGGGGATAGTC     
+                                                     <--- 26     
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                      29 --->    
+ 961 atgattaaacgctacgatgaacatcatcaagact               CTTTAGTTCGA
+     ********    *********************    ****************   **** < repeat
+     **********************************  ************************ < misprime
+                                             ********             < AT rich
+                gatgctacttgtagtagttctgaactgagaaaattttcgaaatcaagct
+                                                                 
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                                3
+1021 CAACAACTTCCAGAAAAGTATAAAGAAATCTTTTTTGATCAATCAAAAA          a
+     ******************** **********************************      < repeat
+     ***********         *****************************            < misprime
+     gttgttgaagg         ATTTCTTTAGAAAAAACTAGTTAGTTTTTTGCCTATACGT
+         <--- 28                                                 
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+     1 --->                                                      
+1081 ggttatattgatgggggagctagccaagaagaattttataaatttatcaaaccaatttt 
+         *****************   ************************************ < repeat
+                      ******************************************  < misprime
+                                    ****************              < AT rich
+     CCAATATAACTACCCCCTCG       cttcttaaaatatttaaatagtttggttaaaat
+                  <--- 30                                        
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+       33 --->                                                   
+1141   AAAAATGGATGGTACTGAGGAATTATTGGTGAAACTAAATCGTGAAGATTTGCTGCGC
+     ************                    ************************     < repeat
+                           ******************   ***************** < misprime
+     cttttttacctaccatgactccttaat                CACTTCTAAACGACGCG
+                         <--- 32                                 
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                          35 --->                                
+1201 AA                   ggctctattccccatcaaattcacttgggtgagctgcat
+             ********            *********************   ******** < repeat
+     **                                                           < misprime
+     TTCGTTGCCTGGAAACTGTTGCCGAGATAAGGGGTAGTTTAAG              gta
+                                         <--- 34                 
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                    37 --->                      
+1261 gctattttgagaagacaagaa          CATTTTTAAAAGACAATCGTGAGAAGATT
+     ************************ *********************************** < repeat
+        ******************        ******************    ********* < misprime
+                                     **********                   < AT rich
+     cgataaaactcttctgttcttctgaaaataggtaaaaattttctgttagcactcttc   
+                                                       <--- 36   
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                    39 --->      
+1321 GAAAAAATCTTGACTTTTCGAATTCCTTATT                gcgtggcaatagt
+     ********************* ********    ***************            < repeat
+     *********    ******************                              < misprime
+           TAGAACTGAAAAGCTTAAGGAATAATACAACCAGGTAACCGCGCACCGTTATCA
+                                                                <
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                                 
+1381 cgttttgcatggatgactcggaagtctgaagaaacaattaccccatg             
+                      *************************      ************ < repeat
+                        ***************************************   < misprime
+     GCAAAA                  agacttctttgttaatggggtaccttaaaacttctt
+     --- 38                                                      
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+         41 --->                                                 
+1441     TCGATAAAGGTGCTTCAGCTCAATCATTTATTGAACGCATGACAAACTTTGATAAA
+     **************        *****************   ****************** < repeat
+                                                   ************** < misprime
+                                                            ***** < AT rich
+     caacagctatttccacgaagtcga               GCGTACTGTTTGAAACTATTT
+                      <--- 40                                    
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                 43 --->                                         
+1501 AATC        gaaaaagtactaccaaaacatagtttgctttatgagtattttacggtt
+     ******* **********    ***********************************    < repeat
+     ****                      ****************** *************** < misprime
+     ***                                                          < AT rich
+     TTAGAAGGTTTACTTTTTCATGATGGTTTTGTATCAAAC      ctcataaaatgccaa
+                                     <--- 42                     
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                           45 --->                               
+1561 tataacgaattg          AATATGTTACTGAAGGAATGCGAAAACCAGCATTTCTT
+      ******** ********************          ******************** < repeat
+     ************                                                 < misprime
+     atattgcttaactgtttccagtttatacaatgacttccttacgct               
+                                           <--- 44               
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                            47 --->              
+1621 TCAGGTGAACAGAAGAAAGCCA                 aaaacaaatcgaaaagtaacc
+     ***    **************************************************    < repeat
+       ******************                   ******************    < misprime
+       TCCACTTGTCTTCTTTCGGTAACAACTAAATGAGAAGTTTTGTTTAGCTTTTCATTGG
+                                                            <--- 
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                              49 --->            
+1681 gttaagcaattaaaagaagattatttcaaaaaaatagaa  TTTTGATAGTGTTGAAATT
+       *********************************** ********************** < repeat
+          ****************************************     ********** < misprime
+            ********            *********                         < AT rich
+     CA    gttaattttcttctaataaagtttttttatcttacaaaactatcacaactttaa
+     46                                                         <
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                51 --->          
+1741 TCAGGAGTTGAAGATAGATTTAATGCTTCATTAGGTACCTA  atgatttgctaaaaatt
+     ***  ************************************   *************    < repeat
+     *************************************************            < misprime
+                                                         ******** < AT rich
+     agtcct          CTAAATTACGAAGTAATCCATGGATGGTACTAAACGATTTTTAA
+     --- 48                                                      
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                      53 --->    
+1801 attaaagataaagattttttggataatgaagaaaatgaagatatc    AGGATATTGTT
+          ******************************************     ******** < repeat
+       ********************************************************** < misprime
+     ******                                                       < AT rich
+     TAATTTCTATTTCTAAaaaacctattacttcttttacttctatagaatctcctataacaa
+              <--- 50                                            
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                                 
+1861 TTAACATTGACCTTATTTGAAGATAGGGAGATGATTGAGGAAAGACTTA           
+     ****  **************************************************     < repeat
+     **********************    ********************************** < misprime
+     aattgtaactggaata          CCTCTACTAACTCCTTTCTGAATTTTGTATACGA
+              <--- 52                                            
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+       55 --->                                                   
+1921   cctctttgatgataaggtgatgaaacagcttaaacgtcgccgttatactggttgggga
+         **************   ******** ********                       < repeat
+     ******************  ******************                       < misprime
+     GTGGAGAAACTACTATTCCACTACTT                gcaatatgaccaacccct
+                        <--- 54                                  
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                      57 --->                                    
+1981 cg               GATTAATGGTATTAGGGATAAGCAATCTGGCAAAACAATATTA
+      ********* ************          ********** **************** < repeat
+       **************************************        ************ < misprime
+     gcaaacagagcttttaactaattaccataatccctattcgtt      TTTTGTTATAAT
+                                        <--- 56                  
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                59 --->                          
+2041 GATTTTTTGAAATCAGA          aatcgcaattttatgcagctgatccatgatgat
+     ****************************    ***************   ********** < repeat
+     *****************    ******************                      < misprime
+                                      ********                    < AT rich
+     CTAAAAAACTTTAGTCTACCAAAACGGTTAGCGTTAAAATACGTCGAC            
+                                              <--- 58            
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                             61 --->             
+2101 agtttgacatttaaagaagacattcaa             CTGGACAAGGCGATAGTTTA
+     ******      *******************                    ********  < repeat
+      *****************************                               < misprime
+      caaactgtaaatttcttctgtaagtttttcgtgttcacagacctgttccgctatcaaat
+                                                           <--- 6
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                             63 -
+2161 CATGAACATATTGCAAATTTAGCTGGTAGCCCTGCTATTA                gact
+      ***********************             ******************** ** < repeat
+                                       *************************  < misprime
+                                        **********                < AT rich
+     g                    CGACCATCGGGACGATAATTTTTTCCATAAAATGTCTGA
+     0                                                           
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+     -->                                                         
+2221 gtaaaagttgttgatgaattggtcaaagtaatggggcggcataagccagaaaatat    
+     *******************         ********  ********************** < repeat
+        ********************************************************* < misprime
+                                     ********                     < GC rich
+     CATTTTCAACAACTACTTAAC              cgccgtattcggtcttttatagcaa
+                   <--- 62                                       
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                 65 --->                                         
+2281             CGTGAAAATCAGACAACTCAAAAGGGCCAGAAAAATTCGCGAGAGCGT
+     ******           ******************  *************         * < repeat
+     *************************              ******************    < misprime
+     taactttaccgtgcacttttagtctgttgagtttt                GCTCTCGCA
+                                 <--- 64                         
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                             67 --->                             
+2341 ATGAAACGAATC            aaagaattaggaagtcagattcttaaagagcatcct
+     ******* ***********************************  *********     * < repeat
+                 ******************                 ************* < misprime
+     TACTTTGCTTAGCTTCTTCCATAGTTTCTTAATCCTTCAGTCTAAGAATTT        a
+                                                 <--- 66         
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                     69 --->                     
+2401 gttgaaaatactcaattgcaaaat        CTATCTCTATTATCTCCAAAATGGAAGA
+     ******************************        *******************    < repeat
+     ************************       *************************     < misprime
+     caacttttatgagttaacgttttacttttcgagatagagataatagaggttttaccttc 
+                                                         <--- 68 
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                              71 --->            
+2461 GACATGTATGTGGACCAAGAATTAGATATTAA         tgattatgatgtcgatcac
+            **********************  **********************        < repeat
+                   ******************               ************* < misprime
+                              ********                            < AT rich
+          CATACACCTGGTTCTTAATCTATAATTAGCAAATTCACTAATACTACAGCTAGTG
+                                                               <-
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                          73 --->
+2521 attgttccacaaagtttccttaaagacgattcaatagacaa            GCGTTCT
+          ************ ******************************  ********** < repeat
+     *****               *********************           ******** < misprime
+     TAACA           aggaatttctgctaagttatctgttattccagaattgcgcaaga
+     -- 70                                                       
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                                 
+2581 GATAAAAATCGTGGTAAATCGGATAACGTTCCAAGTGAAGAAGTAGTCAAAAA       
+     *************   ********      **************  ************** < repeat
+     **********                        ********************       < misprime
+      ********                                                    < AT rich
+     ctatttttagcaccat             AGGTTCACTTCTTCATCAGTTTTTCTACTTT
+              <--- 72                                            
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+             75 --->                                             
+2641         gagacaacttctaaacgccaagttaatcactcaacgtaagtttgataattta
+     *****************************  ***************************** < repeat
+                                             ******************** < misprime
+                                                         ******** < AT rich
+     TTGATAACCTCTGTTGAAGATTTGCGGTT             gcattcaaactattaaat
+                           <--- 74                               
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                        77 --->                                  
+2701 acgaaagc           GTTTGAGTGAACTTGATAAAGCTGGTTTTATCAAACGCCAA
+       ********           ********  ***************************** < repeat
+     ********                                               ***** < misprime
+     *                                                            < AT rich
+     tgctttcgacttgcacctccaaactcacttgaactatttcga                TT
+                                        <--- 76                  
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                         79 --->                 
+2761 TTGGTTGAAACTCGCCAAA                 caaattttggatagtcgcatgaat
+     ******       *********          *****************            < repeat
+     ****************          ********************************   < misprime
+     AACCAACTTTGAGCGGTTTAGTGATTCGTACACCGTGTTTAAAACCTATCAGCGTACT  
+                                                        <--- 78  
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                             81 --->             
+2821 actaaatacgatgaaaatgataaacttattcgagag    AAGTGATTACCTTAAAATCT
+        ************************             *********  ********* < repeat
+             ****************************                         < misprime
+              ctacttttactatttgaataagctctccaatttcactaatggaattttaga
+                                                                 
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                           83 ---
+2881 AAATTAGTTTCTGACTTCCGAAAAGATTTCCAATTCTATA              aacaat
+     *********************************   ********   ************* < repeat
+      ******************************************************   ** < misprime
+     tttaatcaa      AAGGCTTTTCTAAAGGTTAAGATATTTCATGCACTCTAATTGTTA
+       <--- 80                                                   
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+     >                                                           
+2941 taccatcatgcccatgatgcgtatctaaatgccgtcgttggaactgctttgatt      
+     ****       ********  *********                  ************ < repeat
+     ******************                  ************************ < misprime
+     ATGGTAGTACGGGTA                  cagcaaccttgacgaaactaattcttt
+             <--- 82                                             
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                 85 --->                                         
+3001             GAATCGGAGTTTGTCTATGGTGATTATAAAGTTTATGATGTTCGTAAA
+     ********* ******** *********** ***************************** < repeat
+     **************                                 ************* < misprime
+                                       ********                   < AT rich
+     ataggttttgaacttagcctcaaacagatacca              ACTACAAGCATTT
+                               <--- 84                           
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                 87 --->                         
+3061 ATGATTGCTAAG                gcaaagcaaccgcaaaatatttcttttactct
+     ***************************  ********   ******************** < repeat
+     ************************************************************ < misprime
+                                              *********           < AT rich
+     TACTAACGATTCAGACTCGTTCTTTATCCGTTTCGTTGGCGTTTTAT             
+                                             <--- 86             
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                   89 --->       
+3121 aatatcatgaacttcttcaaaacagaaa                  AGATTCGCAAACGC
+     ********************************* ***************    ******* < repeat
+     ************************************                         < misprime
+        tagtacttgaagaagttttgtctttaatgtgaacgtttacctctctaagcgtttgcg
+                                                             <---
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                                 
+3181 CCTCTAATCGAAACTAATGGGGAAACTGGAGAAATTGTCTGGGATA              
+     * **********************                  ********  ******** < repeat
+                             ******************             ***** < misprime
+     gga                     TGACCTCTTTAACAGACCCTATTTCCCGCTCTAAAA
+      88                                                         
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+          91 --->                                                
+3241      agtgcgcaaagtattgtccatgccccaagtcaatattgtcaagaaaacagaagta
+     ********                       ************* *************   < repeat
+     *************                                  ************* < misprime
+     CGGTGTCACGCGTTTCATAACAGG                  cagttcttttgtcttcat
+                      <--- 90                                    
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                      93 --->                                    
+3301 cagac            CAAGGAGTCAATTTTACCAAAAAGAAATTCGGACAAGCTTATT
+                             *********************       ******** < repeat
+     ******        ******************          ****************** < misprime
+     gtctgtccgcctaagaggttcctcagttaaaatggtttttct           CGAATAA
+                                        <--- 92                  
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                     95 --->                     
+3361 GCTCGTAAAAAAGACTG               tggtggttttgatagtccaacggtagct
+       **************   *************   *************        **** < repeat
+     ****************************************************         < misprime
+                            **********                            < AT rich
+     CGAGCATTTTTTCTGACCCTAGGTTTTTTTATACCACCAAAACTATCAGGTTG       
+                                                   <--- 94       
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                  97 --->        
+3421 tattcagtcctagtggttgctaaggtggaaaa             AAGTTAAAATCCGTT
+     ****            ********            ************************ < repeat
+           *****************************************************  < misprime
+                 caccaacgattccacctttttccctttagcttcttcaattttaggcaa
+                                                                 
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                          99 --->
+3481 AAAGAGTTACTAGGGATCACAATTATGGAAAGAAGTTCCTTTGAA        gattgac
+     ******                      ********** ********************* < repeat
+                        *********************************         < misprime
+                                                ********          < AT rich
+     tttctcaatgat        TTAATACCTTTCTTCAAGGAAACTTTTTTTAGGCTAACTG
+          <--- 96                                                
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                           101 --
+3541 tttttagaagctaaaggatataaggaagttaaaaaagacttaatcattaaact CCTAAA
+     **********       *******************************       ***** < repeat
+                           ************************************** < misprime
+                                 ********                    **** < AT rich
+     AAAAATCTTCGATTTCCTAT   ccttcaattttttctgaattagtaatttgatggattt
+                  <--- 98                                        
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+     ->                                                          
+3601 TATAGTCTTTTTGAGTTAGAAAACGGTCGTAAACGGATGCTGGCTAGTGCCGGA      
+     ***********************   ************                       < repeat
+     *************************             ******************     < misprime
+     ****                                                         < AT rich
+     atatcagaaaaactcaatctttt               CGACCGATCACGGCCTCTTAAT
+                     <---100                                     
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                       103 --->                                  
+3661                   gctctgccaagcaaatatgtgaattttttatatttagctagt
+                         ******** ****************************    < repeat
+                   ********************************************** < misprime
+                                            ***************       < AT rich
+     GTTTTTCCTTTACTCGACCGAGACGGTTCGTTTATACA               tcgatca
+                                    <---102                      
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                 105 --->                        
+3721 cattatgaaaagttgaag          AAGATAACGAACAAAAACAATTGTTTGTGGAG
+       ****************       **********************************  < repeat
+     ******************                       ******************* < misprime
+     gtaatacttttcaacttcccatcaggtcttctattgcttgtttttgttaacaa       
+                                                   <---104       
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                           107 --->              
+3781 CAGCATAAGCATTATTTAGATGAGATTA          cagtgaattttctaagcgtgtt
+       **************************** **********************        < repeat
+     ****************************                                 < misprime
+               ********                                        ** < AT rich
+      TCGTATTCGTAATAAATCTACTCTAATAACTCGTTTAGTCACTTAAAAGATTCGCACAA
+                                                           <---10
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                      109 --->   
+3841 attttagcagatgccaatttagataaagttcttagtgc           ATAGAGACAAA
+      *****************************          ******************** < repeat
+                 ************************************************ < misprime
+     ******                                                       < AT rich
+     T           cggttaaatctatttcaagaatcacgtatattgtttgtatctctgttt
+     6                                                           
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                                               11
+3901 CCAATACGTGAACAAGCAGAAAATATTATTCATTTATTTACGTTGACGA         ct
+     *****           ***********  *****************        ****** < repeat
+             ******************************                       < misprime
+                        *********** *********                     < AT rich
+     ggttatgcactt        TTTATAATAAGTAAATAAATGCAACTGCTTAGAACCTCGA
+          <---108                                                
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+     1 --->                                                      
+3961 cccgctgcttttaaatattttgatacaacaattgatcgtaaacgatatacgtctacaa  
+     **    **************************** *************        **** < repeat
+                                             ******************** < misprime
+             *************                                        < AT rich
+     GGGCGACGAAAATTTATAAA             ctagcatttgctatatgcagatgtttt
+                  <---110                                        
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                 113 --->                                        
+4021             GCCACTCTTATCCATCAATCCATCACTGGTCTTTATGAAACACGCATT
+     **************** ********************     ************    ** < repeat
+     *********         ******************          ************** < misprime
+     cttcaaaatctacggtgagaataggtagttagg                  TGTGCGTAA
+                               <---112                           
+                                                                 
+ 
+     |        |         |         |         |         |         |
+ 
+                                
+4081 GATTTGAGTCAG               
+     ******                      < repeat
+     ****    ******************  < misprime
+     CTAAACTCAGTCGATCCTCCACTGATT
+                         <---114
+                                
+ ----------------------------------------------------------------
+ 
+ The total codon usage score ...........     0.000
+ The total length score ................     4.831
+ The total melting temperature score ...     0.003
+ The total repeat score ................    43.117
+ The total pattern score ...............     0.000
+ The total mispriming score ............    31.731
+ The total AT content score ............     3.000
+ The total GC content score ............     0.039
+ The total fixed gap score .............      N/A
+                The OVERALL score ......    82.721
+ 
+ 
+                  Tm Range    # of Overlaps 
+             -------------------------------------
+                   <60            0
+                    60            1
+                    61           58
+                    62           48
+                    63            6
+                    64            0
+                    65            0
+                    66            0
+                    67            0
+                  >=68            0
+             -------------------------------------
+              Tm Range =  2.8
+ 
+              Ovrlap Len Range  # of Oligos
+             -------------------------------------
+                   <20           10
+                    20            6
+                    21           18
+                    22            8
+                    23           12
+                    24            6
+                    25           25
+                    26            5
+                    27           10
+                    28            1
+                    29            8
+                  >=30            1
+             -------------------------------------
+              Lowest Overlap = 16
+ 
+              Length Range   # of Oligos
+             -------------------------------------
+                   < 51            2
+                   51- 52           0
+                   53- 54           0
+                   55- 56           0
+                   57- 58           0
+                   59- 60         111
+                   61- 62           1
+                   63- 64           0
+                   65- 66           0
+                   67- 68           0
+                   69- 70           0
+                   >= 71           0
+             -------------------------------------
+              Longest =  62
+ 
+  There are 181 potential misprimings with <=  8 non-identical nts:
+ ----------------------------------------------------------------
+  Oligo Type 5'-start     Sequence     3'-start  Identical            
+ ----------------------------------------------------------------
+     2   DA     26  AAGCCTATTGAGTATTTC     9      11/18
+                     ||    |||  ||||||
+               407  tAGatagTTGgaTATTTC   390
+
+     2   DA     26  AAGCCTATTGAGTATTTC     9      10/18
+                         | |||  ||||||
+              3014  tcaagTtTTGgaTATTTC  2997
+
+    80   DA   2847  AAGTTTATCATTTTCATC  2830      10/18
+                      |    | || ||||||
+                84  cgGaaccTtATaTTCATC    67
+
+     4   IS    108  TCCCAGAACCTTGAACTT    91      11/18
+                      | |  | | |||||||
+              3117  ctCtAatAtCaTGAACTT  3134
+
+     4   DA    108  TCCCAGAACCTTGAACTT    91      10/18
+                    |    | ||   ||||||
+              3883  TatatGcACtaaGAACTT  3866
+
+    91   DS   3288  GAAAACAGAAGTACAGAC  3305      11/18
+                    |      ||| |||||||
+               100  GttctggGAAaTACAGAC   117
+
+    41   DS   1487  CAAACTTTGATAAAAATC  1504      10/18
+                      |   |  | |||||||
+               122  acAgtaTcaAaAAAAATC   139
+
+    82   IA   2913  TTGGAAATCTTTTCGGAA  2896      10/18
+                      || |  |   ||||||
+               210  aaGGtAtaCacgTCGGAA   227
+
+    32   DA   1125  AAATTTATAAAATTCTTC  1108      12/18
+                     ||   |||  |||||||
+               242  tAAcaaATAcgATTCTTC   225
+
+     8   DA    260  GAAAAAATCTCCTGTAGA   243      13/18
+                     ||||  |||  ||||||
+              4029  tAAAActTCTttTGTAGA  4012
+
+    41   IS   1487  CAAACTTTGATAAAAATC  1504      10/18
+                        | ||   |||||||
+               269  atctCaTTtgaAAAAATC   252
+
+    80   IA   2847  AAGTTTATCATTTTCATC  2830      11/18
+                    | | |  |   |||||||
+               281  AtGaTagTttcTTTCATC   298
+
+    25   DS    906  TTCAGATATCCTAAGAGT   923      11/18
+                    ||||   |    ||||||
+               293  TTCAtcgActtgAAGAGT   310
+
+    29   IS   1052  TTTTTGATCAATCAAAAA  1069      12/18
+                     | ||  || | ||||||
+               330  gTcTTctTCcAcCAAAAA   313
+
+    52   DA   1834  TTTCTTCATTATCCAAAA  1817      13/18
+                    | ||||| |   ||||||
+               331  TgTCTTCtTccaCCAAAA   314
+
+    35   DS   1264  ATTTTGAGAAGACAAGAA  1281      13/18
+                      |   ||||||||||||
+               318  ggTggaAGAAGACAAGAA   335
+
+    10   DA    335  TTCTTGTCTTCTTCCACC   318      12/18
+                       ||  ||| |||||||
+              3461  gatTTccCTTtTTCCACC  3444
+
+    32   DA   1125  AAATTTATAAAATTCTTC  1108      10/18
+                    |   || |    ||||||
+               339  AtgcTTcTtgtcTTCTTC   322
+
+    63   DS   2259  GCATAAGCCAGAAAATAT  2276      10/18
+                     | ||     | ||||||
+               348  tCcTAtttttGgAAATAT   365
+
+    17   DS    603  TAACGCAAGTGGAGTAGA   620      11/18
+                    |   | || |  ||||||
+               354  TtttGgAAaTatAGTAGA   371
+
+    52   DA   1834  TTTCTTCATTATCCAAAA  1817      11/18
+                    | |  |   | |||||||
+               371  TcTacTataTtTCCAAAA   354
+
+   110   DA   3938  AATAAATGAATAATATTT  3921      11/18
+                    | |  ||  |  ||||||
+               377  AcTtcATctActATATTT   360
+
+    80   DA   2847  AAGTTTATCATTTTCATC  2830      12/18
+                    | | | | ||  ||||||
+               387  AtGaTaAgCAacTTCATC   370
+
+    63   DS   2259  GCATAAGCCAGAAAATAT  2276      10/18
+                    || ||       ||||||
+               379  GCtTAtcatgagAAATAT   396
+
+    94   DA   3371  TTTTTACGAGCAATAAGC  3354      10/18
+                     | || |     ||||||
+               396  aTaTTtCtcatgATAAGC   379
+
+    12   IS    397  GATATTTCTCATGATAAG   380      12/18
+                     |  | | | ||||||||
+              1921  cAccTcTtTgATGATAAG  1938
+
+    12   IS    397  GATATTTCTCATGATAAG   380      10/18
+                     ||  |  |   ||||||
+              2002  aATggTatTaggGATAAG  2019
+
+    12   DA    397  GATATTTCTCATGATAAG   380      10/18
+                    |||   |     ||||||
+              4056  GATggaTtgatgGATAAG  4039
+
+    88   DA   3141  TTTGAAGAAGTTCATGAT  3124      11/18
+                    || ||      |||||||
+               400  TTgGAtatttcTCATGAT   383
+
+    31   IS   1122  ATTTATCAAACCAATTTT  1139      11/18
+                     |  |    |||||||||
+               437  gTagAatctACCAATTTT   420
+
+    78   DA   2776  GGCGAGTTTCAACCAATT  2759      11/18
+                        ||  || |||||||
+               439  cagtAGaaTCtACCAATT   422
+
+    33   IS   1185  TGAAGATTTGCTGCGCAA  1202      10/18
+                      || |  |   ||||||
+               468  caAAtAgaTtaaGCGCAA   451
+
+    26   DA    913  TATCTGAAAGTAAAATAG   896      10/18
+                    |     || |  ||||||
+               479  TgcgctAAgGccAAATAG   462
+
+    83   DS   2977  GTTGGAACTGCTTTGATT  2994      11/18
+                      |||   |  |||||||
+               493  cgTGGtcaTttTTTGATT   510
+
+    29   IS   1052  TTTTTGATCAATCAAAAA  1069      13/18
+                     | |   |||||||||||
+               519  aTcTcccTCAATCAAAAA   502
+
+    50   IA   1774  CTAATGAAGCATTAAATC  1757      12/18
+                     | | | ||  |||||||
+               509  tTgAgGgAGatTTAAATC   526
+
+    50   DA   1774  CTAATGAAGCATTAAATC  1757      12/18
+                     | || | |  |||||||
+               534  aTtATcAgGatTTAAATC   517
+
+    18   IA    616  CTCCACTTGCGTTAATAG   599      10/18
+                     |  | |   | ||||||
+               519  tTtaAaTcctGaTAATAG   536
+
+    22   DA    772  AATCAAAATTTGATTTAA   755      10/18
+                    | |   |    |||||||
+               537  AcTattAtcagGATTTAA   520
+
+    15   IA    532  AATAGTGATGTGGACAAA   549      10/18
+                    |  | |  |   ||||||
+              2000  AtcAaTttTcgaGACAAA  1983
+
+    15   DS    532  AATAGTGATGTGGACAAA   549      11/18
+                    || |   ||   ||||||
+              3883  AAcAaacATagaGACAAA  3900
+
+    86   DA   3065  ATCATTTTACGAACATCA  3048      11/18
+                    |  | |||    ||||||
+               554  AatAgTTTgtccACATCA   537
+
+    90   IA   3222  CCAGACAATTTCTCCAGT  3205      14/18
+                     || || |||| ||||||
+               545  aCAaACtATTTaTCCAGT   562
+
+    26   DA    913  TATCTGAAAGTAAAATAG   896      10/18
+                    || |     |  ||||||
+               567  TAcCaactgGatAAATAG   550
+
+   111   DS   4001  AACGATATACGTCTACAA  4018      10/18
+                       | || |   ||||||
+               561  gttGgTAcAaacCTACAA   578
+
+    48   DA   1704  ATAATCTTCTTTTAATTG  1687      12/18
+                     |  |||||   ||||||
+               597  gTttTCTTCaaaTAATTG   580
+
+    98   DA   3518  GAACTTCTTTCCATAATT  3501      12/18
+                    |   |||||   ||||||
+               598  GgttTTCTTcaaATAATT   581
+
+    69   DS   2475  CCAAGAATTAGATATTAA  2492      11/18
+                      |||||     ||||||
+               588  tgAAGAAaacccTATTAA   605
+
+    18   DA    616  CTCCACTTGCGTTAATAG   599      10/18
+                        || |   |||||||
+              2212  aaatACcTtttTTAATAG  2195
+
+    18   DA    616  CTCCACTTGCGTTAATAG   599      10/18
+                    |     | | | ||||||
+              2456  CcatttTgGaGaTAATAG  2439
+
+    50   IA   1774  CTAATGAAGCATTAAATC  1757      10/18
+                       | ||   | ||||||
+               639  tgcAcGAttgAgTAAATC   656
+
+    83   IS   2977  GTTGGAACTGCTTTGATT  2994      11/18
+                     ||  ||  |  ||||||
+               670  tTTctAAtcGtcTTGATT   653
+
+    19   IA    679  GCTCAGCTCCCCGGTGAG   696      10/18
+                      ||| |     ||||||
+              1936  taTCAtCaaagaGGTGAG  1919
+
+    20   DA    698  TTCTCACCGGGGAGCTGA   681      10/18
+                    ||    |   | ||||||
+               969  TTtaatCattGaAGCTGA   952
+
+    20   DA    698  TTCTCACCGGGGAGCTGA   681      12/18
+                    |  |||||    ||||||
+              4106  TagTCACCtcctAGCTGA  4089
+
+    60   DA   2119  CTTCTTTAAATGTCAAAC  2102      10/18
+                         |||   |||||||
+               757  taaaaTTAgggGTCAAAC   740
+
+    31   DS   1122  ATTTATCAAACCAATTTT  1139      13/18
+                    | || | || | ||||||
+               751  AaTTtTaAAtCaAATTTT   768
+
+    22   IS    772  AATCAAAATTTGATTTAA   755      12/18
+                    | |  ||  | |||||||
+              1746  AgTtgAAgaTaGATTTAA  1763
+
+    21   IA    762  AAATTTTGATTTGGCAGA   779      13/18
+                    | || ||   ||||||||
+              3698  AcATaTTtgcTTGGCAGA  3681
+
+    75   IS   2691  TGATAATTTAACGAAAGC  2708      11/18
+                    | |  || |   ||||||
+               812  TaAgtATcTtttGAAAGC   795
+
+    76   IA   2700  TAAATTATCAAACTTACG  2683      10/18
+                    |     |  | |||||||
+               797  TttcaaAagAtACTTACG   814
+
+    98   IA   3518  GAACTTCTTTCCATAATT  3501      10/18
+                        |  |||  ||||||
+               815  atgaTgaTTTagATAATT   832
+
+    24   DA    846  AATTTGCGCCAATAAATT   829      11/18
+                    |||     |  |||||||
+               900  AATagcatCtgATAAATT   883
+
+    24   DA    846  AATTTGCGCCAATAAATT   829      12/18
+                    || |||     |||||||
+              1138  AAaTTGgtttgATAAATT  1121
+
+    23   IA    832  TTATTGGCGCAAATTGGA   849      10/18
+                     || |      |||||||
+              2926  gTAcTttatagAATTGGA  2909
+
+    54   DA   1904  CTTTCCTCAATCATCTCC  1887      10/18
+                     |   |  | | ||||||
+               864  aTcagCatAtTgATCTCC   847
+
+    58   IA   2046  AAAATCTAATATTGTTTT  2029      11/18
+                    || ||      |||||||
+               854  AAtATgctgatTTGTTTT   871
+
+    29   IS   1052  TTTTTGATCAATCAAAAA  1069      11/18
+                     || | | |   ||||||
+               885  aTTcTtAgCtgcCAAAAA   868
+
+    40   IA   1422  GGTAATTGTTTCTTCAGA  1405      11/18
+                     |  ||| |   ||||||
+               894  tGctATTtTactTTCAGA   911
+
+    26   IS    913  TATCTGAAAGTAAAATAG   896      10/18
+                      | |   |  |||||||
+              1700  atTaTttcAaaAAAATAG  1717
+
+    26   IS    913  TATCTGAAAGTAAAATAG   896      11/18
+                      |||||     ||||||
+              3071  agTCTGAgcaagAAATAG  3088
+
+    25   IA    906  TTCAGATATCCTAAGAGT   923      11/18
+                    |  || | |   ||||||
+              1014  TaaAGcTtTtaaAAGAGT   997
+
+    86   IA   3065  ATCATTTTACGAACATCA  3048      11/18
+                    |   |   | ||||||||
+               969  AcgcTacgAtGAACATCA   986
+
+    80   DA   2847  AAGTTTATCATTTTCATC  2830      12/18
+                       || || || ||||||
+               993  gtcTTgATgATgTTCATC   976
+
+    27   DS    977  ATGAACATCATCAAGACT   994      11/18
+                     ||  | | |  ||||||
+              3359  tTGctCgTaAaaAAGACT  3376
+
+    27   DS    977  ATGAACATCATCAAGACT   994      12/18
+                    | |||  | |  ||||||
+              3563  AgGAAgtTaAaaAAGACT  3580
+
+    27   IA    977  ATGAACATCATCAAGACT   994      11/18
+                     |  |  |||  ||||||
+              3621  tTctAacTCAaaAAGACT  3604
+
+   100   IA   3581  AAGTCTTTTTTAACTTCC  3564      10/18
+                    |  ||      |||||||
+              1014  AgtTCgacaacAACTTCC  1031
+
+    30   DA   1058  TCAAAAAAGATTTCTTTA  1041      11/18
+                      ||||    | ||||||
+              1820  aaAAAAtcttTaTCTTTA  1803
+
+    30   DA   1058  TCAAAAAAGATTTCTTTA  1041      11/18
+                    | |   || |  ||||||
+              1826  TtAtccAAaAaaTCTTTA  1809
+
+    30   DA   1058  TCAAAAAAGATTTCTTTA  1041      11/18
+                    |    || |  |||||||
+              2129  TtttgAAtGtcTTCTTTA  2112
+
+    30   DA   1058  TCAAAAAAGATTTCTTTA  1041      11/18
+                    |||| |      ||||||
+              2405  TCAAcAggatgcTCTTTA  2388
+
+    30   DA   1058  TCAAAAAAGATTTCTTTA  1041      10/18
+                    || |   |    ||||||
+              2558  TCtAttgAatcgTCTTTA  2541
+
+    29   IS   1052  TTTTTGATCAATCAAAAA  1069      16/18
+                    ||||||||  ||||||||
+              1069  TTTTTGATtgATCAAAAA  1052
+
+    29   IA   1052  TTTTTGATCAATCAAAAA  1069      16/18
+                    ||||||||  ||||||||
+              1069  TTTTTGATtgATCAAAAA  1052
+
+    29   IA   1052  TTTTTGATCAATCAAAAA  1069      13/18
+                    || || || |  ||||||
+              1833  TTcTTcATtAtcCAAAAA  1816
+
+    29   DS   1052  TTTTTGATCAATCAAAAA  1069      10/18
+                    |     |  | |||||||
+              2616  TgaagaAgtAgTCAAAAA  2633
+
+    73   DS   2616  TGAAGAAGTAGTCAAAAA  2633      10/18
+                    |     |  | |||||||
+              1052  TttttgAtcAaTCAAAAA  1069
+
+    73   IS   2616  TGAAGAAGTAGTCAAAAA  2633      10/18
+                    |     | |  |||||||
+              1069  TttttgAtTgaTCAAAAA  1052
+
+    29   IA   1052  TTTTTGATCAATCAAAAA  1069      12/18
+                      |||  | | |||||||
+              3625  cgTTTtcTaAcTCAAAAA  3608
+
+   104   DA   3731  TTTTCATAATGACTAGCT  3714      12/18
+                      ||| |  || ||||||
+              1115  aaTTCtTctTGgCTAGCT  1098
+
+    32   DA   1125  AAATTTATAAAATTCTTC  1108      10/18
+                     |  |  | |  ||||||
+              1845  gAtaTctTcAttTTCTTC  1828
+
+    32   DA   1125  AAATTTATAAAATTCTTC  1108      10/18
+                       |||   |  ||||||
+              2370  ttcTTTgatAccTTCTTC  2353
+
+    32   DA   1125  AAATTTATAAAATTCTTC  1108      10/18
+                       |||    | ||||||
+              2634  cttTTTgactAcTTCTTC  2617
+
+    32   IS   1125  AAATTTATAAAATTCTTC  1108      13/18
+                    ||  | || || ||||||
+              3121  AAtaTcATgAAcTTCTTC  3138
+
+    32   DA   1125  AAATTTATAAAATTCTTC  1108      11/18
+                    |    | | || ||||||
+              3479  AcggaTtTtAAcTTCTTC  3462
+
+    60   IA   2119  CTTCTTTAAATGTCAAAC  2102      11/18
+                     || |  |  | ||||||
+              1115  tTTaTaaAttTaTCAAAC  1132
+
+    31   DS   1122  ATTTATCAAACCAATTTT  1139      11/18
+                    |||   | |   ||||||
+              1417  ATTaccCcAtggAATTTT  1434
+
+    31   IA   1122  ATTTATCAAACCAATTTT  1139      11/18
+                    ||      || |||||||
+              2009  ATaccattAAtCAATTTT  1992
+
+    31   DS   1122  ATTTATCAAACCAATTTT  1139      10/18
+                     ||    |   |||||||
+              2062  tTTgccaAtcgCAATTTT  2079
+
+    31   DS   1122  ATTTATCAAACCAATTTT  1139      10/18
+                       | |   || ||||||
+              2787  gcaTgTggcACaAATTTT  2804
+
+    31   DS   1122  ATTTATCAAACCAATTTT  1139      10/18
+                     |  |   |  |||||||
+              3315  cTccAaggAgtCAATTTT  3332
+
+    98   DA   3518  GAACTTCTTTCCATAATT  3501      10/18
+                      | ||    | ||||||
+              1180  ttAgTTtcacCaATAATT  1163
+
+    34   DA   1201  TGCGCAGCAAATCTTCAC  1184      10/18
+                    |    |  |  |||||||
+              2632  TtttgActActTCTTCAC  2615
+
+    71   DS   2544  AGACGATTCAATAGACAA  2561      10/18
+                          || || ||||||
+              1290  tccattTTtAAaAGACAA  1307
+
+    41   DS   1487  CAAACTTTGATAAAAATC  1504      10/18
+                     | |   |   |||||||
+              1312  gAgAagaTtgaAAAAATC  1329
+
+    37   DS   1334  CTTTTCGAATTCCTTATT  1351      10/18
+                     ||  |     |||||||
+              1860  tTTaaCattgaCCTTATT  1877
+
+    37   DS   1334  CTTTTCGAATTCCTTATT  1351      10/18
+                      ||  ||    ||||||
+              3343  aaTTcgGAcaagCTTATT  3360
+
+   100   DA   3581  AAGTCTTTTTTAACTTCC  3564      11/18
+                      || | ||   ||||||
+              1417  ttGTtTcTTcagACTTCC  1400
+
+    39   DS   1410  AGAAACAATTACCCCATG  1427      10/18
+                    |  | ||     ||||||
+              2939  AttAcCAtcatgCCCATG  2956
+
+   103   DS   3721  CATTATGAAAAGTTGAAG  3738      12/18
+                    |   ||| ||  ||||||
+              1421  CcccATGgAAttTTGAAG  1438
+
+    41   IA   1487  CAAACTTTGATAAAAATC  1504      10/18
+                       | | |   |||||||
+              1830  ttcAtTaTccaAAAAATC  1813
+
+    41   DS   1487  CAAACTTTGATAAAAATC  1504      13/18
+                    |    | |||||||||||
+              2573  CgcgtTcTGATAAAAATC  2590
+
+    41   DS   1487  CAAACTTTGATAAAAATC  1504      13/18
+                        |||||| |||||||
+              3515  gttcCTTTGAaAAAAATC  3532
+
+    58   DA   2046  AAAATCTAATATTGTTTT  2029      12/18
+                     ||| | ||   ||||||
+              1544  tAAAgCaAActaTGTTTT  1527
+
+    44   IS   1563  ATAAACCGTAAAATACTC  1546      11/18
+                    ||       |||||||||
+              2396  ATcctgttgAAAATACTC  2413
+
+    43   DS   1555  ACGGTTTATAACGAATTG  1572      12/18
+                    |  |||  | | ||||||
+              2224  AaaGTTgtTgAtGAATTG  2241
+
+    43   IA   1555  ACGGTTTATAACGAATTG  1572      12/18
+                    |||   | ||  ||||||
+              2928  ACGtacTtTAtaGAATTG  2911
+
+    46   IS   1640  GCTTTCTTCTGTTCACCT  1623      10/18
+                         | | || ||||||
+              1908  taaaaCaTaTGcTCACCT  1925
+
+    75   DS   2691  TGATAATTTAACGAAAGC  2708      10/18
+                     | | |    | ||||||
+              1623  aGgTgAacagAaGAAAGC  1640
+
+    58   DA   2046  AAAATCTAATATTGTTTT  2029      10/18
+                     |  | |    |||||||
+              1677  tActTtTcgatTTGTTTT  1660
+
+   105   DS   3791  ATTATTTAGATGAGATTA  3808      11/18
+                       ||| | |  ||||||
+              1686  gcaATTaAaAgaAGATTA  1703
+
+    48   DA   1704  ATAATCTTCTTTTAATTG  1687      11/18
+                    |   ||||    ||||||
+              3517  AactTCTTtccaTAATTG  3500
+
+    73   DS   2616  TGAAGAAGTAGTCAAAAA  2633      12/18
+                     |||||     |||||||
+              1695  aGAAGAttattTCAAAAA  1712
+
+    58   IA   2046  AAAATCTAATATTGTTTT  2029      12/18
+                    ||||    | | ||||||
+              1708  AAAAaaatAgAaTGTTTT  1725
+
+    68   DA   2417  AATTGAGTATTTTCAACA  2400      12/18
+                    | |   | | ||||||||
+              1748  AcTcctGaAaTTTCAACA  1731
+
+   103   DS   3721  CATTATGAAAAGTTGAAG  3738      12/18
+                     | | | |  ||||||||
+              1736  aAaTtTcAggAGTTGAAG  1753
+
+    49   IA   1764  TGCTTCATTAGGTACCTA  1781      10/18
+                            ||||||||||
+              1789  aatcatggTAGGTACCTA  1772
+
+    49   DS   1764  TGCTTCATTAGGTACCTA  1781      10/18
+                    |  |   | |  ||||||
+              3581  TaaTcatTaAacTACCTA  3598
+
+    73   IS   2616  TGAAGAAGTAGTCAAAAA  2633      10/18
+                    |     | ||  ||||||
+              1833  TtcttcAtTAtcCAAAAA  1816
+
+    52   IS   1834  TTTCTTCATTATCCAAAA  1817      12/18
+                    | |||    | |||||||
+              2436  TcTCTattaTcTCCAAAA  2453
+
+    52   DA   1834  TTTCTTCATTATCCAAAA  1817      11/18
+                    |      | |||||||||
+              2818  TcatgcgAcTATCCAAAA  2801
+
+    52   IS   1834  TTTCTTCATTATCCAAAA  1817      12/18
+                     ||    | |||||||||
+              2992  aTTaagaAaTATCCAAAA  3009
+
+    58   IA   2046  AAAATCTAATATTGTTTT  2029      11/18
+                       |    ||||||||||
+              1845  cttAgaggATATTGTTTT  1862
+
+   103   DS   3721  CATTATGAAAAGTTGAAG  3738      11/18
+                    ||||      | ||||||
+              1865  CATTgaccttAtTTGAAG  1882
+
+    54   IS   1904  CTTTCCTCAATCATCTCC  1887      12/18
+                      |  ||| || ||||||
+              2432  tcTatCTCtATtATCTCC  2449
+
+    53   DS   1892  TGATTGAGGAAAGACTTA  1909      12/18
+                      | | |  |||||||||
+              3565  gaAgTtAaaAAAGACTTA  3582
+
+   106   IA   3799  CTAAATAATGCTTATGCT  3782      11/18
+                      |  |||  | ||||||
+              1903  agActTAAaaCaTATGCT  1920
+
+    80   DA   2847  AAGTTTATCATTTTCATC  2830      11/18
+                       || | |  |||||||
+              1958  cgtTTaAgCtgTTTCATC  1941
+
+    71   IS   2544  AGACGATTCAATAGACAA  2561      11/18
+                    |  | |||    ||||||
+              2001  AatCaATTttcgAGACAA  1984
+
+    94   IA   3371  TTTTTACGAGCAATAAGC  3354      11/18
+                     |  ||  ||  ||||||
+              2003  aTggTAttAGggATAAGC  2020
+
+    58   DA   2046  AAAATCTAATATTGTTTT  2029      10/18
+                    ||     | |  ||||||
+              3156  AAgtgtaAtTtcTGTTTT  3139
+
+    58   DA   2046  AAAATCTAATATTGTTTT  2029      10/18
+                        | || |  ||||||
+              3306  tgtcTgTAcTtcTGTTTT  3289
+
+    58   DA   2046  AAAATCTAATATTGTTTT  2029      10/18
+                       |   |  ||||||||
+              3779  tccAcaaAcaATTGTTTT  3762
+
+    97   DS   3508  GAAAGAAGTTCCTTTGAA  3525      11/18
+                     | |  || |  ||||||
+              2034  aAtAttAGaTttTTTGAA  2051
+
+    57   DS   2040  AGATTTTTTGAAATCAGA  2057      10/18
+                     |     |  ||||||||
+              2288  tGgcacgTgaAAATCAGA  2305
+
+    60   DA   2119  CTTCTTTAAATGTCAAAC  2102      12/18
+                     |  || || | ||||||
+              2705  tTcgTTaAAtTaTCAAAC  2688
+
+    73   DS   2616  TGAAGAAGTAGTCAAAAA  2633      10/18
+                      |  |   | |||||||
+              2113  aaAgaAgacAtTCAAAAA  2130
+
+    91   DS   3288  GAAAACAGAAGTACAGAC  3305      10/18
+                     |||       |||||||
+              2202  aAAAggtatttTACAGAC  2219
+
+    80   DA   2847  AAGTTTATCATTTTCATC  2830      11/18
+                     | |||  |   ||||||
+              2250  tAcTTTgaCcaaTTCATC  2233
+
+    94   IA   3371  TTTTTACGAGCAATAAGC  3354      10/18
+                    |  |   | |  ||||||
+              2249  TaaTgggGcGgcATAAGC  2266
+
+    63   DS   2259  GCATAAGCCAGAAAATAT  2276      10/18
+                    || |     |  ||||||
+              2986  GCtTtgattAagAAATAT  3003
+
+    63   DS   2259  GCATAAGCCAGAAAATAT  2276      11/18
+                      |  | ||  |||||||
+              3091  aaAgcAaCCgcAAAATAT  3108
+
+    63   DS   2259  GCATAAGCCAGAAAATAT  2276      10/18
+                        |  | | |||||||
+              3376  tgggAtcCaAaAAAATAT  3393
+
+    63   DS   2259  GCATAAGCCAGAAAATAT  2276      11/18
+                    ||     | || ||||||
+              3679  GCtctgcCaAGcAAATAT  3696
+
+    63   DS   2259  GCATAAGCCAGAAAATAT  2276      12/18
+                      |  |  ||||||||||
+              3909  tgAacAagCAGAAAATAT  3926
+
+   110   DA   3938  AATAAATGAATAATATTT  3921      11/18
+                    | |  |  ||  ||||||
+              2288  AtTtcAatAAcgATATTT  2271
+
+    79   DS   2839  GATAAACTTATTCGAGAG  2856      11/18
+                     | |||  |   ||||||
+              2320  cAgAAAaaTtcgCGAGAG  2337
+
+    67   IA   2407  AATACTCAATTGCAAAAT  2424      10/18
+                     || |     | ||||||
+              2817  cATgCgactaTcCAAAAT  2800
+
+    67   DS   2407  AATACTCAATTGCAAAAT  2424      11/18
+                       |  |||  |||||||
+              3089  gcaAagCAAccGCAAAAT  3106
+
+    67   IA   2407  AATACTCAATTGCAAAAT  2424      10/18
+                        | |  | |||||||
+              3253  tgcgCaCtgTgGCAAAAT  3236
+
+    86   DA   3065  ATCATTTTACGAACATCA  3048      11/18
+                    |  || | |   ||||||
+              2525  AcaATgTgAtcgACATCA  2508
+
+    71   DS   2544  AGACGATTCAATAGACAA  2561      10/18
+                      || |    | ||||||
+              3882  taACaAacatAgAGACAA  3899
+
+    98   IA   3518  GAACTTCTTTCCATAATT  3501      10/18
+                     |  |   ||  ||||||
+              2681  aAcgTaagTTtgATAATT  2698
+
+   108   DA   3870  AACTTTATCTAAATTGGC  3853      11/18
+                     | |||     |||||||
+              2773  gAgTTTcaaccAATTGGC  2756
+
+    99   DS   3576  AGACTTAATCATTAAACT  3593      10/18
+                     ||   ||    ||||||
+              2829  cGAtgaAAatgaTAAACT  2846
+
+   100   IA   3581  AAGTCTTTTTTAACTTCC  3564      13/18
+                    || |  ||| | ||||||
+              2882  AAtTagTTTcTgACTTCC  2899
+
+    87   IS   3131  ACTTCTTCAAAACAGAAA  3148      10/18
+                      ||    ||  ||||||
+              2905  ctTTtcggAAgtCAGAAA  2888
+
+   105   DS   3791  ATTATTTAGATGAGATTA  3808      13/18
+                    || |  ||  ||||||||
+              2918  ATaAagTAcgTGAGATTA  2935
+
+    88   IA   3141  TTTGAAGAAGTTCATGAT  3124      10/18
+                    |   |  | |  ||||||
+              2941  TaccAtcAtGccCATGAT  2958
+
+    83   DS   2977  GTTGGAACTGCTTTGATT  2994      10/18
+                     |   |   || ||||||
+              4067  aTgaaAcacGCaTTGATT  4084
+
+    85   DS   3055  CGTAAAATGATTGCTAAG  3072      11/18
+                         | || ||||||||
+              3427  gtcctAgTGgTTGCTAAG  3444
+
+   110   IA   3938  AATAAATGAATAATATTT  3921      12/18
+                    |  ||  | | |||||||
+              3093  AgcAAccGcAaAATATTT  3110
+
+   110   DA   3938  AATAAATGAATAATATTT  3921      10/18
+                    |    |  |  |||||||
+              3120  AgagtAaaAgaAATATTT  3103
+
+    94   IS   3371  TTTTTACGAGCAATAAGC  3354      10/18
+                    || |   |    ||||||
+              3773  TTgTggaGcagcATAAGC  3790
+
+   110   DA   3938  AATAAATGAATAATATTT  3921      11/18
+                    |  |||   |  ||||||
+              3405  AtcAAAaccAccATATTT  3388
+
+    96   DA   3450  TTCCACCTTAGCAACCAC  3433      11/18
+                    ||  ||  |   ||||||
+              3412  TTggACtaTcaaAACCAC  3395
+
+   110   DA   3938  AATAAATGAATAATATTT  3921      10/18
+                       |||   |  ||||||
+              3615  ctcAAAaagActATATTT  3598
+
+   102   DA   3656  TCTCCGGCACTAGCCAGC  3639      10/18
+                    |  |  |    |||||||
+              3692  TtgCttGgcagAGCCAGC  3675
+
+   110   DA   3938  AATAAATGAATAATATTT  3921      10/18
+                     | |||      ||||||
+              3708  tAaAAAattcacATATTT  3691
+
+   110   IA   3938  AATAAATGAATAATATTT  3921      11/18
+                      | |||   | ||||||
+              3696  tgTgAATtttTtATATTT  3713
+
+ ----------------------------------------------------------------
+ 
+  There are 523 repeats greater than  8 nt:
+ ----------------------------------------------------------------
+ IR Pos1 =    1   Pos2 = 1287   Size =  8   Seq1 = ATGGATAA
+                                            Seq2 = TTATCCAT
+ IR Pos1 =    1   Pos2 = 4038   Size = 10   Seq1 = ATGGATAAGA
+                                            Seq2 = TCTTATCCAT
+ DR Pos1 =    6   Pos2 = 2994   Size =  9   Seq1 = TAAGAAATA
+                                            Seq2 = TAAGAAATA
+ DR Pos1 =    7   Pos2 = 3080   Size =  8   Seq1 = AAGAAATA
+                                            Seq2 = AAGAAATA
+ IR Pos1 =    7   Pos2 = 3106   Size =  8   Seq1 = AAGAAATA
+                                            Seq2 = TATTTCTT
+ IR Pos1 =   10   Pos2 = 1545   Size =  9   Seq1 = AAATACTCA
+                                            Seq2 = TGAGTATTT
+ DR Pos1 =   10   Pos2 = 2406   Size = 11   Seq1 = AAATACTCAAT
+                                            Seq2 = AAATACTCAAT
+ IR Pos1 =   13   Pos2 =  645   Size =  8   Seq1 = TACTCAAT
+                                            Seq2 = ATTGAGTA
+ DR Pos1 =   25   Pos2 = 2482   Size =  8   Seq1 = TTAGATAT
+                                            Seq2 = TTAGATAT
+ DR Pos1 =   34   Pos2 = 2793   Size =  9   Seq1 = GGCACAAAT
+                                            Seq2 = GGCACAAAT
+ PR Pos1 =   58   Pos2 =   58   Size =  8   Seq1 = GTGATCAC
+                                            Seq2 = GTGATCAC
+ IR Pos1 =   62   Pos2 = 3817   Size =  8   Seq1 = TCACTGAT
+                                            Seq2 = ATCAGTGA
+ DR Pos1 =   66   Pos2 = 2232   Size =  8   Seq1 = TGATGAAT
+                                            Seq2 = TGATGAAT
+ DR Pos1 =   72   Pos2 = 3558   Size =  8   Seq1 = ATATAAGG
+                                            Seq2 = ATATAAGG
+ IR Pos1 =   85   Pos2 = 3539   Size = 10   Seq1 = TCTAAAAAGT
+                                            Seq2 = ACTTTTTAGA
+ DR Pos1 =  119   Pos2 = 3241   Size =  8   Seq1 = GCCACAGT
+                                            Seq2 = GCCACAGT
+ DR Pos1 =  125   Pos2 = 2360   Size =  8   Seq1 = GTATCAAA
+                                            Seq2 = GTATCAAA
+ IR Pos1 =  125   Pos2 = 3978   Size =  9   Seq1 = GTATCAAAA
+                                            Seq2 = TTTTGATAC
+ IR Pos1 =  126   Pos2 = 1722   Size =  8   Seq1 = TATCAAAA
+                                            Seq2 = TTTTGATA
+ IR Pos1 =  126   Pos2 = 3399   Size =  8   Seq1 = TATCAAAA
+                                            Seq2 = TTTTGATA
+ IR Pos1 =  127   Pos2 =  501   Size =  9   Seq1 = ATCAAAAAA
+                                            Seq2 = TTTTTTGAT
+ IR Pos1 =  127   Pos2 = 1051   Size =  9   Seq1 = ATCAAAAAA
+                                            Seq2 = TTTTTTGAT
+ DR Pos1 =  127   Pos2 = 1062   Size =  9   Seq1 = ATCAAAAAA
+                                            Seq2 = ATCAAAAAA
+ DR Pos1 =  128   Pos2 = 1706   Size =  9   Seq1 = TCAAAAAAA
+                                            Seq2 = TCAAAAAAA
+ IR Pos1 =  128   Pos2 = 2043   Size =  8   Seq1 = TCAAAAAA
+                                            Seq2 = TTTTTTGA
+ DR Pos1 =  129   Pos2 = 3383   Size =  8   Seq1 = CAAAAAAA
+                                            Seq2 = CAAAAAAA
+ DR Pos1 =  131   Pos2 =  417   Size =  8   Seq1 = AAAAAAAT
+                                            Seq2 = AAAAAAAT
+ DR Pos1 =  131   Pos2 = 1708   Size =  8   Seq1 = AAAAAAAT
+                                            Seq2 = AAAAAAAT
+ DR Pos1 =  131   Pos2 = 3384   Size =  8   Seq1 = AAAAAAAT
+                                            Seq2 = AAAAAAAT
+ DR Pos1 =  131   Pos2 = 3524   Size =  9   Seq1 = AAAAAAATC
+                                            Seq2 = AAAAAAATC
+ IR Pos1 =  132   Pos2 =  251   Size =  9   Seq1 = AAAAAATCT
+                                            Seq2 = AGATTTTTT
+ DR Pos1 =  132   Pos2 = 1322   Size = 10   Seq1 = AAAAAATCTT
+                                            Seq2 = AAAAAATCTT
+ IR Pos1 =  132   Pos2 = 1811   Size = 10   Seq1 = AAAAAATCTT
+                                            Seq2 = AAGATTTTTT
+ IR Pos1 =  132   Pos2 = 2040   Size =  9   Seq1 = AAAAAATCT
+                                            Seq2 = AGATTTTTT
+ DR Pos1 =  133   Pos2 = 1498   Size =  9   Seq1 = AAAAATCTT
+                                            Seq2 = AAAAATCTT
+ DR Pos1 =  149   Pos2 =  998   Size =  8   Seq1 = CTCTTTTA
+                                            Seq2 = CTCTTTTA
+ DR Pos1 =  154   Pos2 =  583   Size =  8   Seq1 = TTATTTGA
+                                            Seq2 = TTATTTGA
+ DR Pos1 =  154   Pos2 = 1873   Size =  8   Seq1 = TTATTTGA
+                                            Seq2 = TTATTTGA
+ IR Pos1 =  155   Pos2 = 1579   Size =  8   Seq1 = TATTTGAC
+                                            Seq2 = GTCAAATA
+ DR Pos1 =  165   Pos2 = 3162   Size =  8   Seq1 = TGGAGAGA
+                                            Seq2 = TGGAGAGA
+ DR Pos1 =  208   Pos2 = 2355   Size =  9   Seq1 = AGAAGGTAT
+                                            Seq2 = AGAAGGTAT
+ IR Pos1 =  226   Pos2 =  629   Size =  8   Seq1 = AAGAATCG
+                                            Seq2 = CGATTCTT
+ IR Pos1 =  230   Pos2 = 2824   Size =  9   Seq1 = ATCGTATTT
+                                            Seq2 = AAATACGAT
+ IR Pos1 =  236   Pos2 = 3881   Size =  8   Seq1 = TTTGTTAT
+                                            Seq2 = ATAACAAA
+ DR Pos1 =  249   Pos2 =  514   Size =  8   Seq1 = GGAGATTT
+                                            Seq2 = GGAGATTT
+ IR Pos1 =  250   Pos2 =  668   Size =  8   Seq1 = GAGATTTT
+                                            Seq2 = AAAATCTC
+ DR Pos1 =  250   Pos2 = 3233   Size =  8   Seq1 = GAGATTTT
+                                            Seq2 = GAGATTTT
+ IR Pos1 =  251   Pos2 = 1319   Size = 12   Seq1 = AGATTTTTTCAA
+                                            Seq2 = TTGAAAAAATCT
+ IR Pos1 =  251   Pos2 = 1498   Size =  8   Seq1 = AGATTTTT
+                                            Seq2 = AAAAATCT
+ DR Pos1 =  251   Pos2 = 1812   Size =  9   Seq1 = AGATTTTTT
+                                            Seq2 = AGATTTTTT
+ DR Pos1 =  251   Pos2 = 2040   Size =  9   Seq1 = AGATTTTTT
+                                            Seq2 = AGATTTTTT
+ IR Pos1 =  252   Pos2 = 3525   Size =  8   Seq1 = GATTTTTT
+                                            Seq2 = AAAAAATC
+ IR Pos1 =  253   Pos2 = 1141   Size =  8   Seq1 = ATTTTTTC
+                                            Seq2 = GAAAAAAT
+ IR Pos1 =  254   Pos2 = 3520   Size = 10   Seq1 = TTTTTTCAAA
+                                            Seq2 = TTTGAAAAAA
+ IR Pos1 =  262   Pos2 =  671   Size =  8   Seq1 = AATGAGAT
+                                            Seq2 = ATCTCATT
+ IR Pos1 =  262   Pos2 =  719   Size =  8   Seq1 = AATGAGAT
+                                            Seq2 = ATCTCATT
+ DR Pos1 =  276   Pos2 =  366   Size =  9   Seq1 = AGTAGATGA
+                                            Seq2 = AGTAGATGA
+ DR Pos1 =  276   Pos2 =  615   Size =  8   Seq1 = AGTAGATG
+                                            Seq2 = AGTAGATG
+ IR Pos1 =  279   Pos2 =  405   Size =  9   Seq1 = AGATGATAG
+                                            Seq2 = CTATCATCT
+ DR Pos1 =  280   Pos2 = 2095   Size = 11   Seq1 = GATGATAGTTT
+                                            Seq2 = GATGATAGTTT
+ DR Pos1 =  283   Pos2 = 2152   Size =  8   Seq1 = GATAGTTT
+                                            Seq2 = GATAGTTT
+ DR Pos1 =  285   Pos2 = 2885   Size =  8   Seq1 = TAGTTTCT
+                                            Seq2 = TAGTTTCT
+ DR Pos1 =  288   Pos2 = 1615   Size =  9   Seq1 = TTTCTTTCA
+                                            Seq2 = TTTCTTTCA
+ IR Pos1 =  292   Pos2 = 2829   Size =  8   Seq1 = TTTCATCG
+                                            Seq2 = CGATGAAA
+ IR Pos1 =  302   Pos2 = 1653   Size =  9   Seq1 = TTGAAGAGT
+                                            Seq2 = ACTCTTCAA
+ IR Pos1 =  308   Pos2 = 3367   Size = 10   Seq1 = AGTCTTTTTT
+                                            Seq2 = AAAAAAGACT
+ IR Pos1 =  308   Pos2 = 3571   Size = 10   Seq1 = AGTCTTTTTT
+                                            Seq2 = AAAAAAGACT
+ DR Pos1 =  308   Pos2 = 3604   Size =  9   Seq1 = AGTCTTTTT
+                                            Seq2 = AGTCTTTTT
+ DR Pos1 =  310   Pos2 = 1049   Size =  9   Seq1 = TCTTTTTTG
+                                            Seq2 = TCTTTTTTG
+ DR Pos1 =  312   Pos2 = 1815   Size =  8   Seq1 = TTTTTTGG
+                                            Seq2 = TTTTTTGG
+ IR Pos1 =  312   Pos2 = 3382   Size =  8   Seq1 = TTTTTTGG
+                                            Seq2 = CCAAAAAA
+ IR Pos1 =  313   Pos2 = 3333   Size =  8   Seq1 = TTTTTGGT
+                                            Seq2 = ACCAAAAA
+ DR Pos1 =  323   Pos2 = 1277   Size =  8   Seq1 = AAGAAGAC
+                                            Seq2 = AAGAAGAC
+ DR Pos1 =  323   Pos2 = 2114   Size =  9   Seq1 = AAGAAGACA
+                                            Seq2 = AAGAAGACA
+ DR Pos1 =  324   Pos2 = 1270   Size = 13   Seq1 = AGAAGACAAGAAG
+                                            Seq2 = AGAAGACAAGAAG
+ IR Pos1 =  350   Pos2 = 1710   Size =  8   Seq1 = CTATTTTT
+                                            Seq2 = AAAAATAG
+ DR Pos1 =  353   Pos2 = 1816   Size =  8   Seq1 = TTTTTGGA
+                                            Seq2 = TTTTTGGA
+ IR Pos1 =  353   Pos2 = 3381   Size =  8   Seq1 = TTTTTGGA
+                                            Seq2 = TCCAAAAA
+ IR Pos1 =  356   Pos2 = 2906   Size =  8   Seq1 = TTGGAAAT
+                                            Seq2 = ATTTCCAA
+ DR Pos1 =  360   Pos2 = 3598   Size =  9   Seq1 = AAATATAGT
+                                            Seq2 = AAATATAGT
+ DR Pos1 =  366   Pos2 =  615   Size =  8   Seq1 = AGTAGATG
+                                            Seq2 = AGTAGATG
+ IR Pos1 =  377   Pos2 = 2014   Size =  9   Seq1 = TTGCTTATC
+                                            Seq2 = GATAAGCAA
+ IR Pos1 =  380   Pos2 = 1931   Size =  8   Seq1 = CTTATCAT
+                                            Seq2 = ATGATAAG
+ DR Pos1 =  382   Pos2 = 3123   Size =  8   Seq1 = TATCATGA
+                                            Seq2 = TATCATGA
+ DR Pos1 =  389   Pos2 = 2996   Size = 12   Seq1 = AGAAATATCCAA
+                                            Seq2 = AGAAATATCCAA
+ IR Pos1 =  389   Pos2 = 3105   Size =  8   Seq1 = AGAAATAT
+                                            Seq2 = ATATTTCT
+ IR Pos1 =  405   Pos2 = 2095   Size =  8   Seq1 = CTATCATC
+                                            Seq2 = GATGATAG
+ DR Pos1 =  413   Pos2 = 1601   Size =  8   Seq1 = TGCGAAAA
+                                            Seq2 = TGCGAAAA
+ DR Pos1 =  416   Pos2 = 3523   Size =  9   Seq1 = GAAAAAAAT
+                                            Seq2 = GAAAAAAAT
+ DR Pos1 =  417   Pos2 = 1708   Size =  8   Seq1 = AAAAAAAT
+                                            Seq2 = AAAAAAAT
+ DR Pos1 =  417   Pos2 = 3384   Size =  8   Seq1 = AAAAAAAT
+                                            Seq2 = AAAAAAAT
+ IR Pos1 =  418   Pos2 = 3700   Size =  8   Seq1 = AAAAAATT
+                                            Seq2 = AATTTTTT
+ IR Pos1 =  420   Pos2 = 1131   Size =  9   Seq1 = AAAATTGGT
+                                            Seq2 = ACCAATTTT
+ IR Pos1 =  437   Pos2 =  885   Size =  8   Seq1 = CTGATAAA
+                                            Seq2 = TTTATCAG
+ DR Pos1 =  437   Pos2 = 2579   Size =  8   Seq1 = CTGATAAA
+                                            Seq2 = CTGATAAA
+ DR Pos1 =  438   Pos2 = 2733   Size =  9   Seq1 = TGATAAAGC
+                                            Seq2 = TGATAAAGC
+ IR Pos1 =  449   Pos2 =  838   Size =  8   Seq1 = ATTTGCGC
+                                            Seq2 = GCGCAAAT
+ DR Pos1 =  481   Pos2 =  961   Size =  8   Seq1 = ATGATTAA
+                                            Seq2 = ATGATTAA
+ IR Pos1 =  481   Pos2 = 3578   Size = 10   Seq1 = ATGATTAAGT
+                                            Seq2 = ACTTAATCAT
+ DR Pos1 =  482   Pos2 = 2990   Size =  8   Seq1 = TGATTAAG
+                                            Seq2 = TGATTAAG
+ IR Pos1 =  499   Pos2 = 1142   Size =  8   Seq1 = CATTTTTT
+                                            Seq2 = AAAAAATG
+ DR Pos1 =  500   Pos2 = 1814   Size =  8   Seq1 = ATTTTTTG
+                                            Seq2 = ATTTTTTG
+ DR Pos1 =  500   Pos2 = 2042   Size =  9   Seq1 = ATTTTTTGA
+                                            Seq2 = ATTTTTTGA
+ DR Pos1 =  501   Pos2 = 1051   Size =  9   Seq1 = TTTTTTGAT
+                                            Seq2 = TTTTTTGAT
+ IR Pos1 =  501   Pos2 = 1059   Size = 12   Seq1 = TTTTTTGATTGA
+                                            Seq2 = TCAATCAAAAAA
+ IR Pos1 =  501   Pos2 = 1706   Size =  8   Seq1 = TTTTTTGA
+                                            Seq2 = TCAAAAAA
+ DR Pos1 =  503   Pos2 =  765   Size =  8   Seq1 = TTTTGATT
+                                            Seq2 = TTTTGATT
+ IR Pos1 =  506   Pos2 = 1463   Size =  8   Seq1 = TGATTGAG
+                                            Seq2 = CTCAATCA
+ DR Pos1 =  506   Pos2 = 1892   Size =  9   Seq1 = TGATTGAGG
+                                            Seq2 = TGATTGAGG
+ DR Pos1 =  512   Pos2 = 1885   Size =  8   Seq1 = AGGGAGAT
+                                            Seq2 = AGGGAGAT
+ DR Pos1 =  516   Pos2 = 1756   Size =  8   Seq1 = AGATTTAA
+                                            Seq2 = AGATTTAA
+ PR Pos1 =  517   Pos2 =  517   Size = 10   Seq1 = GATTTAAATC
+                                            Seq2 = GATTTAAATC
+ IR Pos1 =  517   Pos2 =  754   Size =  8   Seq1 = GATTTAAA
+                                            Seq2 = TTTAAATC
+ DR Pos1 =  519   Pos2 =  754   Size =  8   Seq1 = TTTAAATC
+                                            Seq2 = TTTAAATC
+ IR Pos1 =  529   Pos2 = 2439   Size =  8   Seq1 = GATAATAG
+                                            Seq2 = CTATTATC
+ DR Pos1 =  539   Pos2 = 2468   Size =  8   Seq1 = ATGTGGAC
+                                            Seq2 = ATGTGGAC
+ DR Pos1 =  544   Pos2 = 1485   Size =  8   Seq1 = GACAAACT
+                                            Seq2 = GACAAACT
+ IR Pos1 =  544   Pos2 = 3020   Size =  8   Seq1 = GACAAACT
+                                            Seq2 = AGTTTGTC
+ IR Pos1 =  546   Pos2 = 1532   Size =  8   Seq1 = CAAACTAT
+                                            Seq2 = ATAGTTTG
+ IR Pos1 =  546   Pos2 = 2099   Size =  8   Seq1 = CAAACTAT
+                                            Seq2 = ATAGTTTG
+ DR Pos1 =  547   Pos2 = 2640   Size =  8   Seq1 = AAACTATT
+                                            Seq2 = AAACTATT
+ DR Pos1 =  553   Pos2 = 1286   Size =  8   Seq1 = TTTATCCA
+                                            Seq2 = TTTATCCA
+ IR Pos1 =  577   Pos2 = 1994   Size =  8   Seq1 = AATCAATT
+                                            Seq2 = AATTGATT
+ DR Pos1 =  583   Pos2 = 1873   Size = 11   Seq1 = TTATTTGAAGA
+                                            Seq2 = TTATTTGAAGA
+ DR Pos1 =  586   Pos2 = 1432   Size =  9   Seq1 = TTTGAAGAA
+                                            Seq2 = TTTGAAGAA
+ IR Pos1 =  586   Pos2 = 1655   Size =  8   Seq1 = TTTGAAGA
+                                            Seq2 = TCTTCAAA
+ IR Pos1 =  586   Pos2 = 3133   Size =  9   Seq1 = TTTGAAGAA
+                                            Seq2 = TTCTTCAAA
+ DR Pos1 =  588   Pos2 = 1407   Size =  8   Seq1 = TGAAGAAA
+                                            Seq2 = TGAAGAAA
+ DR Pos1 =  588   Pos2 = 1827   Size =  9   Seq1 = TGAAGAAAA
+                                            Seq2 = TGAAGAAAA
+ DR Pos1 =  589   Pos2 =  696   Size =  8   Seq1 = GAAGAAAA
+                                            Seq2 = GAAGAAAA
+ DR Pos1 =  590   Pos2 = 3286   Size =  8   Seq1 = AAGAAAAC
+                                            Seq2 = AAGAAAAC
+ DR Pos1 =  618   Pos2 =  780   Size = 10   Seq1 = AGATGCTAAA
+                                            Seq2 = AGATGCTAAA
+ DR Pos1 =  618   Pos2 =  891   Size =  8   Seq1 = AGATGCTA
+                                            Seq2 = AGATGCTA
+ IR Pos1 =  641   Pos2 = 1305   Size =  8   Seq1 = CACGATTG
+                                            Seq2 = CAATCGTG
+ IR Pos1 =  645   Pos2 = 2409   Size =  8   Seq1 = ATTGAGTA
+                                            Seq2 = TACTCAAT
+ DR Pos1 =  648   Pos2 =  920   Size =  8   Seq1 = GAGTAAAT
+                                            Seq2 = GAGTAAAT
+ IR Pos1 =  648   Pos2 = 1646   Size = 11   Seq1 = GAGTAAATCAA
+                                            Seq2 = TTGATTTACTC
+ DR Pos1 =  651   Pos2 =  756   Size =  8   Seq1 = TAAATCAA
+                                            Seq2 = TAAATCAA
+ DR Pos1 =  654   Pos2 =  986   Size =  8   Seq1 = ATCAAGAC
+                                            Seq2 = ATCAAGAC
+ DR Pos1 =  657   Pos2 = 2543   Size =  9   Seq1 = AAGACGATT
+                                            Seq2 = AAGACGATT
+ IR Pos1 =  661   Pos2 = 3183   Size =  8   Seq1 = CGATTAGA
+                                            Seq2 = TCTAATCG
+ DR Pos1 =  664   Pos2 = 1138   Size =  8   Seq1 = TTAGAAAA
+                                            Seq2 = TTAGAAAA
+ DR Pos1 =  664   Pos2 = 3616   Size =  8   Seq1 = TTAGAAAA
+                                            Seq2 = TTAGAAAA
+ IR Pos1 =  664   Pos2 = 3825   Size =  9   Seq1 = TTAGAAAAT
+                                            Seq2 = ATTTTCTAA
+ IR Pos1 =  668   Pos2 = 3233   Size =  8   Seq1 = AAAATCTC
+                                            Seq2 = GAGATTTT
+ DR Pos1 =  670   Pos2 =  718   Size = 12   Seq1 = AATCTCATTGCT
+                                            Seq2 = AATCTCATTGCT
+ IR Pos1 =  670   Pos2 = 3800   Size =  8   Seq1 = AATCTCAT
+                                            Seq2 = ATGAGATT
+ IR Pos1 =  677   Pos2 = 3074   Size =  8   Seq1 = TTGCTCAG
+                                            Seq2 = CTGAGCAA
+ IR Pos1 =  683   Pos2 = 1094   Size =  8   Seq1 = AGCTCCCC
+                                            Seq2 = GGGGAGCT
+ DR Pos1 =  692   Pos2 = 1310   Size =  9   Seq1 = GTGAGAAGA
+                                            Seq2 = GTGAGAAGA
+ DR Pos1 =  693   Pos2 = 1268   Size =  8   Seq1 = TGAGAAGA
+                                            Seq2 = TGAGAAGA
+ DR Pos1 =  695   Pos2 = 1631   Size =  8   Seq1 = AGAAGAAA
+                                            Seq2 = AGAAGAAA
+ DR Pos1 =  696   Pos2 = 1828   Size =  8   Seq1 = GAAGAAAA
+                                            Seq2 = GAAGAAAA
+ DR Pos1 =  698   Pos2 = 2321   Size =  8   Seq1 = AGAAAAAT
+                                            Seq2 = AGAAAAAT
+ DR Pos1 =  700   Pos2 = 1143   Size =  8   Seq1 = AAAAATGG
+                                            Seq2 = AAAAATGG
+ IR Pos1 =  700   Pos2 = 1291   Size =  8   Seq1 = AAAAATGG
+                                            Seq2 = CCATTTTT
+ IR Pos1 =  703   Pos2 = 1637   Size =  8   Seq1 = AATGGCTT
+                                            Seq2 = AAGCCATT
+ IR Pos1 =  705   Pos2 = 2261   Size =  8   Seq1 = TGGCTTAT
+                                            Seq2 = ATAAGCCA
+ DR Pos1 =  708   Pos2 = 1872   Size =  8   Seq1 = CTTATTTG
+                                            Seq2 = CTTATTTG
+ IR Pos1 =  718   Pos2 = 3800   Size =  8   Seq1 = AATCTCAT
+                                            Seq2 = ATGAGATT
+ IR Pos1 =  725   Pos2 = 3090   Size =  8   Seq1 = TTGCTTTG
+                                            Seq2 = CAAAGCAA
+ IR Pos1 =  728   Pos2 = 1571   Size =  8   Seq1 = CTTTGTCA
+                                            Seq2 = TGACAAAG
+ IR Pos1 =  729   Pos2 = 1483   Size =  8   Seq1 = TTTGTCAT
+                                            Seq2 = ATGACAAA
+ DR Pos1 =  753   Pos2 = 3969   Size =  8   Seq1 = TTTTAAAT
+                                            Seq2 = TTTTAAAT
+ IR Pos1 =  756   Pos2 = 1646   Size =  8   Seq1 = TAAATCAA
+                                            Seq2 = TTGATTTA
+ IR Pos1 =  757   Pos2 =  766   Size =  8   Seq1 = AAATCAAA
+                                            Seq2 = TTTGATTT
+ DR Pos1 =  759   Pos2 = 1235   Size =  8   Seq1 = ATCAAATT
+                                            Seq2 = ATCAAATT
+ DR Pos1 =  761   Pos2 = 2797   Size =  9   Seq1 = CAAATTTTG
+                                            Seq2 = CAAATTTTG
+ DR Pos1 =  763   Pos2 = 1429   Size =  8   Seq1 = AATTTTGA
+                                            Seq2 = AATTTTGA
+ DR Pos1 =  764   Pos2 = 3977   Size =  8   Seq1 = ATTTTGAT
+                                            Seq2 = ATTTTGAT
+ IR Pos1 =  765   Pos2 = 1061   Size =  8   Seq1 = TTTTGATT
+                                            Seq2 = AATCAAAA
+ DR Pos1 =  767   Pos2 = 4079   Size =  8   Seq1 = TTGATTTG
+                                            Seq2 = TTGATTTG
+ IR Pos1 =  768   Pos2 = 2774   Size =  9   Seq1 = TGATTTGGC
+                                            Seq2 = GCCAAATCA
+ DR Pos1 =  771   Pos2 =  870   Size =  8   Seq1 = TTTGGCAG
+                                            Seq2 = TTTGGCAG
+ IR Pos1 =  772   Pos2 = 3681   Size =  8   Seq1 = TTGGCAGA
+                                            Seq2 = TCTGCCAA
+ DR Pos1 =  776   Pos2 = 3746   Size =  8   Seq1 = CAGAAGAT
+                                            Seq2 = CAGAAGAT
+ DR Pos1 =  780   Pos2 =  891   Size =  8   Seq1 = AGATGCTA
+                                            Seq2 = AGATGCTA
+ IR Pos1 =  784   Pos2 = 2176   Size =  8   Seq1 = GCTAAATT
+                                            Seq2 = AATTTAGC
+ DR Pos1 =  785   Pos2 = 2879   Size =  8   Seq1 = CTAAATTA
+                                            Seq2 = CTAAATTA
+ DR Pos1 =  787   Pos2 = 3146   Size =  8   Seq1 = AAATTACA
+                                            Seq2 = AAATTACA
+ IR Pos1 =  793   Pos2 = 2703   Size =  8   Seq1 = CAGCTTTC
+                                            Seq2 = GAAAGCTG
+ DR Pos1 =  797   Pos2 = 1704   Size =  8   Seq1 = TTTCAAAA
+                                            Seq2 = TTTCAAAA
+ IR Pos1 =  797   Pos2 = 2045   Size =  8   Seq1 = TTTCAAAA
+                                            Seq2 = TTTTGAAA
+ DR Pos1 =  811   Pos2 =  973   Size =  8   Seq1 = TACGATGA
+                                            Seq2 = TACGATGA
+ DR Pos1 =  811   Pos2 = 2827   Size =  8   Seq1 = TACGATGA
+                                            Seq2 = TACGATGA
+ DR Pos1 =  815   Pos2 = 2093   Size =  8   Seq1 = ATGATGAT
+                                            Seq2 = ATGATGAT
+ IR Pos1 =  821   Pos2 = 2877   Size =  8   Seq1 = ATTTAGAT
+                                            Seq2 = ATCTAAAT
+ IR Pos1 =  821   Pos2 = 2962   Size =  9   Seq1 = ATTTAGATA
+                                            Seq2 = TATCTAAAT
+ DR Pos1 =  821   Pos2 = 3794   Size =  8   Seq1 = ATTTAGAT
+                                            Seq2 = ATTTAGAT
+ DR Pos1 =  821   Pos2 = 3857   Size = 10   Seq1 = ATTTAGATAA
+                                            Seq2 = ATTTAGATAA
+ DR Pos1 =  826   Pos2 = 2692   Size =  9   Seq1 = GATAATTTA
+                                            Seq2 = GATAATTTA
+ DR Pos1 =  830   Pos2 = 1470   Size =  8   Seq1 = ATTTATTG
+                                            Seq2 = ATTTATTG
+ DR Pos1 =  834   Pos2 = 1362   Size =  8   Seq1 = ATTGGCGC
+                                            Seq2 = ATTGGCGC
+ DR Pos1 =  844   Pos2 = 2645   Size =  8   Seq1 = ATTGGAGA
+                                            Seq2 = ATTGGAGA
+ IR Pos1 =  845   Pos2 = 2444   Size =  8   Seq1 = TTGGAGAT
+                                            Seq2 = ATCTCCAA
+ IR Pos1 =  851   Pos2 = 1085   Size =  8   Seq1 = ATCAATAT
+                                            Seq2 = ATATTGAT
+ IR Pos1 =  860   Pos2 = 3814   Size =  8   Seq1 = CTGATTTG
+                                            Seq2 = CAAATCAG
+ IR Pos1 =  862   Pos2 = 1660   Size = 10   Seq1 = GATTTGTTTT
+                                            Seq2 = AAAACAAATC
+ IR Pos1 =  865   Pos2 = 3760   Size =  9   Seq1 = TTGTTTTTG
+                                            Seq2 = CAAAAACAA
+ DR Pos1 =  880   Pos2 = 1109   Size =  8   Seq1 = AAGAATTT
+                                            Seq2 = AAGAATTT
+ DR Pos1 =  883   Pos2 = 1121   Size =  9   Seq1 = AATTTATCA
+                                            Seq2 = AATTTATCA
+ IR Pos1 =  885   Pos2 = 2578   Size =  9   Seq1 = TTTATCAGA
+                                            Seq2 = TCTGATAAA
+ DR Pos1 =  888   Pos2 = 2052   Size =  8   Seq1 = ATCAGATG
+                                            Seq2 = ATCAGATG
+ DR Pos1 =  893   Pos2 = 1259   Size = 10   Seq1 = ATGCTATTTT
+                                            Seq2 = ATGCTATTTT
+ DR Pos1 =  897   Pos2 = 1549   Size =  8   Seq1 = TATTTTAC
+                                            Seq2 = TATTTTAC
+ DR Pos1 =  897   Pos2 = 2208   Size =  8   Seq1 = TATTTTAC
+                                            Seq2 = TATTTTAC
+ IR Pos1 =  918   Pos2 = 1649   Size = 10   Seq1 = AAGAGTAAAT
+                                            Seq2 = ATTTACTCTT
+ IR Pos1 =  919   Pos2 = 3113   Size =  8   Seq1 = AGAGTAAA
+                                            Seq2 = TTTACTCT
+ IR Pos1 =  930   Pos2 = 1701   Size =  8   Seq1 = TGAAATAA
+                                            Seq2 = TTATTTCA
+ IR Pos1 =  960   Pos2 = 3580   Size =  9   Seq1 = AATGATTAA
+                                            Seq2 = TTAATCATT
+ DR Pos1 =  973   Pos2 = 2827   Size =  9   Seq1 = TACGATGAA
+                                            Seq2 = TACGATGAA
+ DR Pos1 =  977   Pos2 = 2162   Size =  8   Seq1 = ATGAACAT
+                                            Seq2 = ATGAACAT
+ IR Pos1 =  979   Pos2 = 3047   Size =  9   Seq1 = GAACATCAT
+                                            Seq2 = ATGATGTTC
+ IR Pos1 =  983   Pos2 = 1928   Size =  8   Seq1 = ATCATCAA
+                                            Seq2 = TTGATGAT
+ IR Pos1 =  999   Pos2 = 1295   Size = 10   Seq1 = TCTTTTAAAA
+                                            Seq2 = TTTTAAAAGA
+ IR Pos1 =  999   Pos2 = 1690   Size =  8   Seq1 = TCTTTTAA
+                                            Seq2 = TTAAAAGA
+ PR Pos1 = 1000   Pos2 = 1000   Size = 10   Seq1 = CTTTTAAAAG
+                                            Seq2 = CTTTTAAAAG
+ DR Pos1 = 1000   Pos2 = 3968   Size =  8   Seq1 = CTTTTAAA
+                                            Seq2 = CTTTTAAA
+ DR Pos1 = 1001   Pos2 = 1295   Size =  9   Seq1 = TTTTAAAAG
+                                            Seq2 = TTTTAAAAG
+ IR Pos1 = 1002   Pos2 = 3967   Size =  9   Seq1 = TTTAAAAGC
+                                            Seq2 = GCTTTTAAA
+ PR Pos1 = 1006   Pos2 = 1006   Size =  8   Seq1 = AAAGCTTT
+                                            Seq2 = AAAGCTTT
+ IR Pos1 = 1017   Pos2 = 1441   Size =  8   Seq1 = TCGACAAC
+                                            Seq2 = GTTGTCGA
+ IR Pos1 = 1021   Pos2 = 2225   Size =  9   Seq1 = CAACAACTT
+                                            Seq2 = AAGTTGTTG
+ IR Pos1 = 1023   Pos2 = 1438   Size =  8   Seq1 = ACAACTTC
+                                            Seq2 = GAAGTTGT
+ DR Pos1 = 1023   Pos2 = 2652   Size =  8   Seq1 = ACAACTTC
+                                            Seq2 = ACAACTTC
+ DR Pos1 = 1030   Pos2 = 2266   Size =  8   Seq1 = CCAGAAAA
+                                            Seq2 = CCAGAAAA
+ DR Pos1 = 1030   Pos2 = 2319   Size =  8   Seq1 = CCAGAAAA
+                                            Seq2 = CCAGAAAA
+ DR Pos1 = 1033   Pos2 = 1670   Size =  8   Seq1 = GAAAAGTA
+                                            Seq2 = GAAAAGTA
+ IR Pos1 = 1042   Pos2 = 1614   Size =  8   Seq1 = AAAGAAAT
+                                            Seq2 = ATTTCTTT
+ IR Pos1 = 1042   Pos2 = 3107   Size =  8   Seq1 = AAAGAAAT
+                                            Seq2 = ATTTCTTT
+ DR Pos1 = 1042   Pos2 = 3338   Size =  8   Seq1 = AAAGAAAT
+                                            Seq2 = AAAGAAAT
+ IR Pos1 = 1045   Pos2 = 2901   Size = 10   Seq1 = GAAATCTTTT
+                                            Seq2 = AAAAGATTTC
+ IR Pos1 = 1046   Pos2 = 1810   Size =  8   Seq1 = AAATCTTT
+                                            Seq2 = AAAGATTT
+ IR Pos1 = 1048   Pos2 = 2629   Size =  8   Seq1 = ATCTTTTT
+                                            Seq2 = AAAAAGAT
+ IR Pos1 = 1049   Pos2 = 3367   Size =  8   Seq1 = TCTTTTTT
+                                            Seq2 = AAAAAAGA
+ IR Pos1 = 1049   Pos2 = 3571   Size =  8   Seq1 = TCTTTTTT
+                                            Seq2 = AAAAAAGA
+ IR Pos1 = 1051   Pos2 = 1062   Size =  9   Seq1 = TTTTTTGAT
+                                            Seq2 = ATCAAAAAA
+ IR Pos1 = 1051   Pos2 = 1706   Size =  8   Seq1 = TTTTTTGA
+                                            Seq2 = TCAAAAAA
+ DR Pos1 = 1051   Pos2 = 2043   Size =  8   Seq1 = TTTTTTGA
+                                            Seq2 = TTTTTTGA
+ PR Pos1 = 1055   Pos2 = 1055   Size =  8   Seq1 = TTGATCAA
+                                            Seq2 = TTGATCAA
+ DR Pos1 = 1063   Pos2 = 1706   Size =  8   Seq1 = TCAAAAAA
+                                            Seq2 = TCAAAAAA
+ IR Pos1 = 1063   Pos2 = 2043   Size =  8   Seq1 = TCAAAAAA
+                                            Seq2 = TTTTTTGA
+ DR Pos1 = 1068   Pos2 = 3631   Size =  8   Seq1 = AAACGGAT
+                                            Seq2 = AAACGGAT
+ IR Pos1 = 1087   Pos2 = 4044   Size =  8   Seq1 = ATTGATGG
+                                            Seq2 = CCATCAAT
+ IR Pos1 = 1088   Pos2 = 1231   Size =  9   Seq1 = TTGATGGGG
+                                            Seq2 = CCCCATCAA
+ DR Pos1 = 1105   Pos2 = 1276   Size =  8   Seq1 = CAAGAAGA
+                                            Seq2 = CAAGAAGA
+ DR Pos1 = 1112   Pos2 = 2074   Size =  8   Seq1 = AATTTTAT
+                                            Seq2 = AATTTTAT
+ PR Pos1 = 1115   Pos2 = 1115   Size =  8   Seq1 = TTTATAAA
+                                            Seq2 = TTTATAAA
+ PR Pos1 = 1118   Pos2 = 1118   Size = 10   Seq1 = ATAAATTTAT
+                                            Seq2 = ATAAATTTAT
+ IR Pos1 = 1123   Pos2 = 1492   Size =  9   Seq1 = TTTATCAAA
+                                            Seq2 = TTTGATAAA
+ IR Pos1 = 1123   Pos2 = 2732   Size =  8   Seq1 = TTTATCAA
+                                            Seq2 = TTGATAAA
+ DR Pos1 = 1123   Pos2 = 2746   Size = 10   Seq1 = TTTATCAAAC
+                                            Seq2 = TTTATCAAAC
+ IR Pos1 = 1124   Pos2 = 2688   Size =  9   Seq1 = TTATCAAAC
+                                            Seq2 = GTTTGATAA
+ DR Pos1 = 1128   Pos2 = 3897   Size =  9   Seq1 = CAAACCAAT
+                                            Seq2 = CAAACCAAT
+ IR Pos1 = 1130   Pos2 = 2759   Size =  8   Seq1 = AACCAATT
+                                            Seq2 = AATTGGTT
+ DR Pos1 = 1133   Pos2 = 2073   Size =  8   Seq1 = CAATTTTA
+                                            Seq2 = CAATTTTA
+ DR Pos1 = 1133   Pos2 = 3326   Size =  8   Seq1 = CAATTTTA
+                                            Seq2 = CAATTTTA
+ DR Pos1 = 1136   Pos2 = 3542   Size =  8   Seq1 = TTTTAGAA
+                                            Seq2 = TTTTAGAA
+ DR Pos1 = 1138   Pos2 = 3616   Size =  8   Seq1 = TTAGAAAA
+                                            Seq2 = TTAGAAAA
+ IR Pos1 = 1138   Pos2 = 3826   Size =  8   Seq1 = TTAGAAAA
+                                            Seq2 = TTTTCTAA
+ DR Pos1 = 1141   Pos2 = 1321   Size =  8   Seq1 = GAAAAAAT
+                                            Seq2 = GAAAAAAT
+ IR Pos1 = 1143   Pos2 = 1289   Size = 10   Seq1 = AAAAATGGAT
+                                            Seq2 = ATCCATTTTT
+ DR Pos1 = 1144   Pos2 = 2450   Size =  8   Seq1 = AAAATGGA
+                                            Seq2 = AAAATGGA
+ IR Pos1 = 1173   Pos2 = 2884   Size =  8   Seq1 = GAAACTAA
+                                            Seq2 = TTAGTTTC
+ DR Pos1 = 1173   Pos2 = 3190   Size =  8   Seq1 = GAAACTAA
+                                            Seq2 = GAAACTAA
+ DR Pos1 = 1179   Pos2 = 2586   Size =  8   Seq1 = AAATCGTG
+                                            Seq2 = AAATCGTG
+ DR Pos1 = 1180   Pos2 = 1306   Size =  8   Seq1 = AATCGTGA
+                                            Seq2 = AATCGTGA
+ IR Pos1 = 1186   Pos2 = 1500   Size =  8   Seq1 = GAAGATTT
+                                            Seq2 = AAATCTTC
+ DR Pos1 = 1189   Pos2 = 1786   Size =  8   Seq1 = GATTTGCT
+                                            Seq2 = GATTTGCT
+ IR Pos1 = 1189   Pos2 = 3812   Size =  8   Seq1 = GATTTGCT
+                                            Seq2 = AGCAAATC
+ IR Pos1 = 1209   Pos2 = 1574   Size =  8   Seq1 = GACCTTTG
+                                            Seq2 = CAAAGGTC
+ IR Pos1 = 1229   Pos2 = 3197   Size =  8   Seq1 = TTCCCCAT
+                                            Seq2 = ATGGGGAA
+ IR Pos1 = 1238   Pos2 = 3697   Size =  8   Seq1 = AAATTCAC
+                                            Seq2 = GTGAATTT
+ IR Pos1 = 1238   Pos2 = 3820   Size =  9   Seq1 = AAATTCACT
+                                            Seq2 = AGTGAATTT
+ IR Pos1 = 1241   Pos2 = 2611   Size =  9   Seq1 = TTCACTTGG
+                                            Seq2 = CCAAGTGAA
+ IR Pos1 = 1253   Pos2 = 2080   Size =  8   Seq1 = AGCTGCAT
+                                            Seq2 = ATGCAGCT
+ DR Pos1 = 1263   Pos2 = 3976   Size =  8   Seq1 = TATTTTGA
+                                            Seq2 = TATTTTGA
+ DR Pos1 = 1268   Pos2 = 1311   Size =  8   Seq1 = TGAGAAGA
+                                            Seq2 = TGAGAAGA
+ DR Pos1 = 1270   Pos2 = 2115   Size =  8   Seq1 = AGAAGACA
+                                            Seq2 = AGAAGACA
+ DR Pos1 = 1277   Pos2 = 2114   Size =  8   Seq1 = AAGAAGAC
+                                            Seq2 = AAGAAGAC
+ DR Pos1 = 1287   Pos2 = 4040   Size =  8   Seq1 = TTATCCAT
+                                            Seq2 = TTATCCAT
+ IR Pos1 = 1290   Pos2 = 2450   Size =  8   Seq1 = TCCATTTT
+                                            Seq2 = AAAATGGA
+ PR Pos1 = 1295   Pos2 = 1295   Size =  8   Seq1 = TTTTAAAA
+                                            Seq2 = TTTTAAAA
+ IR Pos1 = 1296   Pos2 = 3968   Size =  8   Seq1 = TTTAAAAG
+                                            Seq2 = CTTTTAAA
+ DR Pos1 = 1297   Pos2 = 1690   Size =  8   Seq1 = TTAAAAGA
+                                            Seq2 = TTAAAAGA
+ DR Pos1 = 1313   Pos2 = 1695   Size =  8   Seq1 = AGAAGATT
+                                            Seq2 = AGAAGATT
+ DR Pos1 = 1319   Pos2 = 3521   Size =  9   Seq1 = TTGAAAAAA
+                                            Seq2 = TTGAAAAAA
+ IR Pos1 = 1322   Pos2 = 1811   Size = 10   Seq1 = AAAAAATCTT
+                                            Seq2 = AAGATTTTTT
+ IR Pos1 = 1322   Pos2 = 2040   Size =  9   Seq1 = AAAAAATCT
+                                            Seq2 = AGATTTTTT
+ DR Pos1 = 1322   Pos2 = 3525   Size =  8   Seq1 = AAAAAATC
+                                            Seq2 = AAAAAATC
+ DR Pos1 = 1323   Pos2 = 1498   Size =  9   Seq1 = AAAAATCTT
+                                            Seq2 = AAAAATCTT
+ DR Pos1 = 1330   Pos2 = 3536   Size =  9   Seq1 = TTGACTTTT
+                                            Seq2 = TTGACTTTT
+ IR Pos1 = 1333   Pos2 = 1668   Size =  9   Seq1 = ACTTTTCGA
+                                            Seq2 = TCGAAAAGT
+ IR Pos1 = 1343   Pos2 = 3560   Size =  8   Seq1 = TTCCTTAT
+                                            Seq2 = ATAAGGAA
+ IR Pos1 = 1355   Pos2 = 2471   Size =  8   Seq1 = TTGGTCCA
+                                            Seq2 = TGGACCAA
+ IR Pos1 = 1398   Pos2 = 2893   Size =  9   Seq1 = TCGGAAGTC
+                                            Seq2 = GACTTCCGA
+ DR Pos1 = 1402   Pos2 = 3070   Size =  8   Seq1 = AAGTCTGA
+                                            Seq2 = AAGTCTGA
+ DR Pos1 = 1407   Pos2 = 1827   Size =  8   Seq1 = TGAAGAAA
+                                            Seq2 = TGAAGAAA
+ DR Pos1 = 1412   Pos2 = 3763   Size =  8   Seq1 = AAACAATT
+                                            Seq2 = AAACAATT
+ IR Pos1 = 1412   Pos2 = 3767   Size =  8   Seq1 = AAACAATT
+                                            Seq2 = AATTGTTT
+ DR Pos1 = 1413   Pos2 = 2935   Size = 10   Seq1 = AACAATTACC
+                                            Seq2 = AACAATTACC
+ IR Pos1 = 1431   Pos2 = 1655   Size =  9   Seq1 = TTTTGAAGA
+                                            Seq2 = TCTTCAAAA
+ IR Pos1 = 1431   Pos2 = 3130   Size = 13   Seq1 = TTTTGAAGAAGTT
+                                            Seq2 = AACTTCTTCAAAA
+ DR Pos1 = 1432   Pos2 = 1876   Size =  8   Seq1 = TTTGAAGA
+                                            Seq2 = TTTGAAGA
+ DR Pos1 = 1434   Pos2 = 2616   Size =  9   Seq1 = TGAAGAAGT
+                                            Seq2 = TGAAGAAGT
+ DR Pos1 = 1435   Pos2 = 3462   Size =  9   Seq1 = GAAGAAGTT
+                                            Seq2 = GAAGAAGTT
+ DR Pos1 = 1436   Pos2 = 3510   Size =  8   Seq1 = AAGAAGTT
+                                            Seq2 = AAGAAGTT
+ DR Pos1 = 1436   Pos2 = 4019   Size =  8   Seq1 = AAGAAGTT
+                                            Seq2 = AAGAAGTT
+ IR Pos1 = 1437   Pos2 = 2651   Size = 10   Seq1 = AGAAGTTGTC
+                                            Seq2 = GACAACTTCT
+ DR Pos1 = 1447   Pos2 = 3223   Size =  8   Seq1 = GATAAAGG
+                                            Seq2 = GATAAAGG
+ IR Pos1 = 1463   Pos2 = 1891   Size =  9   Seq1 = CTCAATCAT
+                                            Seq2 = ATGATTGAG
+ IR Pos1 = 1465   Pos2 = 3059   Size =  9   Seq1 = CAATCATTT
+                                            Seq2 = AAATGATTG
+ DR Pos1 = 1468   Pos2 = 3930   Size =  9   Seq1 = TCATTTATT
+                                            Seq2 = TCATTTATT
+ DR Pos1 = 1472   Pos2 = 2279   Size =  8   Seq1 = TTATTGAA
+                                            Seq2 = TTATTGAA
+ IR Pos1 = 1485   Pos2 = 3020   Size =  8   Seq1 = GACAAACT
+                                            Seq2 = AGTTTGTC
+ IR Pos1 = 1488   Pos2 = 2530   Size =  8   Seq1 = AAACTTTG
+                                            Seq2 = CAAAGTTT
+ IR Pos1 = 1491   Pos2 = 2361   Size =  8   Seq1 = CTTTGATA
+                                            Seq2 = TATCAAAG
+ DR Pos1 = 1492   Pos2 = 2689   Size =  8   Seq1 = TTTGATAA
+                                            Seq2 = TTTGATAA
+ IR Pos1 = 1492   Pos2 = 2745   Size = 10   Seq1 = TTTGATAAAA
+                                            Seq2 = TTTTATCAAA
+ DR Pos1 = 1493   Pos2 = 2732   Size =  8   Seq1 = TTGATAAA
+                                            Seq2 = TTGATAAA
+ DR Pos1 = 1494   Pos2 = 2580   Size = 11   Seq1 = TGATAAAAATC
+                                            Seq2 = TGATAAAAATC
+ IR Pos1 = 1498   Pos2 = 1811   Size =  9   Seq1 = AAAAATCTT
+                                            Seq2 = AAGATTTTT
+ IR Pos1 = 1498   Pos2 = 2040   Size =  8   Seq1 = AAAAATCT
+                                            Seq2 = AGATTTTT
+ DR Pos1 = 1509   Pos2 = 2421   Size =  9   Seq1 = AAATGAAAA
+                                            Seq2 = AAATGAAAA
+ DR Pos1 = 1511   Pos2 = 2635   Size =  8   Seq1 = ATGAAAAA
+                                            Seq2 = ATGAAAAA
+ DR Pos1 = 1523   Pos2 = 3332   Size =  8   Seq1 = TACCAAAA
+                                            Seq2 = TACCAAAA
+ IR Pos1 = 1526   Pos2 = 1719   Size =  8   Seq1 = CAAAACAT
+                                            Seq2 = ATGTTTTG
+ DR Pos1 = 1527   Pos2 = 1909   Size =  8   Seq1 = AAAACATA
+                                            Seq2 = AAAACATA
+ DR Pos1 = 1528   Pos2 = 3886   Size =  8   Seq1 = AAACATAG
+                                            Seq2 = AAACATAG
+ DR Pos1 = 1532   Pos2 = 2099   Size =  8   Seq1 = ATAGTTTG
+                                            Seq2 = ATAGTTTG
+ DR Pos1 = 1540   Pos2 = 4063   Size =  8   Seq1 = CTTTATGA
+                                            Seq2 = CTTTATGA
+ IR Pos1 = 1545   Pos2 = 2405   Size = 10   Seq1 = TGAGTATTTT
+                                            Seq2 = AAAATACTCA
+ DR Pos1 = 1548   Pos2 = 2207   Size =  9   Seq1 = GTATTTTAC
+                                            Seq2 = GTATTTTAC
+ IR Pos1 = 1550   Pos2 = 3055   Size =  8   Seq1 = ATTTTACG
+                                            Seq2 = CGTAAAAT
+ DR Pos1 = 1562   Pos2 = 3752   Size =  8   Seq1 = ATAACGAA
+                                            Seq2 = ATAACGAA
+ IR Pos1 = 1576   Pos2 = 1867   Size =  8   Seq1 = AAGGTCAA
+                                            Seq2 = TTGACCTT
+ DR Pos1 = 1581   Pos2 = 3690   Size =  9   Seq1 = CAAATATGT
+                                            Seq2 = CAAATATGT
+ IR Pos1 = 1583   Pos2 = 2165   Size =  8   Seq1 = AATATGTT
+                                            Seq2 = AACATATT
+ IR Pos1 = 1605   Pos2 = 2740   Size =  9   Seq1 = AAAACCAGC
+                                            Seq2 = GCTGGTTTT
+ DR Pos1 = 1614   Pos2 = 3107   Size =  8   Seq1 = ATTTCTTT
+                                            Seq2 = ATTTCTTT
+ IR Pos1 = 1614   Pos2 = 3338   Size =  8   Seq1 = ATTTCTTT
+                                            Seq2 = AAAGAAAT
+ DR Pos1 = 1628   Pos2 = 3291   Size =  8   Seq1 = AACAGAAG
+                                            Seq2 = AACAGAAG
+ DR Pos1 = 1643   Pos2 = 2228   Size =  8   Seq1 = TTGTTGAT
+                                            Seq2 = TTGTTGAT
+ DR Pos1 = 1650   Pos2 = 3113   Size =  8   Seq1 = TTTACTCT
+                                            Seq2 = TTTACTCT
+ IR Pos1 = 1655   Pos2 = 1876   Size =  8   Seq1 = TCTTCAAA
+                                            Seq2 = TTTGAAGA
+ DR Pos1 = 1655   Pos2 = 3134   Size = 11   Seq1 = TCTTCAAAACA
+                                            Seq2 = TCTTCAAAACA
+ IR Pos1 = 1658   Pos2 = 1720   Size =  8   Seq1 = TCAAAACA
+                                            Seq2 = TGTTTTGA
+ DR Pos1 = 1659   Pos2 = 2028   Size =  8   Seq1 = CAAAACAA
+                                            Seq2 = CAAAACAA
+ DR Pos1 = 1665   Pos2 = 3457   Size =  8   Seq1 = AAATCGAA
+                                            Seq2 = AAATCGAA
+ DR Pos1 = 1666   Pos2 = 3186   Size =  8   Seq1 = AATCGAAA
+                                            Seq2 = AATCGAAA
+ DR Pos1 = 1683   Pos2 = 2016   Size =  8   Seq1 = TAAGCAAT
+                                            Seq2 = TAAGCAAT
+ IR Pos1 = 1691   Pos2 = 3109   Size =  8   Seq1 = TAAAAGAA
+                                            Seq2 = TTCTTTTA
+ DR Pos1 = 1692   Pos2 = 4017   Size =  8   Seq1 = AAAAGAAG
+                                            Seq2 = AAAAGAAG
+ DR Pos1 = 1693   Pos2 = 2113   Size =  8   Seq1 = AAAGAAGA
+                                            Seq2 = AAAGAAGA
+ DR Pos1 = 1698   Pos2 = 3803   Size =  8   Seq1 = AGATTATT
+                                            Seq2 = AGATTATT
+ IR Pos1 = 1703   Pos2 = 2043   Size = 11   Seq1 = ATTTCAAAAAA
+                                            Seq2 = TTTTTTGAAAT
+ DR Pos1 = 1705   Pos2 = 2123   Size =  8   Seq1 = TTCAAAAA
+                                            Seq2 = TTCAAAAA
+ DR Pos1 = 1707   Pos2 = 3383   Size = 10   Seq1 = CAAAAAAATA
+                                            Seq2 = CAAAAAAATA
+ DR Pos1 = 1708   Pos2 = 3524   Size =  8   Seq1 = AAAAAAAT
+                                            Seq2 = AAAAAAAT
+ IR Pos1 = 1720   Pos2 = 3137   Size =  8   Seq1 = TGTTTTGA
+                                            Seq2 = TCAAAACA
+ DR Pos1 = 1721   Pos2 = 3398   Size = 11   Seq1 = GTTTTGATAGT
+                                            Seq2 = GTTTTGATAGT
+ DR Pos1 = 1722   Pos2 = 3978   Size =  8   Seq1 = TTTTGATA
+                                            Seq2 = TTTTGATA
+ DR Pos1 = 1731   Pos2 = 2400   Size =  8   Seq1 = TGTTGAAA
+                                            Seq2 = TGTTGAAA
+ PR Pos1 = 1734   Pos2 = 1734   Size = 10   Seq1 = TGAAATTTCA
+                                            Seq2 = TGAAATTTCA
+ DR Pos1 = 1746   Pos2 = 3731   Size =  8   Seq1 = AGTTGAAG
+                                            Seq2 = AGTTGAAG
+ DR Pos1 = 1748   Pos2 = 1877   Size = 10   Seq1 = TTGAAGATAG
+                                            Seq2 = TTGAAGATAG
+ DR Pos1 = 1749   Pos2 = 1836   Size =  8   Seq1 = TGAAGATA
+                                            Seq2 = TGAAGATA
+ IR Pos1 = 1761   Pos2 = 3787   Size =  8   Seq1 = TAATGCTT
+                                            Seq2 = AAGCATTA
+ IR Pos1 = 1766   Pos2 = 1824   Size =  8   Seq1 = CTTCATTA
+                                            Seq2 = TAATGAAG
+ PR Pos1 = 1772   Pos2 = 1772   Size = 10   Seq1 = TAGGTACCTA
+                                            Seq2 = TAGGTACCTA
+ IR Pos1 = 1785   Pos2 = 3812   Size =  9   Seq1 = TGATTTGCT
+                                            Seq2 = AGCAAATCA
+ IR Pos1 = 1790   Pos2 = 3842   Size =  8   Seq1 = TGCTAAAA
+                                            Seq2 = TTTTAGCA
+ DR Pos1 = 1806   Pos2 = 3861   Size =  8   Seq1 = AGATAAAG
+                                            Seq2 = AGATAAAG
+ DR Pos1 = 1810   Pos2 = 2902   Size =  8   Seq1 = AAAGATTT
+                                            Seq2 = AAAGATTT
+ DR Pos1 = 1812   Pos2 = 2040   Size = 10   Seq1 = AGATTTTTTG
+                                            Seq2 = AGATTTTTTG
+ IR Pos1 = 1813   Pos2 = 3525   Size =  8   Seq1 = GATTTTTT
+                                            Seq2 = AAAAAATC
+ IR Pos1 = 1815   Pos2 = 3380   Size = 10   Seq1 = TTTTTTGGAT
+                                            Seq2 = ATCCAAAAAA
+ DR Pos1 = 1817   Pos2 = 2801   Size =  9   Seq1 = TTTTGGATA
+                                            Seq2 = TTTTGGATA
+ IR Pos1 = 1817   Pos2 = 3001   Size =  9   Seq1 = TTTTGGATA
+                                            Seq2 = TATCCAAAA
+ DR Pos1 = 1825   Pos2 = 1834   Size =  8   Seq1 = AATGAAGA
+                                            Seq2 = AATGAAGA
+ DR Pos1 = 1831   Pos2 = 2833   Size =  8   Seq1 = GAAAATGA
+                                            Seq2 = GAAAATGA
+ DR Pos1 = 1832   Pos2 = 2420   Size =  8   Seq1 = AAAATGAA
+                                            Seq2 = AAAATGAA
+ DR Pos1 = 1836   Pos2 = 1878   Size =  8   Seq1 = TGAAGATA
+                                            Seq2 = TGAAGATA
+ PR Pos1 = 1838   Pos2 = 1838   Size = 10   Seq1 = AAGATATCTT
+                                            Seq2 = AAGATATCTT
+ IR Pos1 = 1853   Pos2 = 2029   Size = 10   Seq1 = ATATTGTTTT
+                                            Seq2 = AAAACAATAT
+ IR Pos1 = 1855   Pos2 = 3762   Size =  8   Seq1 = ATTGTTTT
+                                            Seq2 = AAAACAAT
+ IR Pos1 = 1857   Pos2 = 1907   Size =  8   Seq1 = TGTTTTAA
+                                            Seq2 = TTAAAACA
+ IR Pos1 = 1869   Pos2 = 2560   Size =  9   Seq1 = GACCTTATT
+                                            Seq2 = AATAAGGTC
+ IR Pos1 = 1876   Pos2 = 3134   Size =  8   Seq1 = TTTGAAGA
+                                            Seq2 = TCTTCAAA
+ DR Pos1 = 1901   Pos2 = 3574   Size = 10   Seq1 = AAAGACTTAA
+                                            Seq2 = AAAGACTTAA
+ IR Pos1 = 1925   Pos2 = 2362   Size =  8   Seq1 = TCTTTGAT
+                                            Seq2 = ATCAAAGA
+ DR Pos1 = 1929   Pos2 = 2094   Size =  8   Seq1 = TGATGATA
+                                            Seq2 = TGATGATA
+ DR Pos1 = 1942   Pos2 = 4067   Size =  8   Seq1 = ATGAAACA
+                                            Seq2 = ATGAAACA
+ IR Pos1 = 1951   Pos2 = 2494   Size =  8   Seq1 = CTTAAACG
+                                            Seq2 = CGTTTAAG
+ DR Pos1 = 1982   Pos2 = 3021   Size =  8   Seq1 = GTTTGTCT
+                                            Seq2 = GTTTGTCT
+ IR Pos1 = 1982   Pos2 = 3893   Size =  9   Seq1 = GTTTGTCTC
+                                            Seq2 = GAGACAAAC
+ IR Pos1 = 1992   Pos2 = 3325   Size =  8   Seq1 = AAAATTGA
+                                            Seq2 = TCAATTTT
+ DR Pos1 = 1996   Pos2 = 2989   Size =  8   Seq1 = TTGATTAA
+                                            Seq2 = TTGATTAA
+ IR Pos1 = 2025   Pos2 = 2060   Size =  9   Seq1 = TGGCAAAAC
+                                            Seq2 = GTTTTGCCA
+ IR Pos1 = 2025   Pos2 = 3237   Size =  8   Seq1 = TGGCAAAA
+                                            Seq2 = TTTTGCCA
+ DR Pos1 = 2029   Pos2 = 3762   Size =  8   Seq1 = AAAACAAT
+                                            Seq2 = AAAACAAT
+ IR Pos1 = 2032   Pos2 = 3277   Size =  8   Seq1 = ACAATATT
+                                            Seq2 = AATATTGT
+ IR Pos1 = 2035   Pos2 = 3118   Size =  8   Seq1 = ATATTAGA
+                                            Seq2 = TCTAATAT
+ IR Pos1 = 2038   Pos2 = 2874   Size =  9   Seq1 = TTAGATTTT
+                                            Seq2 = AAAATCTAA
+ IR Pos1 = 2041   Pos2 = 3525   Size =  8   Seq1 = GATTTTTT
+                                            Seq2 = AAAAAATC
+ IR Pos1 = 2044   Pos2 = 2123   Size =  8   Seq1 = TTTTTGAA
+                                            Seq2 = TTCAAAAA
+ DR Pos1 = 2050   Pos2 = 2298   Size =  8   Seq1 = AAATCAGA
+                                            Seq2 = AAATCAGA
+ DR Pos1 = 2058   Pos2 = 3396   Size =  8   Seq1 = TGGTTTTG
+                                            Seq2 = TGGTTTTG
+ DR Pos1 = 2061   Pos2 = 3237   Size =  8   Seq1 = TTTTGCCA
+                                            Seq2 = TTTTGCCA
+ DR Pos1 = 2073   Pos2 = 3326   Size =  8   Seq1 = CAATTTTA
+                                            Seq2 = CAATTTTA
+ DR Pos1 = 2091   Pos2 = 2952   Size =  8   Seq1 = CCATGATG
+                                            Seq2 = CCATGATG
+ DR Pos1 = 2098   Pos2 = 2152   Size =  8   Seq1 = GATAGTTT
+                                            Seq2 = GATAGTTT
+ DR Pos1 = 2124   Pos2 = 2627   Size =  8   Seq1 = TCAAAAAG
+                                            Seq2 = TCAAAAAG
+ IR Pos1 = 2124   Pos2 = 3607   Size =  8   Seq1 = TCAAAAAG
+                                            Seq2 = CTTTTTGA
+ DR Pos1 = 2170   Pos2 = 2415   Size =  8   Seq1 = ATTGCAAA
+                                            Seq2 = ATTGCAAA
+ DR Pos1 = 2171   Pos2 = 3155   Size =  8   Seq1 = TTGCAAAT
+                                            Seq2 = TTGCAAAT
+ DR Pos1 = 2177   Pos2 = 3710   Size =  8   Seq1 = ATTTAGCT
+                                            Seq2 = ATTTAGCT
+ DR Pos1 = 2198   Pos2 = 3569   Size =  9   Seq1 = TTAAAAAAG
+                                            Seq2 = TTAAAAAAG
+ DR Pos1 = 2199   Pos2 = 3366   Size =  8   Seq1 = TAAAAAAG
+                                            Seq2 = TAAAAAAG
+ IR Pos1 = 2210   Pos2 = 2219   Size =  8   Seq1 = TTTTACAG
+                                            Seq2 = CTGTAAAA
+ DR Pos1 = 2223   Pos2 = 3728   Size =  8   Seq1 = AAAAGTTG
+                                            Seq2 = AAAAGTTG
+ DR Pos1 = 2249   Pos2 = 3195   Size =  8   Seq1 = TAATGGGG
+                                            Seq2 = TAATGGGG
+ DR Pos1 = 2259   Pos2 = 3783   Size =  8   Seq1 = GCATAAGC
+                                            Seq2 = GCATAAGC
+ DR Pos1 = 2265   Pos2 = 2318   Size =  9   Seq1 = GCCAGAAAA
+                                            Seq2 = GCCAGAAAA
+ DR Pos1 = 2267   Pos2 = 3917   Size = 10   Seq1 = CAGAAAATAT
+                                            Seq2 = CAGAAAATAT
+ IR Pos1 = 2273   Pos2 = 4001   Size =  8   Seq1 = ATATCGTT
+                                            Seq2 = AACGATAT
+ DR Pos1 = 2303   Pos2 = 2650   Size =  8   Seq1 = AGACAACT
+                                            Seq2 = AGACAACT
+ IR Pos1 = 2307   Pos2 = 3609   Size =  9   Seq1 = AACTCAAAA
+                                            Seq2 = TTTTGAGTT
+ IR Pos1 = 2323   Pos2 = 3699   Size =  8   Seq1 = AAAAATTC
+                                            Seq2 = GAATTTTT
+ DR Pos1 = 2340   Pos2 = 4066   Size =  8   Seq1 = TATGAAAC
+                                            Seq2 = TATGAAAC
+ DR Pos1 = 2349   Pos2 = 3458   Size = 11   Seq1 = AATCGAAGAAG
+                                            Seq2 = AATCGAAGAAG
+ IR Pos1 = 2360   Pos2 = 3979   Size =  8   Seq1 = GTATCAAA
+                                            Seq2 = TTTGATAC
+ DR Pos1 = 2366   Pos2 = 2477   Size =  9   Seq1 = AAGAATTAG
+                                            Seq2 = AAGAATTAG
+ IR Pos1 = 2374   Pos2 = 2890   Size = 10   Seq1 = GGAAGTCAGA
+                                            Seq2 = TCTGACTTCC
+ DR Pos1 = 2386   Pos2 = 2539   Size =  8   Seq1 = CTTAAAGA
+                                            Seq2 = CTTAAAGA
+ DR Pos1 = 2387   Pos2 = 3479   Size =  8   Seq1 = TTAAAGAG
+                                            Seq2 = TTAAAGAG
+ DR Pos1 = 2423   Pos2 = 3725   Size =  8   Seq1 = ATGAAAAG
+                                            Seq2 = ATGAAAAG
+ IR Pos1 = 2447   Pos2 = 2800   Size =  8   Seq1 = TCCAAAAT
+                                            Seq2 = ATTTTGGA
+ IR Pos1 = 2492   Pos2 = 3999   Size =  8   Seq1 = ATCGTTTA
+                                            Seq2 = TAAACGAT
+ DR Pos1 = 2499   Pos2 = 2861   Size =  9   Seq1 = AAGTGATTA
+                                            Seq2 = AAGTGATTA
+ IR Pos1 = 2500   Pos2 = 2672   Size =  8   Seq1 = AGTGATTA
+                                            Seq2 = TAATCACT
+ DR Pos1 = 2501   Pos2 = 3032   Size =  8   Seq1 = GTGATTAT
+                                            Seq2 = GTGATTAT
+ DR Pos1 = 2505   Pos2 = 3045   Size =  9   Seq1 = TTATGATGT
+                                            Seq2 = TTATGATGT
+ IR Pos1 = 2526   Pos2 = 3772   Size =  8   Seq1 = TCCACAAA
+                                            Seq2 = TTTGTGGA
+ IR Pos1 = 2547   Pos2 = 3011   Size =  8   Seq1 = CGATTCAA
+                                            Seq2 = TTGAATCG
+ IR Pos1 = 2554   Pos2 = 3023   Size =  8   Seq1 = ATAGACAA
+                                            Seq2 = TTGTCTAT
+ PR Pos1 = 2571   Pos2 = 2571   Size =  8   Seq1 = AACGCGTT
+                                            Seq2 = AACGCGTT
+ IR Pos1 = 2580   Pos2 = 2745   Size =  8   Seq1 = TGATAAAA
+                                            Seq2 = TTTTATCA
+ IR Pos1 = 2597   Pos2 = 3530   Size =  8   Seq1 = AATCGGAT
+                                            Seq2 = ATCCGATT
+ IR Pos1 = 2616   Pos2 = 3131   Size =  9   Seq1 = TGAAGAAGT
+                                            Seq2 = ACTTCTTCA
+ DR Pos1 = 2617   Pos2 = 3462   Size =  8   Seq1 = GAAGAAGT
+                                            Seq2 = GAAGAAGT
+ IR Pos1 = 2627   Pos2 = 3606   Size =  9   Seq1 = TCAAAAAGA
+                                            Seq2 = TCTTTTTGA
+ DR Pos1 = 2628   Pos2 = 3335   Size =  8   Seq1 = CAAAAAGA
+                                            Seq2 = CAAAAAGA
+ DR Pos1 = 2634   Pos2 = 2830   Size =  8   Seq1 = GATGAAAA
+                                            Seq2 = GATGAAAA
+ IR Pos1 = 2656   Pos2 = 3543   Size =  8   Seq1 = CTTCTAAA
+                                            Seq2 = TTTAGAAG
+ DR Pos1 = 2661   Pos2 = 2752   Size =  9   Seq1 = AAACGCCAA
+                                            Seq2 = AAACGCCAA
+ IR Pos1 = 2672   Pos2 = 2862   Size =  8   Seq1 = TAATCACT
+                                            Seq2 = AGTGATTA
+ IR Pos1 = 2675   Pos2 = 2722   Size =  8   Seq1 = TCACTCAA
+                                            Seq2 = TTGAGTGA
+ IR Pos1 = 2679   Pos2 = 3938   Size =  9   Seq1 = TCAACGTAA
+                                            Seq2 = TTACGTTGA
+ IR Pos1 = 2688   Pos2 = 2747   Size =  9   Seq1 = GTTTGATAA
+                                            Seq2 = TTATCAAAC
+ IR Pos1 = 2732   Pos2 = 2746   Size =  8   Seq1 = TTGATAAA
+                                            Seq2 = TTTATCAA
+ DR Pos1 = 2751   Pos2 = 3174   Size =  8   Seq1 = CAAACGCC
+                                            Seq2 = CAAACGCC
+ PR Pos1 = 2757   Pos2 = 2757   Size =  8   Seq1 = CCAATTGG
+                                            Seq2 = CCAATTGG
+ IR Pos1 = 2801   Pos2 = 3001   Size =  9   Seq1 = TTTTGGATA
+                                            Seq2 = TATCCAAAA
+ IR Pos1 = 2801   Pos2 = 3380   Size =  8   Seq1 = TTTTGGAT
+                                            Seq2 = ATCCAAAA
+ DR Pos1 = 2834   Pos2 = 3058   Size =  8   Seq1 = AAAATGAT
+                                            Seq2 = AAAATGAT
+ IR Pos1 = 2840   Pos2 = 3041   Size =  8   Seq1 = ATAAACTT
+                                            Seq2 = AAGTTTAT
+ DR Pos1 = 2872   Pos2 = 3469   Size =  8   Seq1 = TTAAAATC
+                                            Seq2 = TTAAAATC
+ DR Pos1 = 2877   Pos2 = 2963   Size =  8   Seq1 = ATCTAAAT
+                                            Seq2 = ATCTAAAT
+ IR Pos1 = 2877   Pos2 = 3794   Size =  8   Seq1 = ATCTAAAT
+                                            Seq2 = ATTTAGAT
+ IR Pos1 = 2877   Pos2 = 3856   Size =  9   Seq1 = ATCTAAATT
+                                            Seq2 = AATTTAGAT
+ IR Pos1 = 2883   Pos2 = 3190   Size =  9   Seq1 = ATTAGTTTC
+                                            Seq2 = GAAACTAAT
+ DR Pos1 = 2917   Pos2 = 3037   Size =  8   Seq1 = TATAAAGT
+                                            Seq2 = TATAAAGT
+ DR Pos1 = 2928   Pos2 = 3801   Size =  8   Seq1 = TGAGATTA
+                                            Seq2 = TGAGATTA
+ IR Pos1 = 2962   Pos2 = 3857   Size =  9   Seq1 = TATCTAAAT
+                                            Seq2 = ATTTAGATA
+ IR Pos1 = 2963   Pos2 = 3794   Size =  8   Seq1 = ATCTAAAT
+                                            Seq2 = ATTTAGAT
+ IR Pos1 = 2990   Pos2 = 3579   Size =  8   Seq1 = TGATTAAG
+                                            Seq2 = CTTAATCA
+ DR Pos1 = 2995   Pos2 = 3080   Size =  8   Seq1 = AAGAAATA
+                                            Seq2 = AAGAAATA
+ IR Pos1 = 2995   Pos2 = 3105   Size =  9   Seq1 = AAGAAATAT
+                                            Seq2 = ATATTTCTT
+ DR Pos1 = 3002   Pos2 = 3380   Size =  8   Seq1 = ATCCAAAA
+                                            Seq2 = ATCCAAAA
+ IR Pos1 = 3021   Pos2 = 3894   Size =  8   Seq1 = GTTTGTCT
+                                            Seq2 = AGACAAAC
+ DR Pos1 = 3038   Pos2 = 3863   Size =  8   Seq1 = ATAAAGTT
+                                            Seq2 = ATAAAGTT
+ DR Pos1 = 3054   Pos2 = 3363   Size =  8   Seq1 = TCGTAAAA
+                                            Seq2 = TCGTAAAA
+ DR Pos1 = 3065   Pos2 = 3437   Size =  8   Seq1 = TTGCTAAG
+                                            Seq2 = TTGCTAAG
+ IR Pos1 = 3080   Pos2 = 3106   Size =  8   Seq1 = AAGAAATA
+                                            Seq2 = TATTTCTT
+ IR Pos1 = 3101   Pos2 = 3973   Size = 10   Seq1 = CAAAATATTT
+                                            Seq2 = AAATATTTTG
+ DR Pos1 = 3102   Pos2 = 3920   Size =  8   Seq1 = AAAATATT
+                                            Seq2 = AAAATATT
+ PR Pos1 = 3103   Pos2 = 3103   Size =  8   Seq1 = AAATATTT
+                                            Seq2 = AAATATTT
+ DR Pos1 = 3103   Pos2 = 3973   Size =  8   Seq1 = AAATATTT
+                                            Seq2 = AAATATTT
+ IR Pos1 = 3107   Pos2 = 3337   Size =  9   Seq1 = ATTTCTTTT
+                                            Seq2 = AAAAGAAAT
+ IR Pos1 = 3129   Pos2 = 3510   Size =  9   Seq1 = GAACTTCTT
+                                            Seq2 = AAGAAGTTC
+ IR Pos1 = 3130   Pos2 = 3462   Size =  9   Seq1 = AACTTCTTC
+                                            Seq2 = GAAGAAGTT
+ IR Pos1 = 3130   Pos2 = 4019   Size =  8   Seq1 = AACTTCTT
+                                            Seq2 = AAGAAGTT
+ DR Pos1 = 3139   Pos2 = 3289   Size =  9   Seq1 = AAAACAGAA
+                                            Seq2 = AAAACAGAA
+ IR Pos1 = 3272   Pos2 = 3535   Size =  8   Seq1 = AAGTCAAT
+                                            Seq2 = ATTGACTT
+ PR Pos1 = 3276   Pos2 = 3276   Size =  8   Seq1 = CAATATTG
+                                            Seq2 = CAATATTG
+ IR Pos1 = 3335   Pos2 = 3606   Size =  8   Seq1 = CAAAAAGA
+                                            Seq2 = TCTTTTTG
+ DR Pos1 = 3353   Pos2 = 3417   Size =  8   Seq1 = AGCTTATT
+                                            Seq2 = AGCTTATT
+ DR Pos1 = 3366   Pos2 = 3570   Size = 11   Seq1 = TAAAAAAGACT
+                                            Seq2 = TAAAAAAGACT
+ IR Pos1 = 3368   Pos2 = 3604   Size =  9   Seq1 = AAAAAGACT
+                                            Seq2 = AGTCTTTTT
+ DR Pos1 = 3384   Pos2 = 3524   Size =  8   Seq1 = AAAAAAAT
+                                            Seq2 = AAAAAAAT
+ DR Pos1 = 3399   Pos2 = 3978   Size =  8   Seq1 = TTTTGATA
+                                            Seq2 = TTTTGATA
+ DR Pos1 = 3463   Pos2 = 3510   Size =  8   Seq1 = AAGAAGTT
+                                            Seq2 = AAGAAGTT
+ DR Pos1 = 3463   Pos2 = 4019   Size =  8   Seq1 = AAGAAGTT
+                                            Seq2 = AAGAAGTT
+ DR Pos1 = 3465   Pos2 = 3565   Size = 10   Seq1 = GAAGTTAAAA
+                                            Seq2 = GAAGTTAAAA
+ DR Pos1 = 3471   Pos2 = 3527   Size =  8   Seq1 = AAAATCCG
+                                            Seq2 = AAAATCCG
+ DR Pos1 = 3509   Pos2 = 4018   Size =  9   Seq1 = AAAGAAGTT
+                                            Seq2 = AAAGAAGTT
+ IR Pos1 = 3572   Pos2 = 3604   Size =  9   Seq1 = AAAAAGACT
+                                            Seq2 = AGTCTTTTT
+ IR Pos1 = 3596   Pos2 = 3707   Size =  9   Seq1 = CTAAATATA
+                                            Seq2 = TATATTTAG
+ IR Pos1 = 3616   Pos2 = 3826   Size =  8   Seq1 = TTAGAAAA
+                                            Seq2 = TTTTCTAA
+ DR Pos1 = 3627   Pos2 = 3996   Size =  9   Seq1 = TCGTAAACG
+                                            Seq2 = TCGTAAACG
+ DR Pos1 = 3697   Pos2 = 3821   Size =  9   Seq1 = GTGAATTTT
+                                            Seq2 = GTGAATTTT
+ DR Pos1 = 3723   Pos2 = 4065   Size =  8   Seq1 = TTATGAAA
+                                            Seq2 = TTATGAAA
+ PR Pos1 = 3763   Pos2 = 3763   Size = 12   Seq1 = AAACAATTGTTT
+                                            Seq2 = AAACAATTGTTT
+ DR Pos1 = 3764   Pos2 = 3987   Size =  8   Seq1 = AACAATTG
+                                            Seq2 = AACAATTG
+ IR Pos1 = 3766   Pos2 = 3987   Size =  8   Seq1 = CAATTGTT
+                                            Seq2 = AACAATTG
+ DR Pos1 = 3794   Pos2 = 3857   Size =  8   Seq1 = ATTTAGAT
+                                            Seq2 = ATTTAGAT
+ DR Pos1 = 3795   Pos2 = 4026   Size =  8   Seq1 = TTTAGATG
+                                            Seq2 = TTTAGATG
+ DR Pos1 = 3849   Pos2 = 4029   Size =  8   Seq1 = AGATGCCA
+                                            Seq2 = AGATGCCA
+ IR Pos1 = 3920   Pos2 = 3974   Size =  8   Seq1 = AAAATATT
+                                            Seq2 = AATATTTT
+ PR Pos1 = 3955   Pos2 = 3955   Size =  8   Seq1 = GGAGCTCC
+                                            Seq2 = GGAGCTCC
+ PR Pos1 = 3973   Pos2 = 3973   Size =  8   Seq1 = AAATATTT
+                                            Seq2 = AAATATTT
+ DR Pos1 = 4042   Pos2 = 4050   Size =  8   Seq1 = ATCCATCA
+                                            Seq2 = ATCCATCA
+ ----------------------------------------------------------------
+ 
+ 
+          Sequence Patterns Screened (As Supplied By User)
+ ----------------------------------------------------------------
+                       None found
+ ----------------------------------------------------------------
+ 
+       114 oligonucleotides need to be synthesized
+ ----------------------------------------------------------------
+  1 ATGGATAAGAAATACTCAATAGGCTTAGATATCG  34
+  2 TCAGTGATCACCGCCCATCCGACGCTATTTGTGCCGATATCTAAGCCTATTGAGTATTTC  60
+  3 TGGGCGGTGATCACTGATGAATATAAGGTTCCGTCTAAAAAGTTCAAGGTTCTGGGAAAT  60
+  4 AGCCCCTATAAGATTTTTTTTGATACTGTGGCGGTCTGTATTTCCCAGAACCTTGAACTT  60
+  5 TATCAAAAAAAATCTTATAGGGGCTCTTTTATTTGACAGTGGAGAGACAGCGGAAGCGAC  60
+  6 CTTCCGACGTGTATACCTTCTACGAGCTGTCCGTTTGAGACGAGTCGCTTCCGCTGTCTC  60
+  7 AGAAGGTATACACGTCGGAAGAATCGTATTTGTTATCTACAGGAGATTTTTTCAAATGAG  60
+  8 AGTCGATGAAAGAAACTATCATCTACTTTCGCCATCTCATTTGAAAAAATCTCCTGTAGA  60
+  9 TAGATGATAGTTTCTTTCATCGACTTGAAGAGTCTTTTTTGGTGGAAGAAGACAAGAAGC  60
+ 10 ACTTCATCTACTATATTTCCAAAAATAGGATGACGTTCATGCTTCTTGTCTTCTTCCACC  60
+ 11 CCTATTTTTGGAAATATAGTAGATGAAGTTGCTTATCATGAGAAATATCCAACTATCTAT  60
+ 12 CAGTAGAATCTACCAATTTTTTTCGCAGATGATAGATAGTTGGATATTTCTCATGATAAG  60
+ 13 CGAAAAAAATTGGTAGATTCTACTGATAAAGCGGATTTGCGCTTAATCTATTTGGCCTTA  60
+ 14 TCAATCAAAAAATGACCACGAAACTTAATCATATGCGCTAAGGCCAAATAGATTAAGCGC  60
+ 15 TTTCGTGGTCATTTTTTGATTGAGGGAGATTTAAATCCTGATAATAGTGATGTGGACAAA  60
+ 16 TAATTGATTGTAGGTTTGTACCAACTGGATAAATAGTTTGTCCACATCACTATTATCAGG  60
+ 17 GTTGGTACAAACCTACAATCAATTATTTGAAGAAAACCCTATTAACGCAAGTGGAGTAGA  60
+ 18 TTGATTTACTCAATCGTGCAGAAAGAATCGCTTTAGCATCTACTCCACTTGCGTTAATAG  60
+ 19 TCTGCACGATTGAGTAAATCAAGACGATTAGAAAATCTCATTGCTCAGCTCCCCGGTGAG  60
+ 20 CCCAATGACAAAGCAATGAGATTCCCAAATAAGCCATTTTTCTTCTCACCGGGGAGCTGA  60
+ 21 TCTCATTGCTTTGTCATTGGGTTTGACCCCTAATTTTAAATCAAATTTTGATTTGGCAGA  60
+ 22 CGTAAGTATCTTTTGAAAGCTGTAATTTAGCATCTTCTGCCAAATCAAAATTTGATTTAA  60
+ 23 TTACAGCTTTCAAAAGATACTTACGATGATGATTTAGATAATTTATTGGCGCAAATTGGA  60
+ 24 TAAATTCTTAGCTGCCAAAAACAAATCAGCATATTGATCTCCAATTTGCGCCAATAAATT  60
+ 25 TTTGTTTTTGGCAGCTAAGAATTTATCAGATGCTATTTTACTTTCAGATATCCTAAGAGT  60
+ 26 CTGATAGGGGAGCCTTAGTTATTTCAGTATTTACTCTTAGGATATCTGAAAGTAAAATAG  60
+ 27 TAACTAAGGCTCCCCTATCAGCTTCAATGATTAAACGCTACGATGAACATCATCAAGACT  60
+ 28 GGAAGTTGTTGTCGAACTAAAGCTTTTAAAAGAGTCAAGTCTTGATGATGTTCATCGTAG  60
+ 29 CTTTAGTTCGACAACAACTTCCAGAAAAGTATAAAGAAATCTTTTTTGATCAATCAAAAA  60
+ 30 GCTCCCCCATCAATATAACCTGCATATCCGTTTTTTGATTGATCAAAAAAGATTTCTTTA  60
+ 31 AGGTTATATTGATGGGGGAGCTAGCCAAGAAGAATTTTATAAATTTATCAAACCAATTTT  60
+ 32 TAATTCCTCAGTACCATCCATTTTTTCTAAAATTGGTTTGATAAATTTATAAAATTCTTC  60
+ 33 AAAAATGGATGGTACTGAGGAATTATTGGTGAAACTAAATCGTGAAGATTTGCTGCGCAA  60
+ 34 GAATTTGATGGGGAATAGAGCCGTTGTCAAAGGTCCGTTGCTTGCGCAGCAAATCTTCAC  60
+ 35 GGCTCTATTCCCCATCAAATTCACTTGGGTGAGCTGCATGCTATTTTGAGAAGACAAGAA  60
+ 36 CTTCTCACGATTGTCTTTTAAAAATGGATAAAAGTCTTCTTGTCTTCTCAAAATAGCATG  60
+ 37 CATTTTTAAAAGACAATCGTGAGAAGATTGAAAAAATCTTGACTTTTCGAATTCCTTATT  60
+ 38 AAAACGACTATTGCCACGCGCCAATGGACCAACATAATAAGGAATTCGAAAAGTCAAGAT  60
+ 39 GCGTGGCAATAGTCGTTTTGCATGGATGACTCGGAAGTCTGAAGAAACAATTACCCCATG  60
+ 40 AGCTGAAGCACCTTTATCGACAACTTCTTCAAAATTCCATGGGGTAATTGTTTCTTCAGA  60
+ 41 TCGATAAAGGTGCTTCAGCTCAATCATTTATTGAACGCATGACAAACTTTGATAAAAATC  60
+ 42 CAAACTATGTTTTGGTAGTACTTTTTCATTTGGAAGATTTTTATCAAAGTTTGTCATGCG  60
+ 43 GAAAAAGTACTACCAAAACATAGTTTGCTTTATGAGTATTTTACGGTTTATAACGAATTG  60
+ 44 TCGCATTCCTTCAGTAACATATTTGACCTTTGTCAATTCGTTATAAACCGTAAAATACTC  60
+ 45 AATATGTTACTGAAGGAATGCGAAAACCAGCATTTCTTTCAGGTGAACAGAAGAAAGCCA  60
+ 46 ACGGTTACTTTTCGATTTGTTTTGAAGAGTAAATCAACAATGGCTTTCTTCTGTTCACCT  60
+ 47 AAAACAAATCGAAAAGTAACCGTTAAGCAATTAAAAGAAGATTATTTCAAAAAAATAGAA  60
+ 48 TCCTGAAATTTCAACACTATCAAAACATTCTATTTTTTTGAAATAATCTTCTTTTAATTG  60
+ 49 TTTTGATAGTGTTGAAATTTCAGGAGTTGAAGATAGATTTAATGCTTCATTAGGTACCTA  60
+ 50 AATCTTTATCTTTAATAATTTTTAGCAAATCATGGTAGGTACCTAATGAAGCATTAAATC  60
+ 51 ATGATTTGCTAAAAATTATTAAAGATAAAGATTTTTTGGATAATGAAGAAAATGAAGATATC  62
+ 52 ATAAGGTCAATGTTAAAACAATATCCTCTAAGATATCTTCATTTTCTTCATTATCCAAAA  60
+ 53 AGGATATTGTTTTAACATTGACCTTATTTGAAGATAGGGAGATGATTGAGGAAAGACTTA  60
+ 54 TTCATCACCTTATCATCAAAGAGGTGAGCATATGTTTTAAGTCTTTCCTCAATCATCTCC  60
+ 55 CCTCTTTGATGATAAGGTGATGAAACAGCTTAAACGTCGCCGTTATACTGGTTGGGGACG  60
+ 56 TTGCTTATCCCTAATACCATTAATCAATTTTCGAGACAAACGTCCCCAACCAGTATAACG  60
+ 57 GATTAATGGTATTAGGGATAAGCAATCTGGCAAAACAATATTAGATTTTTTGAAATCAGA  60
+ 58 CAGCTGCATAAAATTGCGATTGGCAAAACCATCTGATTTCAAAAAATCTAATATTGTTTT  60
+ 59 AATCGCAATTTTATGCAGCTGATCCATGATGATAGTTTGACATTTAAAGAAGACATTCAA  60
+ 60 GTAAACTATCGCCTTGTCCAGACACTTGTGCTTTTTGAATGTCTTCTTTAAATGTCAAAC  60
+ 61 CTGGACAAGGCGATAGTTTACATGAACATATTGCAAATTTAGCTGGTAGCCCTGCTATTA  60
+ 62 CAATTCATCAACAACTTTTACAGTCTGTAAAATACCTTTTTTAATAGCAGGGCTACCAGC  60
+ 63 GACTGTAAAAGTTGTTGATGAATTGGTCAAAGTAATGGGGCGGCATAAGCCAGAAAATAT  60
+ 64 TTTTGAGTTGTCTGATTTTCACGTGCCATTTCAATAACGATATTTTCTGGCTTATGCCGC  60
+ 65 CGTGAAAATCAGACAACTCAAAAGGGCCAGAAAAATTCGCGAGAGCGTATGAAACGAATC  60
+ 66 TTTAAGAATCTGACTTCCTAATTCTTTGATACCTTCTTCGATTCGTTTCATACGCTCTCG  60
+ 67 AAAGAATTAGGAAGTCAGATTCTTAAAGAGCATCCTGTTGAAAATACTCAATTGCAAAAT  60
+ 68 CTTCCATTTTGGAGATAATAGAGATAGAGCTTTTCATTTTGCAATTGAGTATTTTCAACA  60
+ 69 CTATCTCTATTATCTCCAAAATGGAAGAGACATGTATGTGGACCAAGAATTAGATATTAA  60
+ 70 ACAATGTGATCGACATCATAATCACTTAAACGATTAATATCTAATTCTTGGTCCACATAC  60
+ 71 TGATTATGATGTCGATCACATTGTTCCACAAAGTTTCCTTAAAGACGATTCAATAGACAA  60
+ 72 TACCACGATTTTTATCAGAACGCGTTAAGACCTTATTGTCTATTGAATCGTCTTTAAGGA  60
+ 73 GCGTTCTGATAAAAATCGTGGTAAATCGGATAACGTTCCAAGTGAAGAAGTAGTCAAAAA  60
+ 74 TTGGCGTTTAGAAGTTGTCTCCAATAGTTTTTCATCTTTTTGACTACTTCTTCACTTGGA  60
+ 75 GAGACAACTTCTAAACGCCAAGTTAATCACTCAACGTAAGTTTGATAATTTAACGAAAGC  60
+ 76 AGCTTTATCAAGTTCACTCAAACCTCCACGTTCAGCTTTCGTTAAATTATCAAACTTACG  60
+ 77 GTTTGAGTGAACTTGATAAAGCTGGTTTTATCAAACGCCAATTGGTTGAAACTCGCCAAA  60
+ 78 TCATGCGACTATCCAAAATTTGTGCCACATGCTTAGTGATTTGGCGAGTTTCAACCAATT  60
+ 79 CAAATTTTGGATAGTCGCATGAATACTAAATACGATGAAAATGATAAACTTATTCGAGAG  60
+ 80 AACTAATTTAGATTTTAAGGTAATCACTTTAACCTCTCGAATAAGTTTATCATTTTCATC  60
+ 81 AAGTGATTACCTTAAAATCTAAATTAGTTTCTGACTTCCGAAAAGATTTCCAATTCTATA  60
+ 82 ATGGGCATGATGGTAATTGTTAATCTCACGTACTTTATAGAATTGGAAATCTTTTCGGAA  60
+ 83 AACAATTACCATCATGCCCATGATGCGTATCTAAATGCCGTCGTTGGAACTGCTTTGATT  60
+ 84 ACCATAGACAAACTCCGATTCAAGTTTTGGATATTTCTTAATCAAAGCAGTTCCAACGAC  60
+ 85 GAATCGGAGTTTGTCTATGGTGATTATAAAGTTTATGATGTTCGTAAAATGATTGCTAAG  60
+ 86 TATTTTGCGGTTGCTTTGCCTATTTCTTGCTCAGACTTAGCAATCATTTTACGAACATCA  60
+ 87 GCAAAGCAACCGCAAAATATTTCTTTTACTCTAATATCATGAACTTCTTCAAAACAGAAA  60
+ 88 AGGGCGTTTGCGAATCTCTCCATTTGCAAGTGTAATTTCTGTTTTGAAGAAGTTCATGAT  60
+ 89 AGATTCGCAAACGCCCTCTAATCGAAACTAATGGGGAAACTGGAGAAATTGTCTGGGATA  60
+ 90 GGACAATACTTTGCGCACTGTGGCAAAATCTCGCCCTTTATCCCAGACAATTTCTCCAGT  60
+ 91 AGTGCGCAAAGTATTGTCCATGCCCCAAGTCAATATTGTCAAGAAAACAGAAGTACAGAC  60
+ 92 TCTTTTTGGTAAAATTGACTCCTTGGAGAATCCGCCTGTCTGTACTTCTGTTTTCTTGAC  60
+ 93 CAAGGAGTCAATTTTACCAAAAAGAAATTCGGACAAGCTTATTGCTCGTAAAAAAGACTG  60
+ 94 GTTGGACTATCAAAACCACCATATTTTTTTGGATCCCAGTCTTTTTTACGAGCAATAAGC  60
+ 95 TGGTGGTTTTGATAGTCCAACGGTAGCTTATTCAGTCCTAGTGGTTGCTAAGGTGGAAAA  60
+ 96 TAGTAACTCTTTAACGGATTTTAACTTCTTCGATTTCCCTTTTTCCACCTTAGCAACCAC  60
+ 97 AAGTTAAAATCCGTTAAAGAGTTACTAGGGATCACAATTATGGAAAGAAGTTCCTTTGAA  60
+ 98 TATCCTTTAGCTTCTAAAAAGTCAATCGGATTTTTTTCAAAGGAACTTCTTTCCATAATT  60
+ 99 GATTGACTTTTTAGAAGCTAAAGGATATAAGGAAGTTAAAAAAGACTTAATCATTAAACT  60
+100 TTTTCTAACTCAAAAAGACTATATTTAGGTAGTTTAATGATTAAGTCTTTTTTAACTTCC  60
+101 CCTAAATATAGTCTTTTTGAGTTAGAAAACGGTCGTAAACGGATGCTGGCTAGTGCCGGA  60
+102 ACATATTTGCTTGGCAGAGCCAGCTCATTTCCTTTTTGTAATTCTCCGGCACTAGCCAGC  60
+103 GCTCTGCCAAGCAAATATGTGAATTTTTTATATTTAGCTAGTCATTATGAAAAGTTGAAG  60
+104 AACAATTGTTTTTGTTCGTTATCTTCTGGACTACCCTTCAACTTTTCATAATGACTAGCT  60
+105 AAGATAACGAACAAAAACAATTGTTTGTGGAGCAGCATAAGCATTATTTAGATGAGATTA  60
+106 TAACACGCTTAGAAAATTCACTGATTTGCTCAATAATCTCATCTAAATAATGCTTATGCT  60
+107 CAGTGAATTTTCTAAGCGTGTTATTTTAGCAGATGCCAATTTAGATAAAGTTCTTAGTGC  60
+108 TTCACGTATTGGTTTGTCTCTATGTTTGTTATATGCACTAAGAACTTTATCTAAATTGGC  60
+109 ATAGAGACAAACCAATACGTGAACAAGCAGAAAATATTATTCATTTATTTACGTTGACGA  60
+110 AAATATTTAAAAGCAGCGGGAGCTCCAAGATTCGTCAACGTAAATAAATGAATAATATTT  60
+111 CTCCCGCTGCTTTTAAATATTTTGATACAACAATTGATCGTAAACGATATACGTCTACAA  60
+112 GGATTGATGGATAAGAGTGGCATCTAAAACTTCTTTTGTAGACGTATATCGTTTACGATC  60
+113 GCCACTCTTATCCATCAATCCATCACTGGTCTTTATGAAACACGCATTGATTTGAGTCAG  60
+114 TTAGTCACCTCCTAGCTGACTCAAATCAATGCGTGT  36
+ 
+                          FINAL SUMMARY FOR   1 SOLUTION   
+--------------------------------------------------------------------------------
+  #    Tm   Len  |    Score   TmRange  Short    Long   #Olig  #Repeat #Misprime
+ 
+  1    62    60  |   82.721       2.8      16      62     114     523     181
+ 
+--------------------------------------------------------------------------------
+|               HPC @ NIH -- Center for Information Technology                 |
+|                             https://hpc.nih.gov                              |
+|   National Institutes of Health, Department of Health and Human Services     |
+|                                                                              |
+|         DNAWorks Web Site: https://hpcwebapps.cit.nih.gov/dnaworks           |
+--------------------------------------------------------------------------------
+
