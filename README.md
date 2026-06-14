@@ -11,7 +11,7 @@ DNAWorks (Hoover & Lubkowski, *Nucleic Acids Res.* 2002) is a widely used **Fort
 
 This **Python** reimplementation also offers a few disadvantages:
 
-- **Limited scope** — Only optimizes DNA sequences, will not accept protein sequences, or degenerate bases. For codon optimization prior to using this tool, I recommend [dnachisel] (https://github.com/edinburgh-genome-foundry/dnachisel) with the UniquifyAllKmers specification set to 12 (along with other desired specifications).
+- **Limited scope** — Only optimizes DNA sequences, will not accept protein sequences, or degenerate bases. For codon optimization prior to using this tool, I recommend [dnachisel](https://github.com/edinburgh-genome-foundry/dnachisel) with the UniquifyAllKmers specification set to 12 (along with other desired specifications).
 - **Different Tm Calculation** - ...
 
 ## Installation
