@@ -169,4 +169,6 @@ No statistically significant differences in any design quality metric (all p > 0
 
 ## License
 
-MIT
+License = GPL-2.0
+
+`dnaworks_py` is an open-source tool written at [Mayo Clinic](https://www.mayo.edu/) in Rochester, MN by [Adam Smiley](https://github.com/AdamTSmiley) and [released on Github](https://github.com/AdamTSmiley/dnaworks_py) under the GNU General Public License v2, matching the license of the original [DNAWorks](https://github.com/davidhoover/DNAWorks) by David Hoover.

@@ -3,7 +3,7 @@ name = "dnaworks_py"
 version = "0.1.0"
 description = "Design overlapping oligonucleotides for PCR-based gene assembly"
 readme = "README.md"
-license = {text = "MIT"}
+license = {text = "GPL-2.0"}
 requires-python = ">=3.10"
 authors = [
     {name = "Adam Smiley"},
