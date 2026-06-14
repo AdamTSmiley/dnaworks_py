@@ -1,17 +1,17 @@
 # dnaworks_py
 
-A Python reimplementation of [DNAWorks](https://github.com/davidhoover/DNAWorks) for automated design of overlapping oligonucleotides for PCR-based gene assembly.
+A Python reimplementation of [DNAWorks](https://github.com/davidhoover/DNAWorks) for automated design of overlapping oligonucleotides for PCR-based gene assembly. I wrote this to meet the needs of a specific project, not in an attempt to improve upon the original version. 
 
 Given a DNA sequence, `dnaworks_py` designs a set of overlapping oligos that tile the full gene and can be assembled by overlap-extension PCR. Each overlap junction is optimized to hit a target melting temperature, and the placement is scored to minimize mispriming risk, internal repeats, and extreme GC/AT content.
 
-## Why a rewrite?
+DNAWorks (Hoover & Lubkowski, *Nucleic Acids Res.* 2002) is a widely used **Fortran** tool for oligo design. This **Python** reimplementation offers a few advantages:
 
-DNAWorks (Hoover & Lubkowski, *Nucleic Acids Res.* 2002) is a widely used Fortran tool for oligo design. This Python reimplementation offers several advantages:
-
-- **Modern Tm calculation** — uses Breslauer 1986 nearest-neighbor parameters with SantaLucia 1998 salt correction, matching [Benchling's](https://www.benchling.com) "Modified Breslauer" method. Validated against Benchling's Tm calculator.
-- **Dramatically faster on large genes** — 12 seconds vs. 211 seconds for a 4.1 kb gene (Cas9), with equivalent output quality (see [benchmarks](#benchmark-results) below).
-- **Easier to install and extend** — `pip install biopython` is the only dependency. No Fortran compiler needed.
+- **Dramatically faster on large genes** — 12 seconds vs. 211 seconds for a 4.1 kb gene (SpyCas9), with equivalent output quality (see [benchmarks](#benchmark-results) below).
 - **Scriptable** — JSON output for integration with downstream pipelines.
+
+This **Python** reimplementation also offers a few disadvantages:
+
+- **More limited scope** — Only optimizes DNA sequences, will not accept protein sequences, or degenerate bases. For codon optimization prior to using this tool, I recommend [DnaChisel] (https://github.com/edinburgh-genome-foundry/dnachisel) with the UniquifyAllKmers specification set to 12 (along with other desired specifications).
 
 ## Installation
 
@@ -26,21 +26,6 @@ conda env create -f environment.yml
 conda activate dnaworks
 ```
 
-**With pip**:
-```bash
-pip install .
-```
-
-**For development** (editable install):
-```bash
-pip install -e .
-```
-
-To run the benchmark comparison, install optional dependencies:
-```bash
-pip install ".[benchmark]"
-```
-
 ## Usage
 
 ```bash
@@ -51,7 +36,7 @@ python cli.py my_gene.fa
 python cli.py ATGAAACCC...TAA
 
 # Custom parameters
-python cli.py my_gene.fa --tm 60 --length 50 --tm-tolerance 1.5
+python cli.py my_gene.fa --tm 62 --length 60 --tm-tolerance 2.0
 
 # JSON output for scripting
 python cli.py my_gene.fa --json
@@ -112,18 +97,17 @@ Oligos (18):
 
 ## How it works
 
-The algorithm follows the same core logic as the original DNAWorks:
+The script follows the same core logic as the original DNAWorks:
 
 1. **Binary search for overlap boundaries** — for each overlap junction, a binary search (ForOlap / RevOlap) extends the overlap region until its Tm hits the target.
 2. **Shift-based optimization** — tries up to 1,000 different starting offsets and keeps the arrangement with the lowest composite score.
 3. **Multi-objective scoring** — each arrangement is scored on Tm deviation, mispriming potential (all-vs-all 3' tip scanning), direct and inverted repeats, GC/AT content stretches, and oligo length.
-4. **Odd-overlap constraint** — assembly PCR requires an odd number of overlaps; arrangements with even overlap counts are rejected.
 
 For difficult sequences, the `--random-length` flag enables a simulated annealing optimizer that varies oligo lengths to explore different overlap placements.
 
 ## Benchmark results
 
-Benchmarked against the original Fortran DNAWorks across 10 genes spanning 330–4,107 bp and 35–58% GC content. Both tools were configured with identical targets (62°C Tm, 60 nt oligos, ±2°C tolerance). Each tool's overlaps are evaluated using its own Tm method for a fair comparison: Breslauer for `dnaworks_py`, SantaLucia/HyTher for the Fortran.
+I benchmarked this against the original Fortran DNAWorks across 10 genes spanning 330–4,107 bp and 35–58% GC content. Both tools were run with identical settings (62°C Tm, 60 nt oligos, ±2°C tolerance). Each tool's overlaps are evaluated using its own Tm method for a fair comparison: Breslauer for `dnaworks_py`, SantaLucia/HyTher for the original.
 
 ### Both tools produce the same number of oligos
 
