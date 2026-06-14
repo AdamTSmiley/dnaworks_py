@@ -153,16 +153,19 @@ def _find_potential_misprimes(
             win_j = seq[j : j + mp_len]
 
             # Direct comparison (same strand)
-            if _homologous(win_i, win_j, max_mm):
+            # Exclude i==j: a sequence trivially matches itself, not a real misprime.
+            # (The Fortran's HMatchNum returns FALSE when pos1==pos2 for dir=1.)
+            if i != j and _homologous(win_i, win_j, max_mm):
                 # Type 1: sense 3' tips match
-                if i != j and win_i[tip_offset:] == win_j[tip_offset:]:
+                if win_i[tip_offset:] == win_j[tip_offset:]:
                     results.append(PotentialMisprime(i, j, 1))
                 # Type 4: antisense 3' tips match (first mp_tip nt)
                 if win_i[:mp_tip] == win_j[:mp_tip]:
                     results.append(PotentialMisprime(i, j, 4))
 
             # Inverse comparison (complementary strands)
-            # For inverse, compare win_i to reverse complement of win_j
+            # i==j IS allowed here: detects palindromic sequences that could
+            # self-prime by forming hairpins.
             rc_win_j = reverse_complement(win_j)
             if _homologous(win_i, rc_win_j, max_mm):
                 # Type 2: antisense 3' tip at i matches RC tip at j
@@ -198,9 +201,9 @@ def _find_repeats(seq: str, rc: str, n: int, rep_len: int) -> list[float]:
     for i in range(n - rep_len + 1):
         seed_i = seq[i : i + rep_len]
 
-        for j in range(i + 1, n - rep_len + 1):
-            # Direct repeat
-            if seq[j : j + rep_len] == seed_i:
+        for j in range(i, n - rep_len + 1):
+            # Direct repeat: exclude i==j (a sequence is trivially identical to itself)
+            if i != j and seq[j : j + rep_len] == seed_i:
                 key = (i, j, 1)
                 if key not in found:
                     found.add(key)
@@ -211,7 +214,8 @@ def _find_repeats(seq: str, rc: str, n: int, rep_len: int) -> list[float]:
                         if start2 + k < n:
                             scores[start2 + k] += 1
 
-            # Inverted repeat (compare to reverse complement)
+            # Inverted repeat: i==j IS included (palindromic sequences like
+            # restriction sites can form hairpins during assembly PCR)
             rc_seed_j = reverse_complement(seq[j : j + rep_len])
             if rc_seed_j == seed_i:
                 key = (i, j, -1)
