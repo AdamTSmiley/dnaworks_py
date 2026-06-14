@@ -61,8 +61,16 @@ def main():
         help="No gaps between overlaps (minimize oligo length)",
     )
     parser.add_argument(
+        "--random-length", action="store_true",
+        help="Randomize oligo lengths and optimize with simulated annealing",
+    )
+    parser.add_argument(
         "--shifts", type=int, default=1000,
         help="Number of starting offsets to try (default: 1000)",
+    )
+    parser.add_argument(
+        "--seed", type=int, default=None,
+        help="Random seed for reproducibility (only with --random-length)",
     )
     parser.add_argument(
         "--json", action="store_true",
@@ -99,12 +107,23 @@ def main():
 
     start = time.time()
 
-    result = design_oligos(
-        seq, config,
-        oligo_length=args.length,
-        nogaps=args.nogaps,
-        max_shifts=args.shifts,
-    )
+    if args.random_length:
+        from optimizer import design_oligos_sa
+        result = design_oligos_sa(
+            seq, config,
+            oligo_length=args.length,
+            nogaps=args.nogaps,
+            max_shifts=args.shifts,
+            seed=args.seed,
+            verbose=not args.quiet,
+        )
+    else:
+        result = design_oligos(
+            seq, config,
+            oligo_length=args.length,
+            nogaps=args.nogaps,
+            max_shifts=args.shifts,
+        )
 
     elapsed = time.time() - start
 
